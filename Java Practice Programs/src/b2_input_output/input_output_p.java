@@ -21,6 +21,7 @@ package b2_input_output;
 	        System.out.print("Enter a double value: ");
 	        double doubleValue = scanner.nextDouble();
 
+	        
 	        // Take input for char
 	        System.out.print("Enter a char value: ");
 	        char charValue = scanner.next().charAt(0);
