@@ -6,13 +6,10 @@ package b2_input_output;
 	    public static void main(String[] args) {
 	        Scanner scanner = new Scanner(System.in);
 
-	      
-
 	        // Take input for int
 	        System.out.print("Enter an int value: ");
 	        int intValue = scanner.nextInt();
 
-	       
 	        // Take input for float
 	        System.out.print("Enter a float value: ");
 	        float floatValue = scanner.nextFloat();
@@ -20,8 +17,7 @@ package b2_input_output;
 	        // Take input for double
 	        System.out.print("Enter a double value: ");
 	        double doubleValue = scanner.nextDouble();
-
-	        
+        
 	        // Take input for char
 	        System.out.print("Enter a char value: ");
 	        char charValue = scanner.next().charAt(0);

@@ -17,7 +17,6 @@ public class Hello_World_Program_Breakdown {
  */
 		System.out.println("Hello, World!");
 /* 
- * 
  * System: A built-in class from java.lang package.
  * out: A static member of System class, representing the standard output stream.
  * println(): Method used to print the message followed by a newline.
