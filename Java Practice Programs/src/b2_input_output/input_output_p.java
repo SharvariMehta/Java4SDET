@@ -10,6 +10,7 @@ package b2_input_output;
 	        System.out.print("Enter an int value: ");
 	        int intValue = scanner.nextInt();
 
+	        
 	        // Take input for float
 	        System.out.print("Enter a float value: ");
 	        float floatValue = scanner.nextFloat();
