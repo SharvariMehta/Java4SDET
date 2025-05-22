@@ -1,4 +1,4 @@
-package A01_java_fundamentals;
+package ex_01_Java_basics;
 
 // This is a simple Java program that prints "Hello, World!" to the console.
 
@@ -12,7 +12,7 @@ public class HelloWorld {
         // 'main' - Entry point of the program.
         // 'String[] args' - Accepts command-line arguments as a string array.
 
-        System.out.println("Hello, World!");
+        System.out.println("Hello Java!");
         // 'System' - A built-in class that provides access to system-level features.
         // 'out' - A static member of System, represents standard output (console).
         // 'println' - Prints the string and moves to the next line.
