@@ -17,7 +17,7 @@ The code is neatly organized into topic-based folders for easy navigation:
 
 | Main Topics | Sub Topics |
 | --- | --- |
-| 01_java_fundamentals | Hello World Program Breakdown  |
+| ex_01_Java_basics | Hello World Program Breakdown  |
 | 02_input_output | Using Scanner, BufferedReader, and System.out |
 | 03_datatypes | Data Types(Primitive & Non-Primitive), Type Casting(Implicit and Explicit) |
 | 04_variables_and_operators | Variables(Local, instance, static), Operators(Arithmetic, Relational, Logical, Bitwise) |
