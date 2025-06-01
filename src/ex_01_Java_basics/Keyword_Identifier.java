@@ -15,7 +15,7 @@ package ex_01_Java_basics;
 // 'public' is a keyword: it defines the access level (visible to all)
 // 'class' is a keyword: it is used to declare a class
 // 'KeywordIdentifierDemo' is an identifier: name of the class (user-defined)
-public class KeywordIdentifierDemo {
+public class Keyword_Identifier {
 
     // 'public', 'static', and 'void' are keywords:
     // - 'public': access modifier
