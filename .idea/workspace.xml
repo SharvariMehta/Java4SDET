@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Adding demo code for Keywords and identifiers">
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Adding demo code for keywords and identifiers">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex_01_Java_basics/KeywordIdentifierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Java_basics/KeywordIdentifierDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_datatypes_Typecasting/data_types.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_datatypes_variables/data_types.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +56,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Sharvari Mehta/IdeaProjects/Java4SDET/src/Main.java&quot;
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Sharvari Mehta/IdeaProjects/Java4SDET/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
   }
 }</component>
   <component name="RunManager">
@@ -110,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748368814936</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adding demo code for keywords and identifiers">
+      <option name="closed" value="true" />
+      <created>1748368974573</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1748368974573</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +140,7 @@
     <MESSAGE value="Updating Hello World to Hello Java" />
     <MESSAGE value="Updating ex_02_datatypes_Typecasting" />
     <MESSAGE value="Adding demo code for Keywords and identifiers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding demo code for Keywords and identifiers" />
+    <MESSAGE value="Adding demo code for keywords and identifiers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding demo code for keywords and identifiers" />
   </component>
 </project>
