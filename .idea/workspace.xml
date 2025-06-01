@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Adding demo code for datatypes">
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_basics/Input_Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_datatypes_variables/Non_Primitive_Datatypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_datatypes_variables/Final_Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_datatypes_variables/Variables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_basics/KeywordIdentifierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Java_basics/Keyword_Identifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_datatypes_variables/Primitive_data_types.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_datatypes_variables/Primitive_data_types.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_datatypes_variables/Non_Primitive_Datatypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_datatypes_variables/Non_Primitive_Datatypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +51,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Final_Keyword (1).executor": "Run",
+    "Application.Final_Keyword (2).executor": "Run",
+    "Application.Final_Keyword.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.Non_Primitive_Datatypes.executor": "Run",
     "Application.Primitive_data_types.executor": "Run",
+    "Application.Variables.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -63,16 +66,61 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Primitive_data_types">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_01_Java_basics.HelloWorld" />
+  <component name="RunManager" selected="Application.Final_Keyword">
+    <configuration name="Final_Keyword (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_02_datatypes_variables.Final_Keyword" />
       <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_02_datatypes_variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Primitive_data_types" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_02_datatypes_variables.Primitive_data_types" />
+    <configuration name="Final_Keyword (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_02_datatypes_variables.Final_Keyword" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_02_datatypes_variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Final_Keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_02_datatypes_variables.Final_Keyword" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_02_datatypes_variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Non_Primitive_Datatypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_02_datatypes_variables.Non_Primitive_Datatypes" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_02_datatypes_variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_02_datatypes_variables.Variables" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Primitive_data_types" />
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.Final_Keyword" />
+        <item itemvalue="Application.Final_Keyword (2)" />
+        <item itemvalue="Application.Final_Keyword (1)" />
+        <item itemvalue="Application.Variables" />
+        <item itemvalue="Application.Non_Primitive_Datatypes" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748763665889</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Adding demo code for datatypes">
+      <option name="closed" value="true" />
+      <created>1748764358173</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1748764358173</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
