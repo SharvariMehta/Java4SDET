@@ -19,7 +19,7 @@ public class Non_Primitive_Datatypes {
         }
     }
         public static void main(String[] args) {
-
+            System.out.println("---- Non-Primitive Data Types ----");
             // ----- 1. String -----
             String message = "Hello, Java!";
             System.out.println("String example: " + message);
@@ -41,5 +41,14 @@ public class Non_Primitive_Datatypes {
             anotherDog.makeSound(); // polymorphism in action
         }
     }
+
+/*
+OUTPUT:
+---- Non-Primitive Data Types ----
+String example: Hello, Java!
+Array elements: 10 20 30 40 50
+Buddy says: Woof!
+Charlie says: Woof!
+ */
 
 

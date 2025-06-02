@@ -30,10 +30,18 @@ public class Primitive_data_types {
         System.out.println("double: " + doubleVal);
         System.out.println("char: " + charVal);
         System.out.println("boolean: " + boolVal);
-
-
-
     }
-
-
 }
+
+/*
+OUTPUT:
+---- Primitive Data Types ----
+byte: 127
+short: 32000
+int: 100000
+long: 10000000000
+float: 3.14
+double: 3.1415926535
+char: A
+boolean: true
+ */

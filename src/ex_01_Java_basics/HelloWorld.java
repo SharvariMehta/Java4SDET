@@ -18,6 +18,9 @@ public class HelloWorld {
         // 'println' - Prints the string and moves to the next line.
         // "Hello, World!" - The string to be printed.
     }
-
 } // End of class
 
+/*
+OUTPUT:
+Hello Java!
+ */

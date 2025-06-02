@@ -40,4 +40,7 @@ public class Keyword_Identifier {
     }
 }
 
-
+/*
+OUTPUT:
+Hello, Java! Number is: 10
+ */
