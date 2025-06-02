@@ -40,6 +40,9 @@ The code is neatly organized into topic-based folders for easy navigation:
 | ex_21_exception_handling        | Try-catch blocks, finally, Checked vs Unchecked, throw and throws                                                               |
 | ex_22_generics                  | Class, Method, Interface, Bounded Types, Wildcards, Collections with Generics :List<String>                                     | 
 | ex_23_multithreading            | Class, Runnable interface, Anonymous inner classes. Lifecycle, Methods, Priorities, Synchronization, Inter-thread Communication |
+| 24_java_codes_0_Star            | Star pattern printing Java codes                                                                                                |
+| 25_java_codes_1_Normal          | Commonly asked Java coding questions                                                                                            |
+| 26_java_codes_2_Tricky          | Tricky Java coding questions                                                                                                    |
 
 ## 🔜 Whats's Next? 
 - /basic_datastructures/     → Hashing (HashMap, HashSet), Heaps
@@ -71,4 +74,4 @@ I believe consistent practice is the key to mastery.
 ## 🙋‍♂️ Let's Connect
 
 Feel free to explore, fork, or suggest improvements!  
-📧 [sharvarimehta97@gmail.com] | 💼 [linkedin.com/in/sharvarimehta] 
+📧 [sharvarimehta97@gmail.com] | 💼 [linkedin.com/in/sharvarimehta]

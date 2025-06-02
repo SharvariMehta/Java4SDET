@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Adding demo code for datatypes">
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_basics/OutputUsingPrintTypes.java" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Adding demo code for Input/Output">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_basics/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Java_basics/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_basics/Input_Output.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Java_basics/InputUsingScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_basics/Keyword_Identifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Java_basics/Keyword_Identifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_datatypes_variables/Final_Keyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_datatypes_variables/Final_Keyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_datatypes_variables/Non_Primitive_Datatypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_datatypes_variables/Non_Primitive_Datatypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_datatypes_variables/Primitive_data_types.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_datatypes_variables/Primitive_data_types.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_datatypes_variables/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_datatypes_variables/Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +223,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748764358173</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Adding demo code for Input/Output">
+      <option name="closed" value="true" />
+      <created>1748852292094</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1748852292094</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Adding demo code for Input/Output">
+      <option name="closed" value="true" />
+      <created>1748852355986</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1748852355986</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -251,6 +259,7 @@
     <MESSAGE value="Adding demo code for Keywords and identifiers" />
     <MESSAGE value="Adding demo code for keywords and identifiers" />
     <MESSAGE value="Adding demo code for datatypes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding demo code for datatypes" />
+    <MESSAGE value="Adding demo code for Input/Output" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding demo code for Input/Output" />
   </component>
 </project>
