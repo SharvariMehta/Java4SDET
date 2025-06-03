@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Adding demo code for Input/Output">
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="updating README.md">
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_operators/Literals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -55,6 +56,7 @@
     "Application.HelloWorld.executor": "Run",
     "Application.InputUsingScanner.executor": "Run",
     "Application.Keyword_Identifier.executor": "Run",
+    "Application.Literals.executor": "Run",
     "Application.Non_Primitive_Datatypes.executor": "Run",
     "Application.OutputUsingPrintTypes.executor": "Run",
     "Application.Primitive_data_types.executor": "Run",
@@ -67,7 +69,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Variables">
+  <component name="RunManager" selected="Application.Literals">
     <configuration name="Final_Keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_02_datatypes_variables.Final_Keyword" />
       <module name="Java4SDET" />
@@ -81,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_01_Java_basics.HelloWorld" />
+    <configuration name="Literals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_operators.Literals" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_01_Java_basics.*" />
+          <option name="PATTERN" value="ex_03_Typecasting_and_operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Literals" />
         <item itemvalue="Application.Variables" />
         <item itemvalue="Application.Non_Primitive_Datatypes" />
         <item itemvalue="Application.Primitive_data_types" />
         <item itemvalue="Application.Final_Keyword" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +241,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748852355986</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="updating README.md">
+      <option name="closed" value="true" />
+      <created>1748853056181</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1748853056181</updated>
+    </task>
+    <task id="LOCAL-00013" summary="updating README.md">
+      <option name="closed" value="true" />
+      <created>1748853141674</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1748853141674</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,6 +278,7 @@
     <MESSAGE value="Adding demo code for keywords and identifiers" />
     <MESSAGE value="Adding demo code for datatypes" />
     <MESSAGE value="Adding demo code for Input/Output" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding demo code for Input/Output" />
+    <MESSAGE value="updating README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating README.md" />
   </component>
 </project>
