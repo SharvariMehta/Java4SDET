@@ -15,6 +15,8 @@ public class Literals {
         char back_space = '\b';         // Presses Backspace for 1 character
         char carriage_return = '\r';    // Deletes First word
 
+        char smiley = '\u1f60';         // Smiley using ASCII value
+
         System.out.println( "Integer Literal : " +age);
         System.out.println( "Floating Literal : " +pi);
         System.out.println( "Boolean Literal : " +b);
@@ -27,5 +29,6 @@ public class Literals {
         System.out.println("back_space : "+"Sharvari"+back_space+"Mehta");
         System.out.println("carriage_return : "+"Sharvari"+carriage_return+"Mehta");
 
+        System.out.println(smiley);
     }
 }
