@@ -5,12 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="updating README.md">
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_operators/Ternary_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_operators/Unary_Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_25_java_codes_1_Normal/PrintTableof9Using_Printf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Arithmetic_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Assignment_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Bitwise_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Logical_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Relational_Operators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_03_Typecasting_and_operators/Literals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_operators/Literals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_basics/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_basics/InputUsingScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/InputUsingScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_basics/Keyword_Identifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/Keyword_Identifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_basics/OutputUsingPrintTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/OutputUsingPrintTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_datatypes_variables/Final_Keyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Datatypes_Variables/Final_Keyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_datatypes_variables/Non_Primitive_Datatypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Datatypes_Variables/Non_Primitive_Datatypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_datatypes_variables/Primitive_data_types.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Datatypes_Variables/Primitive_data_types.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_datatypes_variables/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Datatypes_Variables/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Typecasting_and_operators/Literals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Literals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Typecasting_and_operators/Ternary_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Ternary_Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Typecasting_and_operators/Unary_Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Unary_Operators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +65,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Arithmetic_Operators.executor": "Run",
+    "Application.Assignment_Operators.executor": "Run",
+    "Application.Bitwise_Operators.executor": "Run",
     "Application.Final_Keyword (1).executor": "Run",
     "Application.Final_Keyword (2).executor": "Run",
     "Application.Final_Keyword.executor": "Run",
@@ -60,10 +75,13 @@
     "Application.InputUsingScanner.executor": "Run",
     "Application.Keyword_Identifier.executor": "Run",
     "Application.Literals.executor": "Run",
+    "Application.Logical_Operators.executor": "Run",
     "Application.Non_Primitive_Datatypes.executor": "Run",
     "Application.OutputUsingPrintTypes.executor": "Run",
     "Application.Primitive_data_types.executor": "Run",
     "Application.PrintTableof9Using_Printf.executor": "Run",
+    "Application.Relational_Operators.executor": "Run",
+    "Application.Ternary_Operator.executor": "Run",
     "Application.Unary_Operators.executor": "Run",
     "Application.Variables.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -74,13 +92,13 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ternary_Operator">
-    <configuration name="Literals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_operators.Literals" />
+  <component name="RunManager" selected="Application.Bitwise_Operators">
+    <configuration name="Arithmetic_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.Arithmetic_Operators" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_03_Typecasting_and_operators.*" />
+          <option name="PATTERN" value="ex_03_Typecasting_and_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintTableof9Using_Printf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_25_java_codes_1_Normal.PrintTableof9Using_Printf" />
+    <configuration name="Assignment_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.Assignment_Operators" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_25_java_codes_1_Normal.*" />
+          <option name="PATTERN" value="ex_03_Typecasting_and_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ternary_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_operators.Ternary_Operator" />
+    <configuration name="Bitwise_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.Bitwise_Operators" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_03_Typecasting_and_operators.*" />
+          <option name="PATTERN" value="ex_03_Typecasting_and_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unary_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_operators.Unary_Operators" />
+    <configuration name="Logical_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.Logical_Operators" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_03_Typecasting_and_operators.*" />
+          <option name="PATTERN" value="ex_03_Typecasting_and_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_02_datatypes_variables.Variables" />
+    <configuration name="Relational_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.Relational_Operators" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_02_datatypes_variables.*" />
+          <option name="PATTERN" value="ex_03_Typecasting_and_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ternary_Operator" />
-        <item itemvalue="Application.Unary_Operators" />
-        <item itemvalue="Application.PrintTableof9Using_Printf" />
-        <item itemvalue="Application.Literals" />
-        <item itemvalue="Application.Variables" />
+        <item itemvalue="Application.Bitwise_Operators" />
+        <item itemvalue="Application.Assignment_Operators" />
+        <item itemvalue="Application.Relational_Operators" />
+        <item itemvalue="Application.Logical_Operators" />
+        <item itemvalue="Application.Arithmetic_Operators" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748922579142</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="updating README.md">
+      <option name="closed" value="true" />
+      <created>1748961352443</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1748961352443</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

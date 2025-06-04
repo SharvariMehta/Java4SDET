@@ -1,4 +1,4 @@
-package ex_01_Java_basics;
+package ex_01_Java_Basics;
 
 import java.util.Scanner; // Import the Scanner class
 

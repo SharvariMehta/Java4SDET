@@ -1,4 +1,4 @@
-package ex_02_datatypes_variables;
+package ex_02_Datatypes_Variables;
 
 public class Variables {
 

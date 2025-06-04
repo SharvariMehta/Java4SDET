@@ -1,6 +1,4 @@
-package ex_02_datatypes_variables;
-
-import java.security.spec.RSAOtherPrimeInfo;
+package ex_02_Datatypes_Variables;
 
 public class Final_Keyword {
     public static void main(String[] args) {

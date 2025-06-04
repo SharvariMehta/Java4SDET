@@ -1,4 +1,4 @@
-package ex_01_Java_basics;
+package ex_01_Java_Basics;
 
 // This is a simple Java program that prints "Hello, World!" to the console.
 

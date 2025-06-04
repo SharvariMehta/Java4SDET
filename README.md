@@ -17,8 +17,8 @@ The code is neatly organized into topic-based folders for easy navigation:
 
 | Main Topics                    | Sub Topics                                                                                                                      |
 |--------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| ex_01_Java_basics              | Hello World Program Breakdown, Input using Using Scanner, Output using printf, println and print, Keywords and Identifiers      |
-| ex_02_datatypes_variables      | Data Types(Primitive & Non-Primitive), Variables(Local, instance, static), Final Keyword                                        |
+| ex_01_Java_Basics              | Hello World Program Breakdown, Input using Using Scanner, Output using printf, println and print, Keywords and Identifiers      |
+| ex_02_Datatypes_Variables      | Data Types(Primitive & Non-Primitive), Variables(Local, instance, static), Final Keyword                                        |
 | ex_03_Typecasting_Operators    | Literals, Type Casting(Implicit and Explicit), Operators(Unary, Binary, Ternary)                                                |
 | ex_04_control_flow             | Conditional(if, if-else, switch), Loops(for, while, do-while), Loop Control(break, continue, return)                            |
 | ex_05_arrays                   | Declaration, Initialization(static & dynamic), Types (1D/2D/MD), Problems: Max/min, reverse, duplicates, rotation, Sort         |

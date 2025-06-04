@@ -1,4 +1,4 @@
-package ex_01_Java_basics;
+package ex_01_Java_Basics;
 // This program demonstrates the difference between keywords and identifiers in Java
 
 /*

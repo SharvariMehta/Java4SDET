@@ -1,4 +1,4 @@
-package ex_03_Typecasting_and_operators;
+package ex_03_Typecasting_and_Operators;
 
 public class Unary_Operators {
     public static void main(String[] args) {
