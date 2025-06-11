@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="updating Math Class Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_25_java_codes_1_Normal/Expression_MathFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Explicit_TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Implicit_TypeCasting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_25_java_codes_1_Normal/Operators_Concatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_25_java_codes_1_Normal/Operators_Concatenation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +53,13 @@
     "Application.Arithmetic_Operators.executor": "Run",
     "Application.Assignment_Operators.executor": "Run",
     "Application.Bitwise_Operators.executor": "Run",
+    "Application.Explicit_TypeCasting.executor": "Run",
     "Application.Expression_MathFunction.executor": "Run",
     "Application.Final_Keyword (1).executor": "Run",
     "Application.Final_Keyword (2).executor": "Run",
     "Application.Final_Keyword.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.Implicit_TypeCasting.executor": "Run",
     "Application.InputUsingScanner.executor": "Run",
     "Application.Keyword_Identifier.executor": "Run",
     "Application.Literals.executor": "Run",
@@ -81,9 +83,9 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Expression_MathFunction">
-    <configuration name="Bitwise_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.Bitwise_Operators" />
+  <component name="RunManager" selected="Application.Explicit_TypeCasting">
+    <configuration name="Explicit_TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.Explicit_TypeCasting" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.Math" />
+    <configuration name="Implicit_TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.Implicit_TypeCasting" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -149,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Explicit_TypeCasting" />
+        <item itemvalue="Application.Implicit_TypeCasting" />
         <item itemvalue="Application.Expression_MathFunction" />
         <item itemvalue="Application.Operators_Concatenation" />
         <item itemvalue="Application.Math_Class" />
-        <item itemvalue="Application.Math" />
-        <item itemvalue="Application.Bitwise_Operators" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749577418547</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="updating Math Class Code">
+      <option name="closed" value="true" />
+      <created>1749623341172</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1749623341172</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
