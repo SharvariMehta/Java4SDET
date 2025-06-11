@@ -9,7 +9,11 @@ public class Operators_Concatenation {
         System.out.println(a + b + FirstName + Lastname);   // Performs Addition Function
         System.out.println(FirstName + Lastname + a + b);   // Doesn't perform Addition Function
         System.out.println(FirstName + Lastname + (a + b)); // Performs Addition Function
-
     }
-
 }
+/*
+OUTPUT:
+30SharvariMehta
+SharvariMehta1020
+SharvariMehta30
+ */

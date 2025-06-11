@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="updating Operators Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Math_Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_25_java_codes_1_Normal/Operators_Concatenation.java" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="updating Math Class Code">
+      <change afterPath="$PROJECT_DIR$/src/ex_25_java_codes_1_Normal/Expression_MathFunction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_25_java_codes_1_Normal/Operators_Concatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_25_java_codes_1_Normal/Operators_Concatenation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,7 @@
     "Application.Arithmetic_Operators.executor": "Run",
     "Application.Assignment_Operators.executor": "Run",
     "Application.Bitwise_Operators.executor": "Run",
+    "Application.Expression_MathFunction.executor": "Run",
     "Application.Final_Keyword (1).executor": "Run",
     "Application.Final_Keyword (2).executor": "Run",
     "Application.Final_Keyword.executor": "Run",
@@ -80,9 +81,9 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Math_Class">
-    <configuration name="Assignment_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.Assignment_Operators" />
+  <component name="RunManager" selected="Application.Expression_MathFunction">
+    <configuration name="Bitwise_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.Bitwise_Operators" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -94,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bitwise_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.Bitwise_Operators" />
+    <configuration name="Expression_MathFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25_java_codes_1_Normal.Expression_MathFunction" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_03_Typecasting_and_Operators.*" />
+          <option name="PATTERN" value="ex_25_java_codes_1_Normal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Expression_MathFunction" />
+        <item itemvalue="Application.Operators_Concatenation" />
         <item itemvalue="Application.Math_Class" />
         <item itemvalue="Application.Math" />
-        <item itemvalue="Application.Operators_Concatenation" />
         <item itemvalue="Application.Bitwise_Operators" />
-        <item itemvalue="Application.Assignment_Operators" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749045835059</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="updating Math Class Code">
+      <option name="closed" value="true" />
+      <created>1749577418547</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1749577418547</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -315,6 +324,7 @@
     <MESSAGE value="Adding demo code for Input/Output" />
     <MESSAGE value="updating README.md" />
     <MESSAGE value="updating Operators Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating Operators Code" />
+    <MESSAGE value="updating Math Class Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating Math Class Code" />
   </component>
 </project>
