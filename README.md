@@ -20,9 +20,9 @@ The code is neatly organized into topic-based folders for easy navigation:
 | ex_01_Java_Basics              | Hello World Program Breakdown, Input using Using Scanner, Output using printf, println and print, Keywords and Identifiers      |
 | ex_02_Datatypes_Variables      | Data Types(Primitive & Non-Primitive), Variables(Local, instance, static), Final Keyword                                        |
 | ex_03_Typecasting_Operators    | Literals, Type Casting(Implicit and Explicit), Operators(Unary, Binary, Ternary)                                                |
-| ex_04_control_flow             | Conditional(if, if-else, switch), Loops(for, while, do-while), Loop Control(break, continue, return)                            |
-| ex_05_arrays                   | Declaration, Initialization(static & dynamic), Types (1D/2D/MD), Problems: Max/min, reverse, duplicates, rotation, Sort         |
-| ex_06_string_basics            | Declaration, Initialization, Immutability, memory (Heap, SCP)                                                                   |
+| ex_04_Control_Flow             | Conditional(if, if-else, switch), Loops(for, while, do-while), Loop Control(break, continue, return)                            |
+| ex_05_Arrays                   | Declaration, Initialization(static & dynamic), Types (1D/2D/MD), Problems: Max/min, reverse, duplicates, rotation, Sort         |
+| ex_06_String_Basics            | Declaration, Initialization, Immutability, memory (Heap, SCP)                                                                   |
 | ex_07_string_operations        | length, charAt, indexOf, lastIndexOf, substring, replace, contains, equals, compareTo, case conversion, trim, split             |
 | ex_08_string_concatenation     | + operator, concat(), StringBuilder, StringBuffer, BufferedReader                                                               |
 | ex_09_string_conversion        | Conversions to/from char array, int, float, boolean using valueOf, parseInt, toString                                           |
@@ -41,7 +41,7 @@ The code is neatly organized into topic-based folders for easy navigation:
 | ex_22_generics                 | Class, Method, Interface, Bounded Types, Wildcards, Collections with Generics :List<String>                                     | 
 | ex_23_multithreading           | Class, Runnable interface, Anonymous inner classes. Lifecycle, Methods, Priorities, Synchronization, Inter-thread Communication |
 | ex_24_java_codes_0_Star        | Star pattern printing Java codes                                                                                                |
-| ex_25_java_codes_1_Normal      | Common Java Coding Questions                                                                                                    |
+| ex_25_Java_Codes_1_Normal      | Common Java Coding Questions                                                                                                    |
 | ex_26_java_codes_2_Tricky      | Tricky Java Coding Questions                                                                                                    |
 
 ## 🔜 Whats Next? 

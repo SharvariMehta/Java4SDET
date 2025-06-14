@@ -2,10 +2,10 @@ package ex_03_Typecasting_and_Operators;
 
 public class Ternary_Operator {
     public static void main(String[] args) {
-        int number = 7;
+        int age = 27;
 
         // Using ternary operator to check if number is even or odd
-        String result = (number % 2 == 0) ? "Even" : "Odd";
+        String CanVote = (age > 18) ? "Yes" : "No";
         // Format : (condition) ? value_if_true : value_if_false;
 
         // number % 2 == 0 → checks if the number is divisible by 2 (i.e., even).
@@ -13,10 +13,10 @@ public class Ternary_Operator {
         // If false, assigns "Odd" to result.
 
         // Print the result
-        System.out.println("The number " + number + " is " + result);
+        System.out.println("Can you vote ? " + CanVote);
     }
 }
 /*
 OUTPUT:
-The number 7 is Odd
+Can you vote ? Yes
  */

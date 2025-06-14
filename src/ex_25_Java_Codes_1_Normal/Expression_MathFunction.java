@@ -1,4 +1,4 @@
-package ex_25_java_codes_1_Normal;
+package ex_25_Java_Codes_1_Normal;
 
 import java.text.DecimalFormat;
 import static java.lang.Math.*;

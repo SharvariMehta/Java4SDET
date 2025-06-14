@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="updating Math Class Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Explicit_TypeCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Implicit_TypeCasting.java" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="updating TypeCasting Code">
+      <change afterPath="$PROJECT_DIR$/src/ex_25_java_codes_1_Normal/Age_Classification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25_java_codes_1_Normal/Grade_Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Ternary_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Ternary_Operator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Age_Classification.executor": "Run",
     "Application.Arithmetic_Operators.executor": "Run",
     "Application.Assignment_Operators.executor": "Run",
     "Application.Bitwise_Operators.executor": "Run",
@@ -58,6 +60,7 @@
     "Application.Final_Keyword (1).executor": "Run",
     "Application.Final_Keyword (2).executor": "Run",
     "Application.Final_Keyword.executor": "Run",
+    "Application.Grade_Calculator.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.Implicit_TypeCasting.executor": "Run",
     "Application.InputUsingScanner.executor": "Run",
@@ -83,7 +86,20 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Explicit_TypeCasting">
+  <component name="RunManager" selected="Application.Age_Classification">
+    <configuration name="Age_Classification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25_Java_Codes_1_Normal.Age_Classification" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_25_Java_Codes_1_Normal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Explicit_TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.Explicit_TypeCasting" />
       <module name="Java4SDET" />
@@ -97,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Expression_MathFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_25_java_codes_1_Normal.Expression_MathFunction" />
+    <configuration name="Grade_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25_Java_Codes_1_Normal.Grade_Calculator" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_25_java_codes_1_Normal.*" />
+          <option name="PATTERN" value="ex_25_Java_Codes_1_Normal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,8 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Math_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.Math_Class" />
+    <configuration name="Ternary_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.Ternary_Operator" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -136,26 +152,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators_Concatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_25_java_codes_1_Normal.Operators_Concatenation" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_25_java_codes_1_Normal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Age_Classification" />
+        <item itemvalue="Application.Grade_Calculator" />
+        <item itemvalue="Application.Ternary_Operator" />
         <item itemvalue="Application.Explicit_TypeCasting" />
         <item itemvalue="Application.Implicit_TypeCasting" />
-        <item itemvalue="Application.Expression_MathFunction" />
-        <item itemvalue="Application.Operators_Concatenation" />
-        <item itemvalue="Application.Math_Class" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +314,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749623341172</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="updating TypeCasting Code">
+      <option name="closed" value="true" />
+      <created>1749665118585</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1749665118585</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -335,6 +346,7 @@
     <MESSAGE value="updating README.md" />
     <MESSAGE value="updating Operators Code" />
     <MESSAGE value="updating Math Class Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating Math Class Code" />
+    <MESSAGE value="updating TypeCasting Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating TypeCasting Code" />
   </component>
 </project>

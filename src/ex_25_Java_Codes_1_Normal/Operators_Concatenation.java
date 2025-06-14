@@ -1,4 +1,4 @@
-package ex_25_java_codes_1_Normal;
+package ex_25_Java_Codes_1_Normal;
 
 public class Operators_Concatenation {
     public static void main(String[] args) {
