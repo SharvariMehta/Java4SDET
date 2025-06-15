@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="updating TypeCasting Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_25_java_codes_1_Normal/Age_Classification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_25_java_codes_1_Normal/Grade_Calculator.java" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="updating Ternary Operator Code">
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/InputUsingConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25_Java_Codes_1_Normal/Even_Odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25_Java_Codes_1_Normal/Max_ThreeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Ternary_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Ternary_Operator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,7 @@
     "Application.Arithmetic_Operators.executor": "Run",
     "Application.Assignment_Operators.executor": "Run",
     "Application.Bitwise_Operators.executor": "Run",
+    "Application.Even_Odd.executor": "Run",
     "Application.Explicit_TypeCasting.executor": "Run",
     "Application.Expression_MathFunction.executor": "Run",
     "Application.Final_Keyword (1).executor": "Run",
@@ -63,12 +64,14 @@
     "Application.Grade_Calculator.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.Implicit_TypeCasting.executor": "Run",
+    "Application.InputUsingConsole.executor": "Run",
     "Application.InputUsingScanner.executor": "Run",
     "Application.Keyword_Identifier.executor": "Run",
     "Application.Literals.executor": "Run",
     "Application.Logical_Operators.executor": "Run",
     "Application.Math.executor": "Run",
     "Application.Math_Class.executor": "Run",
+    "Application.Max_ThreeNumbers.executor": "Run",
     "Application.Non_Primitive_Datatypes.executor": "Run",
     "Application.Operators_Concatenation.executor": "Run",
     "Application.OutputUsingPrintTypes.executor": "Run",
@@ -86,7 +89,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Age_Classification">
+  <component name="RunManager" selected="Application.InputUsingConsole">
     <configuration name="Age_Classification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_25_Java_Codes_1_Normal.Age_Classification" />
       <module name="Java4SDET" />
@@ -100,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Explicit_TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.Explicit_TypeCasting" />
+    <configuration name="Even_Odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25_Java_Codes_1_Normal.Even_Odd" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_03_Typecasting_and_Operators.*" />
+          <option name="PATTERN" value="ex_25_Java_Codes_1_Normal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Implicit_TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.Implicit_TypeCasting" />
+    <configuration name="InputUsingConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basics.InputUsingConsole" />
       <module name="Java4SDET" />
+      <option name="PROGRAM_PARAMETERS" value="65" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_03_Typecasting_and_Operators.*" />
+          <option name="PATTERN" value="ex_01_Java_Basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ternary_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.Ternary_Operator" />
+    <configuration name="Max_ThreeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25_Java_Codes_1_Normal.Max_ThreeNumbers" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_03_Typecasting_and_Operators.*" />
+          <option name="PATTERN" value="ex_25_Java_Codes_1_Normal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,13 +156,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Age_Classification" />
+      <item itemvalue="Application.Even_Odd" />
+      <item itemvalue="Application.Grade_Calculator" />
+      <item itemvalue="Application.InputUsingConsole" />
+      <item itemvalue="Application.Max_ThreeNumbers" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InputUsingConsole" />
+        <item itemvalue="Application.Max_ThreeNumbers" />
+        <item itemvalue="Application.Even_Odd" />
         <item itemvalue="Application.Age_Classification" />
         <item itemvalue="Application.Grade_Calculator" />
-        <item itemvalue="Application.Ternary_Operator" />
-        <item itemvalue="Application.Explicit_TypeCasting" />
-        <item itemvalue="Application.Implicit_TypeCasting" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +333,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749665118585</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="updating Ternary Operator Code">
+      <option name="closed" value="true" />
+      <created>1749909466865</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1749909466865</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -347,6 +366,7 @@
     <MESSAGE value="updating Operators Code" />
     <MESSAGE value="updating Math Class Code" />
     <MESSAGE value="updating TypeCasting Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating TypeCasting Code" />
+    <MESSAGE value="updating Ternary Operator Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating Ternary Operator Code" />
   </component>
 </project>
