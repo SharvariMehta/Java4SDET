@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="updating Ternary Operator Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/InputUsingConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_25_Java_Codes_1_Normal/Even_Odd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_25_Java_Codes_1_Normal/Max_ThreeNumbers.java" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="updating InputUsingConsole Code">
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/InputUsingBufferReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/MultipleInputViaConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/DecrementOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/IncrementOperators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +56,7 @@
     "Application.Arithmetic_Operators.executor": "Run",
     "Application.Assignment_Operators.executor": "Run",
     "Application.Bitwise_Operators.executor": "Run",
+    "Application.DecrementOperator.executor": "Run",
     "Application.Even_Odd.executor": "Run",
     "Application.Explicit_TypeCasting.executor": "Run",
     "Application.Expression_MathFunction.executor": "Run",
@@ -64,6 +66,8 @@
     "Application.Grade_Calculator.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.Implicit_TypeCasting.executor": "Run",
+    "Application.IncrementOperators.executor": "Run",
+    "Application.InputUsingBufferReader.executor": "Run",
     "Application.InputUsingConsole.executor": "Run",
     "Application.InputUsingScanner.executor": "Run",
     "Application.Keyword_Identifier.executor": "Run",
@@ -72,6 +76,7 @@
     "Application.Math.executor": "Run",
     "Application.Math_Class.executor": "Run",
     "Application.Max_ThreeNumbers.executor": "Run",
+    "Application.MultipleinputViaConsole.executor": "Run",
     "Application.Non_Primitive_Datatypes.executor": "Run",
     "Application.Operators_Concatenation.executor": "Run",
     "Application.OutputUsingPrintTypes.executor": "Run",
@@ -89,13 +94,13 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.InputUsingConsole">
-    <configuration name="Age_Classification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_25_Java_Codes_1_Normal.Age_Classification" />
+  <component name="RunManager" selected="Application.DecrementOperator">
+    <configuration name="DecrementOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.DecrementOperator" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_25_Java_Codes_1_Normal.*" />
+          <option name="PATTERN" value="ex_03_Typecasting_and_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Even_Odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_25_Java_Codes_1_Normal.Even_Odd" />
+    <configuration name="IncrementOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.IncrementOperators" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_25_Java_Codes_1_Normal.*" />
+          <option name="PATTERN" value="ex_03_Typecasting_and_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Grade_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_25_Java_Codes_1_Normal.Grade_Calculator" />
+    <configuration name="InputUsingBufferReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basics.InputUsingBufferReader" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_25_Java_Codes_1_Normal.*" />
+          <option name="PATTERN" value="ex_01_Java_Basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +148,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Max_ThreeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_25_Java_Codes_1_Normal.Max_ThreeNumbers" />
+    <configuration name="MultipleinputViaConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basics.MultipleinputViaConsole" />
       <module name="Java4SDET" />
+      <option name="PROGRAM_PARAMETERS" value="10 20 30 40" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_25_Java_Codes_1_Normal.*" />
+          <option name="PATTERN" value="ex_01_Java_Basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,19 +163,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Age_Classification" />
-      <item itemvalue="Application.Even_Odd" />
-      <item itemvalue="Application.Grade_Calculator" />
+      <item itemvalue="Application.DecrementOperator" />
+      <item itemvalue="Application.IncrementOperators" />
+      <item itemvalue="Application.MultipleinputViaConsole" />
+      <item itemvalue="Application.InputUsingBufferReader" />
       <item itemvalue="Application.InputUsingConsole" />
-      <item itemvalue="Application.Max_ThreeNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DecrementOperator" />
+        <item itemvalue="Application.IncrementOperators" />
+        <item itemvalue="Application.MultipleinputViaConsole" />
+        <item itemvalue="Application.InputUsingBufferReader" />
         <item itemvalue="Application.InputUsingConsole" />
-        <item itemvalue="Application.Max_ThreeNumbers" />
-        <item itemvalue="Application.Even_Odd" />
-        <item itemvalue="Application.Age_Classification" />
-        <item itemvalue="Application.Grade_Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +347,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749909466865</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="updating InputUsingConsole Code">
+      <option name="closed" value="true" />
+      <created>1749997061661</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1749997061661</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -367,6 +381,7 @@
     <MESSAGE value="updating Math Class Code" />
     <MESSAGE value="updating TypeCasting Code" />
     <MESSAGE value="updating Ternary Operator Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating Ternary Operator Code" />
+    <MESSAGE value="updating InputUsingConsole Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating InputUsingConsole Code" />
   </component>
 </project>
