@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="updating InputUsingConsole Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/InputUsingBufferReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/MultipleInputViaConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/DecrementOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/IncrementOperators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_Basics/InputUsingConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/InputUsingConsole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_Basics/MultipleInputViaConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/MAXNumberViaConsole.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +71,7 @@
     "Application.Keyword_Identifier.executor": "Run",
     "Application.Literals.executor": "Run",
     "Application.Logical_Operators.executor": "Run",
+    "Application.MAXNumberViaConsole.executor": "Run",
     "Application.Math.executor": "Run",
     "Application.Math_Class.executor": "Run",
     "Application.Max_ThreeNumbers.executor": "Run",
@@ -94,7 +93,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DecrementOperator">
+  <component name="RunManager" selected="Application.MAXNumberViaConsole">
     <configuration name="DecrementOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.DecrementOperator" />
       <module name="Java4SDET" />
@@ -121,9 +120,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputUsingBufferReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basics.InputUsingBufferReader" />
+    <configuration name="InputUsingConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basics.InputUsingConsole" />
       <module name="Java4SDET" />
+      <option name="PROGRAM_PARAMETERS" value="Sharvari 28 10LPA" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ex_01_Java_Basics.*" />
@@ -134,10 +134,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputUsingConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basics.InputUsingConsole" />
+    <configuration name="MAXNumberViaConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basics.MAXNumberViaConsole" />
       <module name="Java4SDET" />
-      <option name="PROGRAM_PARAMETERS" value="65" />
+      <option name="PROGRAM_PARAMETERS" value="10 20" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ex_01_Java_Basics.*" />
@@ -163,19 +163,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.MAXNumberViaConsole" />
       <item itemvalue="Application.DecrementOperator" />
       <item itemvalue="Application.IncrementOperators" />
       <item itemvalue="Application.MultipleinputViaConsole" />
-      <item itemvalue="Application.InputUsingBufferReader" />
       <item itemvalue="Application.InputUsingConsole" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MAXNumberViaConsole" />
+        <item itemvalue="Application.InputUsingConsole" />
         <item itemvalue="Application.DecrementOperator" />
         <item itemvalue="Application.IncrementOperators" />
         <item itemvalue="Application.MultipleinputViaConsole" />
-        <item itemvalue="Application.InputUsingBufferReader" />
-        <item itemvalue="Application.InputUsingConsole" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +355,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749997061661</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="updating InputUsingConsole Code">
+      <option name="closed" value="true" />
+      <created>1750584263062</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1750584263062</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
