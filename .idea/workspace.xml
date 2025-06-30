@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="updating InputUsingConsole Code">
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Control_Flow/Even_Odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Control_Flow/IfElseCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Control_Flow/Switch_Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Control_Flow/ifCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25_Java_Codes_1_Normal/Triangle_Classifier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_Basics/InputUsingConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/InputUsingConsole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_Basics/MultipleInputViaConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/MAXNumberViaConsole.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +66,7 @@
     "Application.Final_Keyword.executor": "Run",
     "Application.Grade_Calculator.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.IfElseCondition.executor": "Debug",
     "Application.Implicit_TypeCasting.executor": "Run",
     "Application.IncrementOperators.executor": "Run",
     "Application.InputUsingBufferReader.executor": "Run",
@@ -82,9 +86,12 @@
     "Application.Primitive_data_types.executor": "Run",
     "Application.PrintTableof9Using_Printf.executor": "Run",
     "Application.Relational_Operators.executor": "Run",
+    "Application.Switch_Case.executor": "Run",
     "Application.Ternary_Operator.executor": "Run",
+    "Application.Triangle_Classifier.executor": "Run",
     "Application.Unary_Operators.executor": "Run",
     "Application.Variables.executor": "Run",
+    "Application.ifCondition.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -93,13 +100,13 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MAXNumberViaConsole">
-    <configuration name="DecrementOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.DecrementOperator" />
+  <component name="RunManager" selected="Application.Switch_Case">
+    <configuration name="Even_Odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Control_Flow.Even_Odd" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_03_Typecasting_and_Operators.*" />
+          <option name="PATTERN" value="ex_04_Control_Flow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IncrementOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Typecasting_and_Operators.IncrementOperators" />
+    <configuration name="IfElseCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Control_Flow.IfElseCondition" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_03_Typecasting_and_Operators.*" />
+          <option name="PATTERN" value="ex_04_Control_Flow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,13 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputUsingConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basics.InputUsingConsole" />
+    <configuration name="Switch_Case" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Control_Flow.Switch_Case" />
       <module name="Java4SDET" />
-      <option name="PROGRAM_PARAMETERS" value="Sharvari 28 10LPA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_01_Java_Basics.*" />
+          <option name="PATTERN" value="ex_04_Control_Flow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,13 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MAXNumberViaConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basics.MAXNumberViaConsole" />
+    <configuration name="Triangle_Classifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25_Java_Codes_1_Normal.Triangle_Classifier" />
       <module name="Java4SDET" />
-      <option name="PROGRAM_PARAMETERS" value="10 20" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_01_Java_Basics.*" />
+          <option name="PATTERN" value="ex_25_Java_Codes_1_Normal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,13 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultipleinputViaConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basics.MultipleinputViaConsole" />
+    <configuration name="ifCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Control_Flow.ifCondition" />
       <module name="Java4SDET" />
-      <option name="PROGRAM_PARAMETERS" value="10 20 30 40" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_01_Java_Basics.*" />
+          <option name="PATTERN" value="ex_04_Control_Flow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,19 +167,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MAXNumberViaConsole" />
-      <item itemvalue="Application.DecrementOperator" />
-      <item itemvalue="Application.IncrementOperators" />
-      <item itemvalue="Application.MultipleinputViaConsole" />
-      <item itemvalue="Application.InputUsingConsole" />
+      <item itemvalue="Application.Even_Odd" />
+      <item itemvalue="Application.IfElseCondition" />
+      <item itemvalue="Application.Switch_Case" />
+      <item itemvalue="Application.Triangle_Classifier" />
+      <item itemvalue="Application.ifCondition" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MAXNumberViaConsole" />
-        <item itemvalue="Application.InputUsingConsole" />
-        <item itemvalue="Application.DecrementOperator" />
-        <item itemvalue="Application.IncrementOperators" />
-        <item itemvalue="Application.MultipleinputViaConsole" />
+        <item itemvalue="Application.Switch_Case" />
+        <item itemvalue="Application.Triangle_Classifier" />
+        <item itemvalue="Application.Even_Odd" />
+        <item itemvalue="Application.IfElseCondition" />
+        <item itemvalue="Application.ifCondition" />
       </list>
     </recent_temporary>
   </component>
@@ -391,5 +395,16 @@
     <MESSAGE value="updating Ternary Operator Code" />
     <MESSAGE value="updating InputUsingConsole Code" />
     <option name="LAST_COMMIT_MESSAGE" value="updating InputUsingConsole Code" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_04_Control_Flow/IfElseCondition.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
