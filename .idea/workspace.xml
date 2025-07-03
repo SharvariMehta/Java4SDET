@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="updating Control Flow Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Control_Flow/For_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Control_Flow/Switch_Case_Arrows.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +84,7 @@
     "Application.PrintTableof9Using_Printf.executor": "Run",
     "Application.Relational_Operators.executor": "Run",
     "Application.Switch_Case.executor": "Run",
+    "Application.Switch_Case_Arrows.executor": "Run",
     "Application.Ternary_Operator.executor": "Run",
     "Application.Triangle_Classifier.executor": "Run",
     "Application.Unary_Operators.executor": "Run",
@@ -97,7 +98,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.For_Loop">
+  <component name="RunManager" selected="Application.Switch_Case_Arrows">
     <configuration name="Even_Odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_04_Control_Flow.Even_Odd" />
       <module name="Java4SDET" />
@@ -124,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Control_Flow.IfElseCondition" />
+    <configuration name="Switch_Case" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Control_Flow.Switch_Case" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -137,8 +138,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switch_Case" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Control_Flow.Switch_Case" />
+    <configuration name="Switch_Case_Arrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Control_Flow.Switch_Case_Arrows" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -164,19 +165,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Switch_Case_Arrows" />
       <item itemvalue="Application.Even_Odd" />
       <item itemvalue="Application.For_Loop" />
-      <item itemvalue="Application.IfElseCondition" />
       <item itemvalue="Application.Switch_Case" />
       <item itemvalue="Application.Triangle_Classifier" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Switch_Case_Arrows" />
         <item itemvalue="Application.For_Loop" />
         <item itemvalue="Application.Switch_Case" />
         <item itemvalue="Application.Triangle_Classifier" />
         <item itemvalue="Application.Even_Odd" />
-        <item itemvalue="Application.IfElseCondition" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +389,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751479581417</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="updating Control Flow Code">
+      <option name="closed" value="true" />
+      <created>1751481353213</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1751481353213</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
