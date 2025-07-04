@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="updating Control Flow Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Control_Flow/Switch_Case_Arrows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Control_Flow/Break_Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Control_Flow/Continue_Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25_Java_Codes_1_Normal/Even_Odd_Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25_Java_Codes_1_Normal/Even_Odd_Using_For_Loop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +56,13 @@
     "Application.Arithmetic_Operators.executor": "Run",
     "Application.Assignment_Operators.executor": "Run",
     "Application.Bitwise_Operators.executor": "Run",
+    "Application.Break_Keyword.executor": "Run",
+    "Application.Continue_Keyword.executor": "Run",
     "Application.DecrementOperator.executor": "Run",
+    "Application.Even_For_Loop.executor": "Run",
     "Application.Even_Odd.executor": "Run",
+    "Application.Even_Odd_Continue.executor": "Run",
+    "Application.Even_Odd_Using_For_Loop.executor": "Run",
     "Application.Explicit_TypeCasting.executor": "Run",
     "Application.Expression_MathFunction.executor": "Run",
     "Application.Final_Keyword (1).executor": "Run",
@@ -98,9 +106,9 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Switch_Case_Arrows">
-    <configuration name="Even_Odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Control_Flow.Even_Odd" />
+  <component name="RunManager" selected="Application.Even_Odd_Continue">
+    <configuration name="Break_Keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Control_Flow.Break_Keyword" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For_Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Control_Flow.For_Loop" />
+    <configuration name="Continue_Keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Control_Flow.Continue_Keyword" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -125,12 +133,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switch_Case" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Control_Flow.Switch_Case" />
+    <configuration name="Even_Odd_Continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25_Java_Codes_1_Normal.Even_Odd_Continue" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_04_Control_Flow.*" />
+          <option name="PATTERN" value="ex_25_Java_Codes_1_Normal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Even_Odd_Using_For_Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25_Java_Codes_1_Normal.Even_Odd_Using_For_Loop" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_25_Java_Codes_1_Normal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,33 +172,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Triangle_Classifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_25_Java_Codes_1_Normal.Triangle_Classifier" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_25_Java_Codes_1_Normal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.Break_Keyword" />
+      <item itemvalue="Application.Continue_Keyword" />
+      <item itemvalue="Application.Even_Odd_Continue" />
+      <item itemvalue="Application.Even_Odd_Using_For_Loop" />
       <item itemvalue="Application.Switch_Case_Arrows" />
-      <item itemvalue="Application.Even_Odd" />
-      <item itemvalue="Application.For_Loop" />
-      <item itemvalue="Application.Switch_Case" />
-      <item itemvalue="Application.Triangle_Classifier" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Even_Odd_Continue" />
+        <item itemvalue="Application.Continue_Keyword" />
+        <item itemvalue="Application.Break_Keyword" />
+        <item itemvalue="Application.Even_Odd_Using_For_Loop" />
         <item itemvalue="Application.Switch_Case_Arrows" />
-        <item itemvalue="Application.For_Loop" />
-        <item itemvalue="Application.Switch_Case" />
-        <item itemvalue="Application.Triangle_Classifier" />
-        <item itemvalue="Application.Even_Odd" />
       </list>
     </recent_temporary>
   </component>
@@ -397,7 +405,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751481353213</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="updating Control Flow Code">
+      <option name="closed" value="true" />
+      <created>1751547644470</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1751547644470</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
