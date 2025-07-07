@@ -22,4 +22,4 @@ OUTPUT 2:
 Enter year to check if its leap year or not :
 2016
 2016 is a Leap Year
- */
+*/
