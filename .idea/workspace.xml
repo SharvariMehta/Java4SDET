@@ -5,11 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="updating Control Flow Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Control_Flow/Break_Keyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Control_Flow/Continue_Keyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_25_Java_Codes_1_Normal/Even_Odd_Continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_25_Java_Codes_1_Normal/Even_Odd_Using_For_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Control_Flow/Do_While_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Control_Flow/While_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25_Java_Codes_1_Normal/Factorial_Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25_Java_Codes_1_Normal/Fibonacci_Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25_Java_Codes_1_Normal/Guessing_Game.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Arithmetic_Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_Operators/Arithmetic_Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Assignment_Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_Operators/Assignment_Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Bitwise_Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_Operators/Bitwise_Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/DecrementOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_Operators/DecrementOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Explicit_TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_Operators/Explicit_TypeCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Implicit_TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_Operators/Implicit_TypeCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/IncrementOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_Operators/IncrementOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Literals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_Operators/Literals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Logical_Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_Operators/Logical_Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Math_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_Operators/Math_Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Relational_Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_Operators/Relational_Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Ternary_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_Operators/Ternary_Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_03_Typecasting_and_Operators/Unary_Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Typecasting_Operators/Unary_Operators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,17 +74,21 @@
     "Application.Break_Keyword.executor": "Run",
     "Application.Continue_Keyword.executor": "Run",
     "Application.DecrementOperator.executor": "Run",
+    "Application.Do_While_Loop.executor": "Run",
     "Application.Even_For_Loop.executor": "Run",
     "Application.Even_Odd.executor": "Run",
     "Application.Even_Odd_Continue.executor": "Run",
     "Application.Even_Odd_Using_For_Loop.executor": "Run",
     "Application.Explicit_TypeCasting.executor": "Run",
     "Application.Expression_MathFunction.executor": "Run",
+    "Application.Factorial_Calculator.executor": "Run",
+    "Application.Fibonacci_Calculator.executor": "Run",
     "Application.Final_Keyword (1).executor": "Run",
     "Application.Final_Keyword (2).executor": "Run",
     "Application.Final_Keyword.executor": "Run",
     "Application.For_Loop.executor": "Run",
     "Application.Grade_Calculator.executor": "Run",
+    "Application.Guessing_Game.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.IfElseCondition.executor": "Debug",
     "Application.Implicit_TypeCasting.executor": "Run",
@@ -97,18 +116,20 @@
     "Application.Triangle_Classifier.executor": "Run",
     "Application.Unary_Operators.executor": "Run",
     "Application.Variables.executor": "Run",
+    "Application.While_Loop.executor": "Run",
     "Application.ifCondition.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Sharvari Mehta/IdeaProjects/Java4SDET",
     "onboarding.tips.debug.path": "C:/Users/Sharvari Mehta/IdeaProjects/Java4SDET/src/Main.java",
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Even_Odd_Continue">
-    <configuration name="Break_Keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Control_Flow.Break_Keyword" />
+  <component name="RunManager" selected="Application.Do_While_Loop">
+    <configuration name="Do_While_Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Control_Flow.Do_While_Loop" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -120,21 +141,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Continue_Keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Control_Flow.Continue_Keyword" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_04_Control_Flow.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Even_Odd_Continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_25_Java_Codes_1_Normal.Even_Odd_Continue" />
+    <configuration name="Factorial_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25_Java_Codes_1_Normal.Factorial_Calculator" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -146,8 +154,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Even_Odd_Using_For_Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_25_Java_Codes_1_Normal.Even_Odd_Using_For_Loop" />
+    <configuration name="Fibonacci_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25_Java_Codes_1_Normal.Fibonacci_Calculator" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -159,8 +167,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switch_Case_Arrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Control_Flow.Switch_Case_Arrows" />
+    <configuration name="Guessing_Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_25_Java_Codes_1_Normal.Guessing_Game" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_25_Java_Codes_1_Normal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="While_Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Control_Flow.While_Loop" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -173,19 +194,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Break_Keyword" />
-      <item itemvalue="Application.Continue_Keyword" />
-      <item itemvalue="Application.Even_Odd_Continue" />
-      <item itemvalue="Application.Even_Odd_Using_For_Loop" />
-      <item itemvalue="Application.Switch_Case_Arrows" />
+      <item itemvalue="Application.Do_While_Loop" />
+      <item itemvalue="Application.Fibonacci_Calculator" />
+      <item itemvalue="Application.Guessing_Game" />
+      <item itemvalue="Application.Factorial_Calculator" />
+      <item itemvalue="Application.While_Loop" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Even_Odd_Continue" />
-        <item itemvalue="Application.Continue_Keyword" />
-        <item itemvalue="Application.Break_Keyword" />
-        <item itemvalue="Application.Even_Odd_Using_For_Loop" />
-        <item itemvalue="Application.Switch_Case_Arrows" />
+        <item itemvalue="Application.Do_While_Loop" />
+        <item itemvalue="Application.Fibonacci_Calculator" />
+        <item itemvalue="Application.Guessing_Game" />
+        <item itemvalue="Application.Factorial_Calculator" />
+        <item itemvalue="Application.While_Loop" />
       </list>
     </recent_temporary>
   </component>
@@ -413,7 +434,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751547644470</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="updating Control Flow Code">
+      <option name="closed" value="true" />
+      <created>1751652431157</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1751652431157</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

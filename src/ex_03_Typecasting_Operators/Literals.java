@@ -1,4 +1,4 @@
-package ex_03_Typecasting_and_Operators;
+package ex_03_Typecasting_Operators;
 
 public class Literals {
     public static void main(String[] args) {

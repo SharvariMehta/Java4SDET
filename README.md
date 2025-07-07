@@ -23,10 +23,10 @@ The code is neatly organized into topic-based folders for easy navigation:
 | ex_04_Control_Flow             | Conditional(if, if-else, switch), Loops(for, while, do-while), Loop Control(break, continue, return)                            |
 | ex_05_Arrays                   | Declaration, Initialization(static & dynamic), Types (1D/2D/MD), Problems: Max/min, reverse, duplicates, rotation, Sort         |
 | ex_06_String_Basics            | Declaration, Initialization, Immutability, memory (Heap, SCP)                                                                   |
-| ex_07_string_operations        | length, charAt, indexOf, lastIndexOf, substring, replace, contains, equals, compareTo, case conversion, trim, split             |
-| ex_08_string_concatenation     | + operator, concat(), StringBuilder, StringBuffer, BufferedReader                                                               |
-| ex_09_string_conversion        | Conversions to/from char array, int, float, boolean using valueOf, parseInt, toString                                           |
-| ex_10_string_tasks             | Count vowels/consonants, palindrome check, remove duplicates, reverse, anagram detection, character frequency counter           |
+| ex_07_String_Operations        | length, charAt, indexOf, lastIndexOf, substring, replace, contains, equals, compareTo, case conversion, trim, split             |
+| ex_08_String_Concatenation     | + operator, concat(), StringBuilder, StringBuffer, BufferedReader                                                               |
+| ex_09_String_Conversion        | Conversions to/from char array, int, float, boolean using valueOf, parseInt, toString                                           |
+| ex_10_String_Tasks             | Count vowels/consonants, palindrome check, remove duplicates, reverse, anagram detection, character frequency counter           |
 | ex_11_object_oriented_programs | Class, Object, Constructor(Default, parameterized, constructor overloading)                                                     |
 | ex_12_inheritance              | Single, Multilevel, Hierarchical using 'extends'                                                                                |
 | ex_13_polymorphism             | Compile-time (Overloading), Runtime (Overriding)                                                                                |

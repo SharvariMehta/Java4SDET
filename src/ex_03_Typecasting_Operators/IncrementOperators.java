@@ -1,6 +1,4 @@
-package ex_03_Typecasting_and_Operators;
-
-import java.sql.SQLOutput;
+package ex_03_Typecasting_Operators;
 
 public class IncrementOperators {
     public static void main(String[] args) {

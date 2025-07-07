@@ -1,7 +1,7 @@
 
 
-package ex_03_Typecasting_and_Operators;
-import java.util.*;
+package ex_03_Typecasting_Operators;
+
 public class Math_Class {
     public static void main(String[] args) {
         double x = 25.0;
