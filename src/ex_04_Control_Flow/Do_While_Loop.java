@@ -9,6 +9,7 @@ public class Do_While_Loop {
         }while(i<=5);
     }
 }
+
 /*
 OUTPUT:
 1. This is statement in Do-While Loop
