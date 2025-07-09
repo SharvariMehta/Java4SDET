@@ -27,22 +27,22 @@ The code is neatly organized into topic-based folders for easy navigation:
 | ex_08_String_Concatenation     | + operator, concat(), StringBuilder, StringBuffer, BufferedReader                                                               |
 | ex_09_String_Conversion        | Conversions to/from char array, int, float, boolean using valueOf, parseInt, toString                                           |
 | ex_10_String_Tasks             | Count vowels/consonants, palindrome check, remove duplicates, reverse, anagram detection, character frequency counter           |
-| ex_11_object_oriented_programs | Class, Object, Constructor(Default, parameterized, constructor overloading)                                                     |
-| ex_12_inheritance              | Single, Multilevel, Hierarchical using 'extends'                                                                                |
-| ex_13_polymorphism             | Compile-time (Overloading), Runtime (Overriding)                                                                                |
-| ex_14_encapsulation            | Using private fields with getters/setters                                                                                       |
-| ex_15_abstraction              | Using abstract classes and interfaces                                                                                           |
-| ex_16_access_modifiers         | private, default, protected, public                                                                                             |
-| ex_17_keywords                 | this, super, Static, Final                                                                                                      |
+| ex_11_Object_Oriented_Programs | Class, Object, Constructor(Default, parameterized, constructor overloading)                                                     |
+| ex_12_Inheritance              | Single, Multilevel, Hierarchical using 'extends'                                                                                |
+| ex_13_Polymorphism             | Compile-time (Overloading), Runtime (Overriding)                                                                                |
+| ex_14_Encapsulation            | Using private fields with getters/setters                                                                                       |
+| ex_15_Abstraction              | Using abstract classes and interfaces                                                                                           |
+| ex_16_Access_Modifiers         | private, default, protected, public                                                                                             |
+| ex_17_Keywords                 | this, super, Static, Final                                                                                                      |
 | ex_18_object_class_methods     | equals(), hashCode(), toString(), clone()                                                                                       |
-| ex_19_inner_classes            | Member, static, anonymous, local                                                                                                |
-| ex_20_collections              | List(ArrayList, LinkedList), Set(HashSet, LinkedHash set, TreeSet), Queue (PriorityQueue, Deque)                                |
+| ex_19_Inner_Classes            | Member, static, anonymous, local                                                                                                |
+| ex_20_Collections              | List(ArrayList, LinkedList), Set(HashSet, LinkedHash set, TreeSet), Queue (PriorityQueue, Deque)                                |
 | ex_21_exception_handling       | Try-catch blocks, finally, Checked vs Unchecked, throw and throws                                                               |
 | ex_22_generics                 | Class, Method, Interface, Bounded Types, Wildcards, Collections with Generics :List<String>                                     | 
-| ex_23_multithreading           | Class, Runnable interface, Anonymous inner classes. Lifecycle, Methods, Priorities, Synchronization, Inter-thread Communication |
-| ex_24_java_codes_0_Star        | Star pattern printing Java codes                                                                                                |
+| ex_23_Multithreading           | Class, Runnable interface, Anonymous inner classes. Lifecycle, Methods, Priorities, Synchronization, Inter-thread Communication |
+| ex_24_Java_Codes_0_Pattern     | Pattern printing Java codes                                                                                                     |
 | ex_25_Java_Codes_1_Normal      | Common Java Coding Questions                                                                                                    |
-| ex_26_java_codes_2_Tricky      | Tricky Java Coding Questions                                                                                                    |
+| ex_26_Java_Codes_2_Tricky      | Tricky Java Coding Questions                                                                                                    |
 
 ## 🔜 Whats Next? 
 - /basic_datastructures/     → Hashing (HashMap, HashSet), Heaps
