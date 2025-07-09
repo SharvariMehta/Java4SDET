@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="updating Control Flow Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_24_Java_Codes_0_Pattern/Pattern_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24_Java_Codes_0_Pattern/Pattern_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24_Java_Codes_0_Pattern/Pattern_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24_Java_Codes_0_Pattern/Pattern_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +36,9 @@
     &quot;accountId&quot;: &quot;b37999e2-3a88-447e-b054-62f596750200&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -103,6 +99,7 @@
     "Application.Pattern_1.executor": "Run",
     "Application.Pattern_2.executor": "Run",
     "Application.Pattern_3.executor": "Run",
+    "Application.Pattern_4.executor": "Run",
     "Application.Primitive_data_types.executor": "Run",
     "Application.PrintTableof9Using_Printf.executor": "Run",
     "Application.Relational_Operators.executor": "Run",
@@ -123,22 +120,9 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Pattern_3">
+  <component name="RunManager" selected="Application.Pattern_4">
     <configuration name="Leap_Year_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_25_Java_Codes_1_Normal.Leap_Year_Calculator" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_25_Java_Codes_1_Normal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Palindrome_Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_25_Java_Codes_1_Normal.Palindrome_Check" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -189,20 +173,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pattern_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_24_Java_Codes_0_Pattern.Pattern_4" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_24_Java_Codes_0_Pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Pattern_3" />
+      <item itemvalue="Application.Pattern_4" />
       <item itemvalue="Application.Pattern_1" />
       <item itemvalue="Application.Pattern_2" />
       <item itemvalue="Application.Leap_Year_Calculator" />
-      <item itemvalue="Application.Palindrome_Check" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern_4" />
         <item itemvalue="Application.Pattern_3" />
         <item itemvalue="Application.Pattern_2" />
         <item itemvalue="Application.Pattern_1" />
         <item itemvalue="Application.Leap_Year_Calculator" />
-        <item itemvalue="Application.Palindrome_Check" />
       </list>
     </recent_temporary>
   </component>
@@ -478,7 +475,23 @@
       <option name="project" value="LOCAL" />
       <updated>1751948468635</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="updating Control Flow Code">
+      <option name="closed" value="true" />
+      <created>1752067997101</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1752067997101</updated>
+    </task>
+    <task id="LOCAL-00035" summary="updating Control Flow Code">
+      <option name="closed" value="true" />
+      <created>1752068087855</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1752068087855</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
