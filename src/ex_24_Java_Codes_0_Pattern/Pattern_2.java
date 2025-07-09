@@ -16,6 +16,7 @@ public class Pattern_2 {
     }
 }
 /*
+OUTPUT:
  1  1  1  1  1
  2  2  2  2  2
  3  3  3  3  3
