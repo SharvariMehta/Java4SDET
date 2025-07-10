@@ -2,28 +2,26 @@ package ex_25_Java_Codes_1_Normal;
 
 import java.util.Scanner;
 
-
-
 public class Palindrome_Check {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        String p = sc.nextLine();
-        int i = 1;
-        int j = p.length();
-        for(i = 1; i<=p.length(); i++)
+        String m = "Madam";
+        String s = m.toLowerCase();
+        int i = 0;
+        char l = s.charAt(i);
+        int j = s.length()-1;
+        char k = s.charAt(j);
+        System.out.println(l);
+        System.out.println(k);
+
+        for(i=0;i<=5;i++)
         {
-            System.out.println(i);
-            for(j = p.length(); j>=1 ; j--)
+            for(j = s.length()-1; j>=1; j--)
             {
-                System.out.println(j);
-                //if(charAt(i) == charAt(j))
-                {
-
-                }
-
+                if(l == k)
+                    System.out.println("l " +l + "k "+k);
             }
-
         }
+
 
 
 
