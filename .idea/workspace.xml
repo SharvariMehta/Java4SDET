@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="updating Pattern Codes">
-      <change afterPath="$PROJECT_DIR$/src/ex_24_Java_Codes_0_Pattern/Pattern_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24_Java_Codes_0_Pattern/Pattern_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24_Java_Codes_0_Pattern/Pattern_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24_Java_Codes_0_Pattern/Pattern_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24_Java_Codes_0_Pattern/Pattern_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24_Java_Codes_0_Pattern/Pattern_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,8 +18,14 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="SharvariMehta" />
+      </list>
+    </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -128,7 +126,7 @@
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Sharvari Mehta/IdeaProjects/Java4SDET",
     "onboarding.tips.debug.path": "C:/Users/Sharvari Mehta/IdeaProjects/Java4SDET/src/Main.java",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
+    "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Pattern_10">
@@ -510,7 +508,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752073414516</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;README.md">
+      <option name="closed" value="true" />
+      <created>1752170235720</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1752170235720</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -539,7 +545,8 @@
     <MESSAGE value="updating InputUsingConsole Code" />
     <MESSAGE value="updating Control Flow Code" />
     <MESSAGE value="updating Pattern Codes" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating Pattern Codes" />
+    <MESSAGE value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;README.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
