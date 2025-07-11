@@ -13,9 +13,9 @@ public class Palindrome_Check {
 
         for(i=0;i<=5;i++)
         {
-            for(j = s.length()-1; j>=1; j--)
+            for(j = s.length()-1; j>=0; j--)
             {
-                if(l == k)
+                s.charAt(i);
                     System.out.println("l " +l + "k "+k);
             }
         }
