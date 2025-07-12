@@ -4,37 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating main variation Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Strings/String_Immutability.java" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Strings Code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_0_Pattern/Pattern_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_0_Pattern/Pattern_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_0_Pattern/Pattern_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_0_Pattern/Pattern_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_0_Pattern/Pattern_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_0_Pattern/Pattern_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_0_Pattern/Pattern_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_0_Pattern/Pattern_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_0_Pattern/Pattern_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_0_Pattern/Pattern_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Age_Classification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Age_Classification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Arithmetic_Operations_Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Arithmetic_Operations_Functions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Count_Vowels_Consonants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Count_Vowels_Consonants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Even_Odd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Even_Odd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Even_Odd_Continue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Even_Odd_Continue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Even_Odd_Using_For_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Even_Odd_Using_For_Loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Expression_MathFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Expression_MathFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Factorial_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Factorial_Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Fibonacci_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Fibonacci_Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/FizzBuzz_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/FizzBuzz_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Grade_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Grade_Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Guessing_Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Guessing_Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Leap_Year_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Leap_Year_Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Max_ThreeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Max_ThreeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Operators_Concatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Operators_Concatenation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Palindrome_Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Palindrome_Check.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/PrintTableof9Using_Printf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/PrintTableof9Using_Printf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Triangle_Classifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Triangle_Classifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_06_Strings/String_Immutability.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_06_Strings/String_Immutability.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -588,7 +560,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752261541907</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Updating Strings Code">
+      <option name="closed" value="true" />
+      <created>1752317517849</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1752317517850</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -620,7 +600,8 @@
     <MESSAGE value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;README.md" />
     <MESSAGE value="Updating Function Code" />
     <MESSAGE value="Updating main variation Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating main variation Code" />
+    <MESSAGE value="Updating Strings Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating Strings Code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
