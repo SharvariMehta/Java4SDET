@@ -4,13 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Function Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/Changing_Square_Brackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/Main_Varargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/Main_Without_Space.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/Replacing_args_in_Main.java" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating main variation Code">
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Strings/String_Immutability.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Palindrome_Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Palindrome_Check.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_0_Pattern/Pattern_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_0_Pattern/Pattern_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_0_Pattern/Pattern_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_0_Pattern/Pattern_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_0_Pattern/Pattern_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_0_Pattern/Pattern_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_0_Pattern/Pattern_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_0_Pattern/Pattern_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_0_Pattern/Pattern_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_0_Pattern/Pattern_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Age_Classification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Age_Classification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Arithmetic_Operations_Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Arithmetic_Operations_Functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Count_Vowels_Consonants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Count_Vowels_Consonants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Even_Odd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Even_Odd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Even_Odd_Continue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Even_Odd_Continue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Even_Odd_Using_For_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Even_Odd_Using_For_Loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Expression_MathFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Expression_MathFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Factorial_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Factorial_Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Fibonacci_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Fibonacci_Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/FizzBuzz_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/FizzBuzz_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Grade_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Grade_Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Guessing_Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Guessing_Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Leap_Year_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Leap_Year_Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Max_ThreeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Max_ThreeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Operators_Concatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Operators_Concatenation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Palindrome_Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Palindrome_Check.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/PrintTableof9Using_Printf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/PrintTableof9Using_Printf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21_Java_Codes_1_Normal/Triangle_Classifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Triangle_Classifier.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +128,7 @@
     "Application.Logical_Operators.executor": "Run",
     "Application.MAXNumberViaConsole.executor": "Run",
     "Application.Main_Varargs.executor": "Run",
+    "Application.Main_Without_Space.executor": "Run",
     "Application.Math.executor": "Run",
     "Application.Math_Class.executor": "Run",
     "Application.Max_ThreeNumbers.executor": "Run",
@@ -126,6 +151,7 @@
     "Application.PrintTableof9Using_Printf.executor": "Run",
     "Application.Relational_Operators.executor": "Run",
     "Application.Replacing_args_in_Main.executor": "Run",
+    "Application.String_Immutability.executor": "Run",
     "Application.Switch_Case.executor": "Run",
     "Application.Switch_Case_Arrows.executor": "Run",
     "Application.Ternary_Operator.executor": "Run",
@@ -143,22 +169,9 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main_Varargs">
+  <component name="RunManager" selected="Application.String_Immutability">
     <configuration name="Changing_Square_Brackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basics.Changing_Square_Brackets" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_01_Java_Basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basics.HelloWorld" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -209,20 +222,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="String_Immutability" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_06_Strings.String_Immutability" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_06_Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.String_Immutability" />
       <item itemvalue="Application.Changing_Square_Brackets" />
-      <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.Main_Varargs" />
       <item itemvalue="Application.Main_Without_Space" />
       <item itemvalue="Application.Replacing_args_in_Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.String_Immutability" />
         <item itemvalue="Application.Main_Varargs" />
         <item itemvalue="Application.Main_Without_Space" />
         <item itemvalue="Application.Changing_Square_Brackets" />
         <item itemvalue="Application.Replacing_args_in_Main" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -554,7 +580,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752175758482</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Updating main variation Code">
+      <option name="closed" value="true" />
+      <created>1752261541907</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1752261541907</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -585,7 +619,8 @@
     <MESSAGE value="updating Pattern Codes" />
     <MESSAGE value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;README.md" />
     <MESSAGE value="Updating Function Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating Function Code" />
+    <MESSAGE value="Updating main variation Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating main variation Code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

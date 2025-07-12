@@ -1,4 +1,4 @@
-package ex_21_Java_Codes_1_Normal;
+package ex_20_Java_Codes_1_Normal;
 
 public class Even_Odd_Continue {
     public static void main(String[] args) {

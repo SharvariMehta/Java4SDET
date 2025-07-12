@@ -1,4 +1,4 @@
-package ex_20_Java_Codes_0_Pattern;
+package ex_19_Java_Codes_0_Pattern;
 
 public class Pattern_5 {
     public static void main(String[] args) {
