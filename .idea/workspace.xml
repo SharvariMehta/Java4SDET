@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Strings Code">
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating String immutability Code">
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Strings/String_Concatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Strings/String_Initialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Strings/String_Operations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_06_Strings/String_Declaration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_06_Strings/String_Declaration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex_06_Strings/String_Immutability.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_06_Strings/String_Immutability.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +127,11 @@
     "Application.PrintTableof9Using_Printf.executor": "Run",
     "Application.Relational_Operators.executor": "Run",
     "Application.Replacing_args_in_Main.executor": "Run",
+    "Application.String_Concatenation.executor": "Run",
+    "Application.String_Declaration.executor": "Run",
     "Application.String_Immutability.executor": "Run",
+    "Application.String_Initialization.executor": "Run",
+    "Application.String_Operations.executor": "Run",
     "Application.Switch_Case.executor": "Run",
     "Application.Switch_Case_Arrows.executor": "Run",
     "Application.Ternary_Operator.executor": "Run",
@@ -141,13 +149,13 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.String_Immutability">
-    <configuration name="Changing_Square_Brackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basics.Changing_Square_Brackets" />
+  <component name="RunManager" selected="Application.String_Operations">
+    <configuration name="String_Concatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_06_Strings.String_Concatenation" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_01_Java_Basics.*" />
+          <option name="PATTERN" value="ex_06_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,38 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basics.Main_Varargs" />
+    <configuration name="String_Declaration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_06_Strings.String_Declaration" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_01_Java_Basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_Without_Space" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basics.Main_Without_Space" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_01_Java_Basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Replacing_args_in_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basics.Replacing_args_in_Main" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_01_Java_Basics.*" />
+          <option name="PATTERN" value="ex_06_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,20 +189,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="String_Initialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_06_Strings.String_Initialization" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_06_Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String_Operations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_06_Strings.String_Operations" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_06_Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.String_Concatenation" />
+      <item itemvalue="Application.String_Declaration" />
       <item itemvalue="Application.String_Immutability" />
-      <item itemvalue="Application.Changing_Square_Brackets" />
-      <item itemvalue="Application.Main_Varargs" />
-      <item itemvalue="Application.Main_Without_Space" />
-      <item itemvalue="Application.Replacing_args_in_Main" />
+      <item itemvalue="Application.String_Initialization" />
+      <item itemvalue="Application.String_Operations" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.String_Operations" />
+        <item itemvalue="Application.String_Initialization" />
+        <item itemvalue="Application.String_Concatenation" />
+        <item itemvalue="Application.String_Declaration" />
         <item itemvalue="Application.String_Immutability" />
-        <item itemvalue="Application.Main_Varargs" />
-        <item itemvalue="Application.Main_Without_Space" />
-        <item itemvalue="Application.Changing_Square_Brackets" />
-        <item itemvalue="Application.Replacing_args_in_Main" />
       </list>
     </recent_temporary>
   </component>
@@ -568,7 +576,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752317517850</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Updating String immutability Code">
+      <option name="closed" value="true" />
+      <created>1752317892173</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1752317892173</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -601,7 +617,8 @@
     <MESSAGE value="Updating Function Code" />
     <MESSAGE value="Updating main variation Code" />
     <MESSAGE value="Updating Strings Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating Strings Code" />
+    <MESSAGE value="Updating String immutability Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating String immutability Code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

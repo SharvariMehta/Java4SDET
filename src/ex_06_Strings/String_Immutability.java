@@ -20,10 +20,8 @@ Strings cannot be changed after creation; methods like toUpperCase() always retu
 When you do name.toUpperCase();, you're simply calling a method that produces a new string—but if you don’t assign it, the result is lost.
 The line name = name.toUpperCase(); points name to the new uppercase String, but doesn't alter the old one—illustrating immutability         .
 */
-
     }
 }
-
 /*
 OUTPUT:
 sharvari
