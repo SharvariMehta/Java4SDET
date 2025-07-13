@@ -1,27 +1,41 @@
 package ex_20_Java_Codes_1_Normal;
 
+import java.util.Scanner;
+
 public class Palindrome_Check {
     public static void main(String[] args) {
-        String m = "Madam";
-        String s = m.toLowerCase();
-        int i = 0;
-        char l = s.charAt(i);
-        int j = s.length()-1;
-        char k = s.charAt(j);
-        System.out.println(l);
-        System.out.println(k);
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter a String you want to check its palindrome or Not : ");
+        String original = sc.nextLine();
+        String newString = reverseString(original);
 
-        for(i=0;i<=5;i++)
+        if(newString.equalsIgnoreCase(original))
         {
-            for(j = s.length()-1; j>=0; j--)
-            {
-                s.charAt(i);
-                    System.out.println("l " +l + "k "+k);
-            }
+            System.out.println("It is a Palindrome !");
+        }
+        else
+        {
+            System.out.println("Its not a Palindrome !");
         }
 
-
-
-
+    }
+    public static String reverseString(String original)
+    {
+        String reversedString = "";
+        for(int i = original.length()-1; i>=0; i--)
+        {
+            reversedString = reversedString + original.charAt(i);
+        }
+        return reversedString;
     }
 }
+/*
+OUTPUT 1:
+Enter a String you want to check its palindrome or Not :
+MADAM
+It is a Palindrome !
+OUTPUT 2:
+Enter a String you want to check its palindrome or Not :
+QWERTy
+Its not a Palindrome !
+ */
