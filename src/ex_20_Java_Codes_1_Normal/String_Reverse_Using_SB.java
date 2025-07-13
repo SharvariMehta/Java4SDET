@@ -13,7 +13,7 @@ public class String_Reverse_Using_SB {
     public static String sbreverse(String o)
     {
         StringBuilder sbd = new StringBuilder(o);
-        return String.valueOf(sbd.reverse());
+        return sbd.reverse().toString();
     }
 }
 /*
