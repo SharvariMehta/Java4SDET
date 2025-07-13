@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating String Buffer Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/String_Reverse.java" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating String Reverse Code">
+      <change afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/String_Reverse_Using_SB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/String_Reverse_WoFunction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Palindrome_Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Palindrome_Check.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/String_Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/String_Reverse_WFunction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,12 +127,14 @@
     "Application.Replacing_args_in_Main.executor": "Run",
     "Application.StringBuffer_Methods.executor": "Run",
     "Application.StringBuilder_Methods.executor": "Run",
+    "Application.StringReverse_WoFunction.executor": "Run",
     "Application.String_Concatenation.executor": "Run",
     "Application.String_Declaration.executor": "Run",
     "Application.String_Immutability.executor": "Run",
     "Application.String_Initialization.executor": "Run",
     "Application.String_Operations.executor": "Run",
     "Application.String_Reverse.executor": "Run",
+    "Application.String_Reverse_Using_SB.executor": "Run",
     "Application.Switch_Case.executor": "Run",
     "Application.Switch_Case_Arrows.executor": "Run",
     "Application.Ternary_Operator.executor": "Run",
@@ -149,7 +152,7 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Palindrome_Check">
+  <component name="RunManager" selected="Application.String_Reverse_Using_SB">
     <configuration name="Palindrome_Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.Palindrome_Check" />
       <module name="Java4SDET" />
@@ -176,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilder_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_06_Strings.StringBuilder_Methods" />
+    <configuration name="String_Reverse_Using_SB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.String_Reverse_Using_SB" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_06_Strings.*" />
+          <option name="PATTERN" value="ex_20_Java_Codes_1_Normal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_Concatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_06_Strings.String_Concatenation" />
+    <configuration name="String_Reverse_WFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.String_Reverse_WFunction" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_06_Strings.*" />
+          <option name="PATTERN" value="ex_20_Java_Codes_1_Normal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,8 +205,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.String_Reverse" />
+    <configuration name="String_Reverse_WoFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.String_Reverse_WoFunction" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -218,17 +221,17 @@
     <list>
       <item itemvalue="Application.Palindrome_Check" />
       <item itemvalue="Application.StringBuffer_Methods" />
-      <item itemvalue="Application.StringBuilder_Methods" />
-      <item itemvalue="Application.String_Concatenation" />
-      <item itemvalue="Application.String_Reverse" />
+      <item itemvalue="Application.String_Reverse_Using_SB" />
+      <item itemvalue="Application.String_Reverse_WFunction" />
+      <item itemvalue="Application.String_Reverse_WoFunction" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.String_Reverse_Using_SB" />
+        <item itemvalue="Application.String_Reverse_WoFunction" />
         <item itemvalue="Application.Palindrome_Check" />
-        <item itemvalue="Application.String_Reverse" />
+        <item itemvalue="Application.String_Reverse_WFunction" />
         <item itemvalue="Application.StringBuffer_Methods" />
-        <item itemvalue="Application.StringBuilder_Methods" />
-        <item itemvalue="Application.String_Concatenation" />
       </list>
     </recent_temporary>
   </component>
@@ -608,7 +611,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752412297949</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Updating String Reverse Code">
+      <option name="closed" value="true" />
+      <created>1752433713321</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1752433713321</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -645,7 +656,8 @@
     <MESSAGE value="Updating String Operations Code" />
     <MESSAGE value="Updating String Builder Code" />
     <MESSAGE value="Updating String Buffer Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating String Buffer Code" />
+    <MESSAGE value="Updating String Reverse Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating String Reverse Code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
