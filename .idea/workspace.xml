@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating String Operations Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Strings/StringBuilder_Methods.java" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating String Builder Code">
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Strings/StringBuffer_Methods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_06_Strings/String_Concatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_06_Strings/String_Concatenation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_06_Strings/StringBuilder_Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_06_Strings/StringBuilder_Methods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +124,8 @@
     "Application.PrintTableof9Using_Printf.executor": "Run",
     "Application.Relational_Operators.executor": "Run",
     "Application.Replacing_args_in_Main.executor": "Run",
+    "Application.StringBuffer_Methods.executor": "Run",
+    "Application.StringBuilder_Methods.executor": "Run",
     "Application.String_Concatenation.executor": "Run",
     "Application.String_Declaration.executor": "Run",
     "Application.String_Immutability.executor": "Run",
@@ -146,35 +148,35 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.String_Concatenation">
+  <component name="RunManager" selected="Application.StringBuffer_Methods">
+    <configuration name="StringBuffer_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_06_Strings.StringBuffer_Methods" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_06_Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuilder_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_06_Strings.StringBuilder_Methods" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_06_Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="String_Concatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_06_Strings.String_Concatenation" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_06_Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="String_Declaration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_06_Strings.String_Declaration" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_06_Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="String_Immutability" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_06_Strings.String_Immutability" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -213,19 +215,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.StringBuffer_Methods" />
+      <item itemvalue="Application.StringBuilder_Methods" />
       <item itemvalue="Application.String_Concatenation" />
-      <item itemvalue="Application.String_Declaration" />
-      <item itemvalue="Application.String_Immutability" />
       <item itemvalue="Application.String_Initialization" />
       <item itemvalue="Application.String_Operations" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBuffer_Methods" />
+        <item itemvalue="Application.StringBuilder_Methods" />
         <item itemvalue="Application.String_Concatenation" />
         <item itemvalue="Application.String_Operations" />
         <item itemvalue="Application.String_Initialization" />
-        <item itemvalue="Application.String_Declaration" />
-        <item itemvalue="Application.String_Immutability" />
       </list>
     </recent_temporary>
   </component>
@@ -589,7 +591,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752326135864</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Updating String Builder Code">
+      <option name="closed" value="true" />
+      <created>1752409347922</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1752409347923</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -624,7 +634,8 @@
     <MESSAGE value="Updating Strings Code" />
     <MESSAGE value="Updating String immutability Code" />
     <MESSAGE value="Updating String Operations Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating String Operations Code" />
+    <MESSAGE value="Updating String Builder Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating String Builder Code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
