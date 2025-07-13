@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating String immutability Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Strings/String_Concatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Strings/String_Initialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Strings/String_Operations.java" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating String Operations Code">
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Strings/StringBuilder_Methods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_06_Strings/String_Declaration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_06_Strings/String_Declaration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_06_Strings/String_Immutability.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_06_Strings/String_Immutability.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_06_Strings/String_Concatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_06_Strings/String_Concatenation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +146,7 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.String_Operations">
+  <component name="RunManager" selected="Application.String_Concatenation">
     <configuration name="String_Concatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_06_Strings.String_Concatenation" />
       <module name="Java4SDET" />
@@ -224,9 +221,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.String_Concatenation" />
         <item itemvalue="Application.String_Operations" />
         <item itemvalue="Application.String_Initialization" />
-        <item itemvalue="Application.String_Concatenation" />
         <item itemvalue="Application.String_Declaration" />
         <item itemvalue="Application.String_Immutability" />
       </list>
@@ -584,7 +581,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752317892173</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Updating String Operations Code">
+      <option name="closed" value="true" />
+      <created>1752326135864</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1752326135864</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -618,7 +623,8 @@
     <MESSAGE value="Updating main variation Code" />
     <MESSAGE value="Updating Strings Code" />
     <MESSAGE value="Updating String immutability Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating String immutability Code" />
+    <MESSAGE value="Updating String Operations Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating String Operations Code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
