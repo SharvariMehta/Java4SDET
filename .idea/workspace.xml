@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating String Reverse Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Count_Vowels_Consonants_Using_Function.java" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating vowel and consonants Code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_06_Strings/String_Conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_06_Strings/String_Conversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Count_Vowels_Consonants_Using_Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Count_Vowels_Consonants_Using_Function.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +129,7 @@
     "Application.StringBuilder_Methods.executor": "Run",
     "Application.StringReverse_WoFunction.executor": "Run",
     "Application.String_Concatenation.executor": "Run",
+    "Application.String_Conversion.executor": "Run",
     "Application.String_Declaration.executor": "Run",
     "Application.String_Immutability.executor": "Run",
     "Application.String_Initialization.executor": "Run",
@@ -151,7 +153,7 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Count_Vowels_Consonants_Using_Function">
+  <component name="RunManager" selected="Application.String_Conversion">
     <configuration name="Count_Vowels_Consonants_Using_Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.Count_Vowels_Consonants_Using_Function" />
       <module name="Java4SDET" />
@@ -178,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_Reverse_Using_SB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.String_Reverse_Using_SB" />
+    <configuration name="String_Conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_06_Strings.String_Conversion" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_20_Java_Codes_1_Normal.*" />
+          <option name="PATTERN" value="ex_06_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,8 +193,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_Reverse_WFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.String_Reverse_WFunction" />
+    <configuration name="String_Reverse_Using_SB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.String_Reverse_Using_SB" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -218,19 +220,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.String_Conversion" />
       <item itemvalue="Application.Count_Vowels_Consonants_Using_Function" />
       <item itemvalue="Application.Palindrome_Check" />
       <item itemvalue="Application.String_Reverse_Using_SB" />
-      <item itemvalue="Application.String_Reverse_WFunction" />
       <item itemvalue="Application.String_Reverse_WoFunction" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.String_Conversion" />
         <item itemvalue="Application.Count_Vowels_Consonants_Using_Function" />
         <item itemvalue="Application.String_Reverse_Using_SB" />
         <item itemvalue="Application.String_Reverse_WoFunction" />
         <item itemvalue="Application.Palindrome_Check" />
-        <item itemvalue="Application.String_Reverse_WFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -241,22 +243,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Updating Hello World to Hello Java">
-      <option name="closed" value="true" />
-      <created>1747940189643</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1747940189643</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Updating ex_02_datatypes_Typecasting">
-      <option name="closed" value="true" />
-      <created>1747942429317</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1747942429317</updated>
     </task>
     <task id="LOCAL-00003" summary="Updating ex_02_datatypes_Typecasting">
       <option name="closed" value="true" />
@@ -634,7 +620,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752436000850</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Updating vowel and consonants Code">
+      <option name="closed" value="true" />
+      <created>1752437653739</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1752437653740</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Updating vowel and consonants Code">
+      <option name="closed" value="true" />
+      <created>1752437673794</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1752437673794</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -672,7 +674,8 @@
     <MESSAGE value="Updating String Builder Code" />
     <MESSAGE value="Updating String Buffer Code" />
     <MESSAGE value="Updating String Reverse Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating String Reverse Code" />
+    <MESSAGE value="Updating vowel and consonants Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating vowel and consonants Code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
