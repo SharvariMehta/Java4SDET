@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating vowel and consonants Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Arrays/Array_Declaration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Arrays Code">
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Arrays/Array_Declaration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Arrays/Array_Declaration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +60,7 @@
     "Application.Age_Classification.executor": "Run",
     "Application.Arithmetic_Operations_Functions.executor": "Run",
     "Application.Arithmetic_Operators.executor": "Run",
+    "Application.Array_Declaration.executor": "Run",
     "Application.Assignment_Operators.executor": "Run",
     "Application.Bitwise_Operators.executor": "Run",
     "Application.Break_Keyword.executor": "Run",
@@ -242,14 +242,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Updating ex_02_datatypes_Typecasting">
-      <option name="closed" value="true" />
-      <created>1748368814936</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1748368814936</updated>
     </task>
     <task id="LOCAL-00005" summary="Adding demo code for keywords and identifiers">
       <option name="closed" value="true" />
@@ -635,7 +627,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752512861182</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Updating Arrays Code">
+      <option name="closed" value="true" />
+      <created>1752602932358</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1752602932359</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -674,7 +674,8 @@
     <MESSAGE value="Updating String Buffer Code" />
     <MESSAGE value="Updating String Reverse Code" />
     <MESSAGE value="Updating vowel and consonants Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating vowel and consonants Code" />
+    <MESSAGE value="Updating Arrays Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating Arrays Code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
