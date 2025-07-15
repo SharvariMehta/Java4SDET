@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Arrays Code">
-      <change beforePath="$PROJECT_DIR$/src/ex_05_Arrays/Array_Declaration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Arrays/Array_Declaration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Arrays/Array_ForEach_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Arrays/Array_Max_Min.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Fibonacci_Calculator.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +64,7 @@
     "Application.Arithmetic_Operations_Functions.executor": "Run",
     "Application.Arithmetic_Operators.executor": "Run",
     "Application.Array_Declaration.executor": "Run",
+    "Application.Array_Max_Min.executor": "Run",
     "Application.Assignment_Operators.executor": "Run",
     "Application.Bitwise_Operators.executor": "Run",
     "Application.Break_Keyword.executor": "Run",
@@ -152,9 +156,22 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Array_Declaration">
+  <component name="RunManager" selected="Application.Array_Max_Min">
     <configuration name="Array_Declaration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_05_Arrays.Array_Declaration" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_05_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array_Max_Min" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_05_Arrays.Array_Max_Min" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -205,33 +222,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_Reverse_WoFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.String_Reverse_WoFunction" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_20_Java_Codes_1_Normal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Array_Declaration" />
+      <item itemvalue="Application.Array_Max_Min" />
       <item itemvalue="Application.String_Conversion" />
       <item itemvalue="Application.Count_Vowels_Consonants_Using_Function" />
       <item itemvalue="Application.String_Reverse_Using_SB" />
-      <item itemvalue="Application.String_Reverse_WoFunction" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array_Max_Min" />
         <item itemvalue="Application.Array_Declaration" />
         <item itemvalue="Application.String_Conversion" />
         <item itemvalue="Application.Count_Vowels_Consonants_Using_Function" />
         <item itemvalue="Application.String_Reverse_Using_SB" />
-        <item itemvalue="Application.String_Reverse_WoFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -242,14 +246,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Adding demo code for keywords and identifiers">
-      <option name="closed" value="true" />
-      <created>1748368974573</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1748368974573</updated>
     </task>
     <task id="LOCAL-00006" summary="Adding demo code for datatypes">
       <option name="closed" value="true" />
@@ -635,7 +631,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752602932359</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Updating Arrays Code">
+      <option name="closed" value="true" />
+      <created>1752603319028</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1752603319028</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
