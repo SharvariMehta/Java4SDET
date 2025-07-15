@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating vowel and consonants Code">
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Arrays/Array_Declaration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_06_Strings/String_Conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_06_Strings/String_Conversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Count_Vowels_Consonants_Using_Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Count_Vowels_Consonants_Using_Function.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,13 +152,13 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.String_Conversion">
-    <configuration name="Count_Vowels_Consonants_Using_Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.Count_Vowels_Consonants_Using_Function" />
+  <component name="RunManager" selected="Application.Array_Declaration">
+    <configuration name="Array_Declaration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_05_Arrays.Array_Declaration" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_20_Java_Codes_1_Normal.*" />
+          <option name="PATTERN" value="ex_05_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,8 +166,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome_Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.Palindrome_Check" />
+    <configuration name="Count_Vowels_Consonants_Using_Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.Count_Vowels_Consonants_Using_Function" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -220,19 +219,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Array_Declaration" />
       <item itemvalue="Application.String_Conversion" />
       <item itemvalue="Application.Count_Vowels_Consonants_Using_Function" />
-      <item itemvalue="Application.Palindrome_Check" />
       <item itemvalue="Application.String_Reverse_Using_SB" />
       <item itemvalue="Application.String_Reverse_WoFunction" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array_Declaration" />
         <item itemvalue="Application.String_Conversion" />
         <item itemvalue="Application.Count_Vowels_Consonants_Using_Function" />
         <item itemvalue="Application.String_Reverse_Using_SB" />
         <item itemvalue="Application.String_Reverse_WoFunction" />
-        <item itemvalue="Application.Palindrome_Check" />
       </list>
     </recent_temporary>
   </component>
@@ -243,14 +242,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Updating ex_02_datatypes_Typecasting">
-      <option name="closed" value="true" />
-      <created>1747942489303</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1747942489303</updated>
     </task>
     <task id="LOCAL-00004" summary="Updating ex_02_datatypes_Typecasting">
       <option name="closed" value="true" />
@@ -636,7 +627,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752437673794</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Updating vowel and consonants Code">
+      <option name="closed" value="true" />
+      <created>1752512861181</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1752512861182</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
