@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Arrays Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Arrays/Array_2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Arrays/Array_Jagged.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Multiplication_Table.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Arrays/Array_2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Arrays/Array_2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Arrays/Array_Jagged.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Arrays/Array_Jagged.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +71,7 @@
     "Application.Array_Declaration.executor": "Run",
     "Application.Array_ForEach_Loop.executor": "Run",
     "Application.Array_Input.executor": "Run",
+    "Application.Array_Jagged.executor": "Run",
     "Application.Array_Max_Min.executor": "Run",
     "Application.Array_Odd_Even.executor": "Run",
     "Application.Array_Reverse.executor": "Run",
@@ -117,12 +122,16 @@
     "Application.Math_Class.executor": "Run",
     "Application.Max_ThreeNumbers.executor": "Run",
     "Application.MultipleinputViaConsole.executor": "Run",
+    "Application.Multiplication_Table.executor": "Run",
     "Application.Non_Primitive_Datatypes.executor": "Run",
     "Application.Operators_Concatenation.executor": "Run",
     "Application.OutputUsingPrintTypes.executor": "Run",
     "Application.Palindrome_Check.executor": "Run",
     "Application.Pattern_1.executor": "Run",
     "Application.Pattern_10.executor": "Run",
+    "Application.Pattern_11.executor": "Run",
+    "Application.Pattern_12.executor": "Run",
+    "Application.Pattern_13.executor": "Run",
     "Application.Pattern_2.executor": "Run",
     "Application.Pattern_3.executor": "Run",
     "Application.Pattern_4.executor": "Run",
@@ -164,9 +173,9 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Array_2D">
-    <configuration name="Array_2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_05_Arrays.Array_2D" />
+  <component name="RunManager" selected="Application.Pattern_12">
+    <configuration name="Array_Jagged" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_05_Arrays.Array_Jagged" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -178,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array_2nd_Highest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_05_Arrays.Array_2nd_Highest" />
+    <configuration name="Multiplication_Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.Multiplication_Table" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_05_Arrays.*" />
+          <option name="PATTERN" value="ex_20_Java_Codes_1_Normal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array_Odd_Even" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_05_Arrays.Array_Odd_Even" />
+    <configuration name="Pattern_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_19_Java_Codes_0_Pattern.Pattern_11" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_05_Arrays.*" />
+          <option name="PATTERN" value="ex_19_Java_Codes_0_Pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_05_Arrays.Array_Sum" />
+    <configuration name="Pattern_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_19_Java_Codes_0_Pattern.Pattern_12" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_05_Arrays.*" />
+          <option name="PATTERN" value="ex_19_Java_Codes_0_Pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,13 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array_Using_CLI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_05_Arrays.Array_Using_CLI" />
+    <configuration name="Pattern_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_19_Java_Codes_0_Pattern.Pattern_13" />
       <module name="Java4SDET" />
-      <option name="PROGRAM_PARAMETERS" value="10 20 30 90 80 70" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_05_Arrays.*" />
+          <option name="PATTERN" value="ex_19_Java_Codes_0_Pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,19 +240,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Array_2D" />
-      <item itemvalue="Application.Array_2nd_Highest" />
-      <item itemvalue="Application.Array_Odd_Even" />
-      <item itemvalue="Application.Array_Sum" />
-      <item itemvalue="Application.Array_Using_CLI" />
+      <item itemvalue="Application.Array_Jagged" />
+      <item itemvalue="Application.Multiplication_Table" />
+      <item itemvalue="Application.Pattern_11" />
+      <item itemvalue="Application.Pattern_12" />
+      <item itemvalue="Application.Pattern_13" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Array_2D" />
-        <item itemvalue="Application.Array_Odd_Even" />
-        <item itemvalue="Application.Array_2nd_Highest" />
-        <item itemvalue="Application.Array_Using_CLI" />
-        <item itemvalue="Application.Array_Sum" />
+        <item itemvalue="Application.Pattern_12" />
+        <item itemvalue="Application.Pattern_13" />
+        <item itemvalue="Application.Multiplication_Table" />
+        <item itemvalue="Application.Pattern_11" />
+        <item itemvalue="Application.Array_Jagged" />
       </list>
     </recent_temporary>
   </component>
@@ -255,14 +263,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Adding demo code for Input/Output">
-      <option name="closed" value="true" />
-      <created>1748852355986</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1748852355986</updated>
     </task>
     <task id="LOCAL-00012" summary="updating README.md">
       <option name="closed" value="true" />
@@ -648,7 +648,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752690736194</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Updating Arrays Code">
+      <option name="closed" value="true" />
+      <created>1752752452088</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1752752452089</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
