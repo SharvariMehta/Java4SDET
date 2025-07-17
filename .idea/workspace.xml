@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Arrays Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Arrays/Array_2nd_Highest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Arrays/Array_Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Arrays/Array_Odd_Even.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Arrays/Array_Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Arrays/Array_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_Arrays/Array_Using_CLI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Arrays/Array_2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Arrays/Array_Jagged.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +62,7 @@
     "Application.Age_Classification.executor": "Run",
     "Application.Arithmetic_Operations_Functions.executor": "Run",
     "Application.Arithmetic_Operators.executor": "Run",
+    "Application.Array_2D.executor": "Run",
     "Application.Array_2nd_Highest.executor": "Run",
     "Application.Array_Declaration.executor": "Run",
     "Application.Array_ForEach_Loop.executor": "Run",
@@ -167,7 +164,20 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Array_Odd_Even">
+  <component name="RunManager" selected="Application.Array_2D">
+    <configuration name="Array_2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_05_Arrays.Array_2D" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_05_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Array_2nd_Highest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_05_Arrays.Array_2nd_Highest" />
       <module name="Java4SDET" />
@@ -183,19 +193,6 @@
     </configuration>
     <configuration name="Array_Odd_Even" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_05_Arrays.Array_Odd_Even" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_05_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Array_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_05_Arrays.Array_Reverse" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -235,19 +232,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Array_2D" />
       <item itemvalue="Application.Array_2nd_Highest" />
       <item itemvalue="Application.Array_Odd_Even" />
-      <item itemvalue="Application.Array_Reverse" />
       <item itemvalue="Application.Array_Sum" />
       <item itemvalue="Application.Array_Using_CLI" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array_2D" />
         <item itemvalue="Application.Array_Odd_Even" />
         <item itemvalue="Application.Array_2nd_Highest" />
         <item itemvalue="Application.Array_Using_CLI" />
         <item itemvalue="Application.Array_Sum" />
-        <item itemvalue="Application.Array_Reverse" />
       </list>
     </recent_temporary>
   </component>
@@ -258,14 +255,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Adding demo code for Input/Output">
-      <option name="closed" value="true" />
-      <created>1748852292094</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1748852292094</updated>
     </task>
     <task id="LOCAL-00011" summary="Adding demo code for Input/Output">
       <option name="closed" value="true" />
@@ -651,7 +640,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752683138715</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Updating Arrays Code">
+      <option name="closed" value="true" />
+      <created>1752690736194</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1752690736194</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
