@@ -38,6 +38,7 @@ The code is neatly organized into topic-based folders for easy navigation:
 | ex_19_Java_Codes_0_Pattern          | Pattern printing Java codes                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ex_20_Java_Codes_1_Normal           | Common Java Coding Questions                                                                                                                                                                                                                                                                                                                                                                                                                                       | 
 
+
 ## 🔜 Whats Next? 
 - /basic_datastructures/     → Hashing (HashMap, HashSet), Heaps
 - /basic_algorithms/         → Sorting, Searching, Traversal, Recursion
