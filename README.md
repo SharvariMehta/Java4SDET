@@ -44,6 +44,15 @@ The code is neatly organized into topic-based folders for easy navigation:
 - /unit_testing_junit/       → Writing simple test cases with JUnit (used in automation) 
 ∞
 
+
+fed 1 trad 1 hno ctmf rule
+bob 1  trad 1 hno ctmf rule
+state arb - sachin
+low dollar
+
+
+
+
 ## 🛠 Technologies Used
 
 - Java 8+
