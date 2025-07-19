@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Arrays Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Object_Oriented_Programs/Classes_And_Objects_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Object_Oriented_Programs/Classes_And_Objects_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Object_Oriented_Programs/Two_Main_Functions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_19_Java_Codes_0_Pattern/Pattern_13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,139 +58,127 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Age_Classification.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Arithmetic_Operations_Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Arithmetic_Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_2D.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_2nd_Highest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_Declaration.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_ForEach_Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_Input.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_Jagged.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_Max_Min.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_Odd_Even.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_Reverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_Using_CLI.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Assignment_Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bitwise_Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Break_Keyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Changing_Square_Brackets.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Continue_Keyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Count_Vowels.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Count_Vowels_Consonants.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DecrementOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Do_While_Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Even_For_Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Even_Odd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Even_Odd_Continue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Even_Odd_Using_For_Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Explicit_TypeCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Expression_MathFunction.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factorial_Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fibonacci_Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Final_Keyword (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Final_Keyword (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Final_Keyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FizzBuzz_Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.For_Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Four_Types_Of_Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Function_With_Parameters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Function_With_ReturnType.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Grade_Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Guessing_Game.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IfElseCondition.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Implicit_TypeCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IncrementOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InputUsingBufferReader.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InputUsingConsole.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InputUsingScanner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Keyword_Identifier.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Leap_Year_Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Literals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Logical_Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MAXNumberViaConsole.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_Varargs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main_Without_Space.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Math.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Math_Class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Max_ThreeNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultipleinputViaConsole.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multiplication_Table.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Non_Primitive_Datatypes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Operators_Concatenation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OutputUsingPrintTypes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrome_Check.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_12.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_14.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Primitive_data_types.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintTableof9Using_Printf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Relational_Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Replacing_args_in_Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringBuffer_Methods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringBuilder_Methods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringReverse_WoFunction.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_Concatenation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_Conversion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_Declaration.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_Immutability.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_Initialization.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_Operations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_Reverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_Reverse_Using_SB.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Switch_Case.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Switch_Case_Arrows.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ternary_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Triangle_Classifier.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Unary_Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Application.While_Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ifCondition.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;ToolWindow.Run.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sharvari Mehta/IdeaProjects/Java4SDET&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Sharvari Mehta/IdeaProjects/Java4SDET/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Age_Classification.executor": "Run",
+    "Application.Arithmetic_Operations_Functions.executor": "Run",
+    "Application.Arithmetic_Operators.executor": "Run",
+    "Application.Array_2D.executor": "Run",
+    "Application.Array_2nd_Highest.executor": "Run",
+    "Application.Array_Declaration.executor": "Run",
+    "Application.Array_ForEach_Loop.executor": "Run",
+    "Application.Array_Input.executor": "Run",
+    "Application.Array_Jagged.executor": "Run",
+    "Application.Array_Max_Min.executor": "Run",
+    "Application.Array_Odd_Even.executor": "Run",
+    "Application.Array_Reverse.executor": "Run",
+    "Application.Array_Sum.executor": "Run",
+    "Application.Array_Using_CLI.executor": "Run",
+    "Application.Assignment_Operators.executor": "Run",
+    "Application.Bitwise_Operators.executor": "Run",
+    "Application.Break_Keyword.executor": "Run",
+    "Application.Changing_Square_Brackets.executor": "Run",
+    "Application.Classes_And_Objects.executor": "Run",
+    "Application.Continue_Keyword.executor": "Run",
+    "Application.Count_Vowels.executor": "Run",
+    "Application.Count_Vowels_Consonants.executor": "Run",
+    "Application.DecrementOperator.executor": "Run",
+    "Application.Do_While_Loop.executor": "Run",
+    "Application.Even_For_Loop.executor": "Run",
+    "Application.Even_Odd.executor": "Run",
+    "Application.Even_Odd_Continue.executor": "Run",
+    "Application.Even_Odd_Using_For_Loop.executor": "Run",
+    "Application.Explicit_TypeCasting.executor": "Run",
+    "Application.Expression_MathFunction.executor": "Run",
+    "Application.Factorial_Calculator.executor": "Run",
+    "Application.Fibonacci_Calculator.executor": "Run",
+    "Application.Final_Keyword (1).executor": "Run",
+    "Application.Final_Keyword (2).executor": "Run",
+    "Application.Final_Keyword.executor": "Run",
+    "Application.FizzBuzz_Test.executor": "Run",
+    "Application.For_Loop.executor": "Run",
+    "Application.Four_Types_Of_Functions.executor": "Run",
+    "Application.Function_With_Parameters.executor": "Run",
+    "Application.Function_With_ReturnType.executor": "Run",
+    "Application.Grade_Calculator.executor": "Run",
+    "Application.Guessing_Game.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.IfElseCondition.executor": "Debug",
+    "Application.Implicit_TypeCasting.executor": "Run",
+    "Application.IncrementOperators.executor": "Run",
+    "Application.InputUsingBufferReader.executor": "Run",
+    "Application.InputUsingConsole.executor": "Run",
+    "Application.InputUsingScanner.executor": "Run",
+    "Application.Keyword_Identifier.executor": "Run",
+    "Application.Leap_Year_Calculator.executor": "Run",
+    "Application.Literals.executor": "Run",
+    "Application.Logical_Operators.executor": "Run",
+    "Application.MAXNumberViaConsole.executor": "Run",
+    "Application.Main_Varargs.executor": "Run",
+    "Application.Main_Without_Space.executor": "Run",
+    "Application.Math.executor": "Run",
+    "Application.Math_Class.executor": "Run",
+    "Application.Max_ThreeNumbers.executor": "Run",
+    "Application.MultipleinputViaConsole.executor": "Run",
+    "Application.Multiplication_Table.executor": "Run",
+    "Application.Non_Primitive_Datatypes.executor": "Run",
+    "Application.Operators_Concatenation.executor": "Run",
+    "Application.OutputUsingPrintTypes.executor": "Run",
+    "Application.Palindrome_Check.executor": "Run",
+    "Application.Pattern_1.executor": "Run",
+    "Application.Pattern_10.executor": "Run",
+    "Application.Pattern_11.executor": "Run",
+    "Application.Pattern_12.executor": "Run",
+    "Application.Pattern_13.executor": "Run",
+    "Application.Pattern_14.executor": "Run",
+    "Application.Pattern_2.executor": "Run",
+    "Application.Pattern_3.executor": "Run",
+    "Application.Pattern_4.executor": "Run",
+    "Application.Pattern_5.executor": "Run",
+    "Application.Pattern_6.executor": "Run",
+    "Application.Pattern_7.executor": "Run",
+    "Application.Pattern_8.executor": "Run",
+    "Application.Pattern_9.executor": "Run",
+    "Application.Primitive_data_types.executor": "Run",
+    "Application.PrintTableof9Using_Printf.executor": "Run",
+    "Application.Relational_Operators.executor": "Run",
+    "Application.Replacing_args_in_Main.executor": "Run",
+    "Application.StringBuffer_Methods.executor": "Run",
+    "Application.StringBuilder_Methods.executor": "Run",
+    "Application.StringReverse_WoFunction.executor": "Run",
+    "Application.String_Concatenation.executor": "Run",
+    "Application.String_Conversion.executor": "Run",
+    "Application.String_Declaration.executor": "Run",
+    "Application.String_Immutability.executor": "Run",
+    "Application.String_Initialization.executor": "Run",
+    "Application.String_Operations.executor": "Run",
+    "Application.String_Reverse.executor": "Run",
+    "Application.String_Reverse_Using_SB.executor": "Run",
+    "Application.Switch_Case.executor": "Run",
+    "Application.Switch_Case_Arrows.executor": "Run",
+    "Application.Ternary_Operator.executor": "Run",
+    "Application.Triangle_Classifier.executor": "Run",
+    "Application.Unary_Operators.executor": "Run",
+    "Application.Variables.executor": "Run",
+    "Application.While_Loop.executor": "Run",
+    "Application.ifCondition.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "ToolWindow.Run.ShowToolbar": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Sharvari Mehta/IdeaProjects/Java4SDET",
+    "onboarding.tips.debug.path": "C:/Users/Sharvari Mehta/IdeaProjects/Java4SDET/src/Main.java",
+    "settings.editor.selected.configurable": "configurable.group.editor"
   }
-}</component>
-  <component name="RunManager" selected="Application.Pattern_12">
-    <configuration name="Multiplication_Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.Multiplication_Table" />
+}]]></component>
+  <component name="RunManager" selected="Application.secondMainFunction">
+    <configuration name="Classes_And_Objects_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_Object_Oriented_Programs.Classes_And_Objects_1" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_20_Java_Codes_1_Normal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pattern_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_19_Java_Codes_0_Pattern.Pattern_11" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_19_Java_Codes_0_Pattern.*" />
+          <option name="PATTERN" value="ex_07_Object_Oriented_Programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,19 +188,6 @@
     </configuration>
     <configuration name="Pattern_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_19_Java_Codes_0_Pattern.Pattern_12" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_19_Java_Codes_0_Pattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pattern_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_19_Java_Codes_0_Pattern.Pattern_13" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -238,20 +212,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Two_Main_Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_Object_Oriented_Programs.Two_Main_Functions" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_07_Object_Oriented_Programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="secondMainFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_Object_Oriented_Programs.secondMainFunction" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_07_Object_Oriented_Programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Multiplication_Table" />
-      <item itemvalue="Application.Pattern_11" />
+      <item itemvalue="Application.Classes_And_Objects_1" />
+      <item itemvalue="Application.Two_Main_Functions" />
+      <item itemvalue="Application.secondMainFunction" />
       <item itemvalue="Application.Pattern_12" />
-      <item itemvalue="Application.Pattern_13" />
       <item itemvalue="Application.Pattern_14" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.secondMainFunction" />
+        <item itemvalue="Application.Two_Main_Functions" />
+        <item itemvalue="Application.Classes_And_Objects_1" />
         <item itemvalue="Application.Pattern_12" />
         <item itemvalue="Application.Pattern_14" />
-        <item itemvalue="Application.Pattern_13" />
-        <item itemvalue="Application.Multiplication_Table" />
-        <item itemvalue="Application.Pattern_11" />
       </list>
     </recent_temporary>
   </component>
@@ -262,30 +262,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00013" summary="updating README.md">
-      <option name="closed" value="true" />
-      <created>1748853141674</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1748853141674</updated>
-    </task>
-    <task id="LOCAL-00014" summary="updating README.md">
-      <option name="closed" value="true" />
-      <created>1748922579142</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1748922579142</updated>
-    </task>
-    <task id="LOCAL-00015" summary="updating README.md">
-      <option name="closed" value="true" />
-      <created>1748961352443</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1748961352443</updated>
     </task>
     <task id="LOCAL-00016" summary="updating Operators Code">
       <option name="closed" value="true" />
@@ -655,7 +631,31 @@
       <option name="project" value="LOCAL" />
       <updated>1752773562779</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Updating Arrays Code">
+      <option name="closed" value="true" />
+      <created>1752863225257</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1752863225257</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Updating Arrays Code">
+      <option name="closed" value="true" />
+      <created>1752863242070</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1752863242070</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Updating Arrays Code">
+      <option name="closed" value="true" />
+      <created>1752863264186</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1752863264186</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
