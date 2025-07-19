@@ -24,7 +24,7 @@ public class Parameterized_Constructor {
 
         void moves()
         {
-            System.out.println(this.name + "Moves at great speed !");
+            System.out.println(this.name + " Moves at great speed !");
         }
 
         car(String name, int year, String model){
@@ -34,3 +34,13 @@ public class Parameterized_Constructor {
         }
     }
 }
+/*
+OUTPUT:
+Details of Car1 :
+Tesla 2012 QQQ
+Tesla Moves at great speed !
+
+Details of Car2 :
+Scorpio 2022 AAA
+Scorpio Moves at great speed !
+ */
