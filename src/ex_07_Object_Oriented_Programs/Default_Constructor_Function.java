@@ -1,9 +1,11 @@
 package ex_07_Object_Oriented_Programs;
 
-public class Default_Constructor {
+public class Default_Constructor_Function {
     public static void main(String[] args) {
         Baby b  = new Baby();
-
+        b.eat();
+        b.sleep();
+        b.repeat();
     }
     public static class Baby{
         void eat(){
@@ -18,6 +20,12 @@ public class Default_Constructor {
         Baby(){
             System.out.println("I am a Default Constructor ! Called at object creation !");
         }
-
     }
 }
+/*
+OUTPUT:
+I am a Default Constructor ! Called at object creation !
+Eat !
+Sleep !
+Repeat !
+ */

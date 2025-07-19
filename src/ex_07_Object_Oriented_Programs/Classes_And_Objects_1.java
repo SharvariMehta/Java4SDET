@@ -47,5 +47,15 @@ public class Classes_And_Objects_1 {
             return "Hello "+name;
         }
     }
-
 }
+/*
+OUTPUT:
+Sitting
+Hello Jack
+Hello Tommy
+Both Dogs can to below functions:
+Eating
+Running
+Sleeping
+Sitting
+ */
