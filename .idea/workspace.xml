@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating constructor Code">
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating readme file Code">
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Inheritance/Hierarchial_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Inheritance/Hybrid_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Inheritance/MultiLevel_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Inheritance/Multiple_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Inheritance/Single_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Single_Inheritance_QA_Ex/CommonToAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Single_Inheritance_QA_Ex/Single_Inheritance_QA_Ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Single_Inheritance_QA_Ex/TC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Single_Inheritance_QA_Ex/TC2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_07_Object_Oriented_Programs/Constructor_Overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07_Object_Oriented_Programs/Constructor_Overloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_07_Object_Oriented_Programs/Parameterized_Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07_Object_Oriented_Programs/Parameterized_Constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +119,7 @@
     "Application.Grade_Calculator.executor": "Run",
     "Application.Guessing_Game.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.Hierarchial_Inheritance.executor": "Run",
     "Application.IfElseCondition.executor": "Debug",
     "Application.Implicit_TypeCasting.executor": "Run",
     "Application.IncrementOperators.executor": "Run",
@@ -127,6 +136,8 @@
     "Application.Math.executor": "Run",
     "Application.Math_Class.executor": "Run",
     "Application.Max_ThreeNumbers.executor": "Run",
+    "Application.MultiLevel_Inheritance.executor": "Run",
+    "Application.Multiple_Inheritance.executor": "Run",
     "Application.MultipleinputViaConsole.executor": "Run",
     "Application.Multiplication_Table.executor": "Run",
     "Application.Non_Primitive_Datatypes.executor": "Run",
@@ -157,6 +168,8 @@
     "Application.PrintTableof9Using_Printf.executor": "Run",
     "Application.Relational_Operators.executor": "Run",
     "Application.Replacing_args_in_Main.executor": "Run",
+    "Application.Single_Inheritance.executor": "Run",
+    "Application.Single_Inheritance_QA_Ex.executor": "Run",
     "Application.StringBuffer_Methods.executor": "Run",
     "Application.StringBuilder_Methods.executor": "Run",
     "Application.StringReverse_WoFunction.executor": "Run",
@@ -188,13 +201,13 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Constructor_Overloading">
-    <configuration name="Classes_And_Objects_2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07_Object_Oriented_Programs.Classes_And_Objects_2" />
+  <component name="RunManager" selected="Application.Hierarchial_Inheritance">
+    <configuration name="Hierarchial_Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_Inheritance.Hierarchial_Inheritance" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_07_Object_Oriented_Programs.*" />
+          <option name="PATTERN" value="ex_08_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +215,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Constructor_Overloading (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07_Object_Oriented_Programs.Constructor_Overloading" />
+    <configuration name="MultiLevel_Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_Inheritance.MultiLevel_Inheritance" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_07_Object_Oriented_Programs.*" />
+          <option name="PATTERN" value="ex_08_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +228,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Constructor_Overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07_Object_Oriented_Programs.Constructor_Overloading" />
+    <configuration name="Multiple_Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_Inheritance.Multiple_Inheritance" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_07_Object_Oriented_Programs.*" />
+          <option name="PATTERN" value="ex_08_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,12 +241,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Parameterized_Constructor (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07_Object_Oriented_Programs.Parameterized_Constructor" />
+    <configuration name="Single_Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_Inheritance.Single_Inheritance" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_07_Object_Oriented_Programs.*" />
+          <option name="PATTERN" value="ex_08_Single_Inheritance_QA_Ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,25 +254,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Parameterized_Constructor (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07_Object_Oriented_Programs.Parameterized_Constructor" />
+    <configuration name="Single_Inheritance_QA_Ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_Single_Inheritance_QA_Ex.Single_Inheritance_QA_Ex" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_07_Object_Oriented_Programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Parameterized_Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07_Object_Oriented_Programs.Parameterized_Constructor" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_07_Object_Oriented_Programs.*" />
+          <option name="PATTERN" value="ex_08_Single_Inheritance_QA_Ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,19 +268,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Constructor_Overloading" />
-      <item itemvalue="Application.Constructor_Overloading (1)" />
-      <item itemvalue="Application.Parameterized_Constructor" />
-      <item itemvalue="Application.Parameterized_Constructor (1)" />
-      <item itemvalue="Application.Parameterized_Constructor (5)" />
+      <item itemvalue="Application.Hierarchial_Inheritance" />
+      <item itemvalue="Application.MultiLevel_Inheritance" />
+      <item itemvalue="Application.Multiple_Inheritance" />
+      <item itemvalue="Application.Single_Inheritance" />
+      <item itemvalue="Application.Single_Inheritance_QA_Ex" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Constructor_Overloading" />
-        <item itemvalue="Application.Constructor_Overloading (1)" />
-        <item itemvalue="Application.Parameterized_Constructor" />
-        <item itemvalue="Application.Parameterized_Constructor (1)" />
-        <item itemvalue="Application.Parameterized_Constructor (5)" />
+        <item itemvalue="Application.Hierarchial_Inheritance" />
+        <item itemvalue="Application.Multiple_Inheritance" />
+        <item itemvalue="Application.MultiLevel_Inheritance" />
+        <item itemvalue="Application.Single_Inheritance_QA_Ex" />
+        <item itemvalue="Application.Single_Inheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -291,22 +291,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00019" summary="updating TypeCasting Code">
-      <option name="closed" value="true" />
-      <created>1749665118585</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1749665118585</updated>
-    </task>
-    <task id="LOCAL-00020" summary="updating Ternary Operator Code">
-      <option name="closed" value="true" />
-      <created>1749909466865</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1749909466865</updated>
     </task>
     <task id="LOCAL-00021" summary="updating InputUsingConsole Code">
       <option name="closed" value="true" />
@@ -684,7 +668,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752949758089</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Updating constructor overloading Code">
+      <option name="closed" value="true" />
+      <created>1752950750325</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1752950750326</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Updating readme file Code">
+      <option name="closed" value="true" />
+      <created>1752950831733</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1752950831733</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -699,8 +699,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding demo code for Keywords and identifiers" />
-    <MESSAGE value="Adding demo code for keywords and identifiers" />
     <MESSAGE value="Adding demo code for datatypes" />
     <MESSAGE value="Adding demo code for Input/Output" />
     <MESSAGE value="updating README.md" />
@@ -724,7 +722,9 @@
     <MESSAGE value="Updating Arrays Code" />
     <MESSAGE value="Updating OOPs Code" />
     <MESSAGE value="Updating constructor Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating constructor Code" />
+    <MESSAGE value="Updating constructor overloading Code" />
+    <MESSAGE value="Updating readme file Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating readme file Code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
