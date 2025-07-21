@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Inheritance Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Polymorphism/Method_OverLoading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Polymorphism/Method_OverRiding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Polymorphism/Method_OverRiding_QA_Ex.java" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Polymorphism Code">
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Encapsulation/Encapsulation_Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +90,8 @@
     "Application.Default_Constructor.executor": "Run",
     "Application.Default_Constructor_Object.executor": "Run",
     "Application.Do_While_Loop.executor": "Run",
+    "Application.Encapsulation_Demo (1).executor": "Run",
+    "Application.Encapsulation_Demo.executor": "Run",
     "Application.Even_For_Loop.executor": "Run",
     "Application.Even_Odd.executor": "Run",
     "Application.Even_Odd_Continue.executor": "Run",
@@ -198,13 +198,13 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Method_OverRiding_QA_Ex (2)">
-    <configuration name="Method_OverRiding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_09_Polymorphism.Method_OverRiding" />
+  <component name="RunManager" selected="Application.Encapsulation_Demo (2)">
+    <configuration name="Encapsulation_Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_10_Encapsulation.Encapsulation_Demo" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_09_Polymorphism.*" />
+          <option name="PATTERN" value="ex_10_Encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,12 +212,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method_OverRiding_QA_Ex (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_09_Polymorphism.Method_OverRiding_QA_Ex" />
+    <configuration name="Encapsulation_Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_10_Encapsulation.Encapsulation_Demo" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_09_Polymorphism.*" />
+          <option name="PATTERN" value="ex_10_Encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Encapsulation_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_10_Encapsulation.Encapsulation_Demo" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_10_Encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,33 +264,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method_Overriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_09_Polymorphism.Method_Overriding" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_09_Polymorphism.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Method_OverRiding" />
+      <item itemvalue="Application.Encapsulation_Demo" />
+      <item itemvalue="Application.Encapsulation_Demo (1)" />
+      <item itemvalue="Application.Encapsulation_Demo (2)" />
       <item itemvalue="Application.Method_OverRiding_QA_Ex" />
-      <item itemvalue="Application.Method_OverRiding_QA_Ex (1)" />
       <item itemvalue="Application.Method_OverRiding_QA_Ex (2)" />
-      <item itemvalue="Application.Method_Overriding" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Encapsulation_Demo (2)" />
+        <item itemvalue="Application.Encapsulation_Demo (1)" />
+        <item itemvalue="Application.Encapsulation_Demo" />
         <item itemvalue="Application.Method_OverRiding_QA_Ex (2)" />
         <item itemvalue="Application.Method_OverRiding_QA_Ex" />
-        <item itemvalue="Application.Method_OverRiding_QA_Ex (1)" />
-        <item itemvalue="Application.Method_OverRiding" />
-        <item itemvalue="Application.Method_Overriding" />
       </list>
     </recent_temporary>
   </component>
@@ -288,14 +288,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00022" summary="updating InputUsingConsole Code">
-      <option name="closed" value="true" />
-      <created>1750584263062</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1750584263062</updated>
     </task>
     <task id="LOCAL-00023" summary="updating Control Flow Code">
       <option name="closed" value="true" />
@@ -681,7 +673,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753009759426</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Updating Polymorphism Code">
+      <option name="closed" value="true" />
+      <created>1753020087883</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1753020087884</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -696,7 +696,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding demo code for Input/Output" />
     <MESSAGE value="updating README.md" />
     <MESSAGE value="updating Operators Code" />
     <MESSAGE value="updating Math Class Code" />
@@ -721,7 +720,8 @@
     <MESSAGE value="Updating constructor overloading Code" />
     <MESSAGE value="Updating readme file Code" />
     <MESSAGE value="Updating Inheritance Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating Inheritance Code" />
+    <MESSAGE value="Updating Polymorphism Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating Polymorphism Code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
