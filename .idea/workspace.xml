@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Access Modifier Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Access_Modifiers_And_Keywords/KW_super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Access_Modifiers_And_Keywords/KW_this.java" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating 'this' keyword Code">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_12_Access_Modifiers_And_Keywords/KW_super.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_12_Access_Modifiers_And_Keywords/KW_super.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -130,6 +130,10 @@
     "Application.InputUsingBufferReader.executor": "Run",
     "Application.InputUsingConsole.executor": "Run",
     "Application.InputUsingScanner.executor": "Run",
+    "Application.KW_super (1).executor": "Run",
+    "Application.KW_super (2).executor": "Run",
+    "Application.KW_super.executor": "Run",
+    "Application.KW_this (1).executor": "Debug",
     "Application.KW_this.executor": "Run",
     "Application.Keyword_Identifier.executor": "Run",
     "Application.Leap_Year_Calculator.executor": "Run",
@@ -216,20 +220,7 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.KW_this">
-    <configuration name="AM_Default" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.AM_Default" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_12_Access_Modifiers_And_Keywords.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.KW_super">
     <configuration name="AM_Public_Main_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.AM_Public_Main_Class" />
       <module name="Java4SDET" />
@@ -282,8 +273,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AM_Public_Main_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.AM_Public_Main_Class" />
+    <configuration name="KW_super (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.KW_super" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -295,7 +286,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KW_this" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="KW_super (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.KW_super" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_12_Access_Modifiers_And_Keywords.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KW_super (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.KW_super" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_12_Access_Modifiers_And_Keywords.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KW_super" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.KW_super" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_12_Access_Modifiers_And_Keywords.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KW_this (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.KW_this" />
       <module name="Java4SDET" />
       <extension name="coverage">
@@ -308,46 +338,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PublicAM (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.PublicAM" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_12_Access_Modifiers_And_Keywords.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PublicAM (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.PublicAM" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_12_Access_Modifiers_And_Keywords.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.KW_this" />
-      <item itemvalue="Application.PublicAM (2)" />
-      <item itemvalue="Application.PublicAM (3)" />
-      <item itemvalue="Application.AM_Default" />
-      <item itemvalue="Application.AM_Public_Main_Class" />
+      <item itemvalue="Application.KW_super" />
+      <item itemvalue="Application.KW_super (1)" />
+      <item itemvalue="Application.KW_super (2)" />
+      <item itemvalue="Application.KW_super (3)" />
+      <item itemvalue="Application.KW_this (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.KW_this" />
-        <item itemvalue="Application.AM_Default" />
-        <item itemvalue="Application.AM_Public_Main_Class" />
-        <item itemvalue="Application.AM_Public_Main_Class" />
-        <item itemvalue="Application.AM_Public_Main_Class" />
+        <item itemvalue="Application.KW_super" />
+        <item itemvalue="Application.KW_super (3)" />
+        <item itemvalue="Application.KW_super (2)" />
+        <item itemvalue="Application.KW_super (1)" />
+        <item itemvalue="Application.KW_this (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -358,14 +362,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00027" summary="updating Control Flow Code">
-      <option name="closed" value="true" />
-      <created>1751547644470</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1751547644470</updated>
     </task>
     <task id="LOCAL-00028" summary="updating Control Flow Code">
       <option name="closed" value="true" />
@@ -751,7 +747,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753124336120</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Updating 'this' keyword Code">
+      <option name="closed" value="true" />
+      <created>1753203693182</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1753203693182</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -766,7 +770,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updating Math Class Code" />
     <MESSAGE value="updating TypeCasting Code" />
     <MESSAGE value="updating Ternary Operator Code" />
     <MESSAGE value="updating InputUsingConsole Code" />
@@ -791,7 +794,8 @@
     <MESSAGE value="Updating Polymorphism Code" />
     <MESSAGE value="Updating Encapsulation Code" />
     <MESSAGE value="Updating Access Modifier Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating Access Modifier Code" />
+    <MESSAGE value="Updating 'this' keyword Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating 'this' keyword Code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
