@@ -20,13 +20,13 @@ public class KW_super {
     }
     public static class vehicle {
         int maxspeed;
-        vehicle() {
-            this.maxspeed = maxspeed;
+        vehicle() {                     // Dehault Constructor
+            this.maxspeed = maxspeed;   // variable
         }
-        vehicle(int minspeed) {
+        vehicle(int minspeed) {         // Parameterized Constructor
             System.out.println("Minimum speed of vehicle is : " +minspeed);
         }
-        void average(){
+        void average(){                 // Method
             System.out.println("Average of vehicle is 10 km/hr");
         }
     }

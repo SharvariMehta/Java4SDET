@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating 'this' keyword Code">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating 'super' keyword Code">
+      <change afterPath="$PROJECT_DIR$/src/ex_11_Abstraction/Abstraction_abstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_Abstraction/Abstraction_interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_Abstraction/employeeDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_Abstraction/taxableIncome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex_12_Access_Modifiers_And_Keywords/KW_super.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_12_Access_Modifiers_And_Keywords/KW_super.java" afterDir="false" />
     </list>
@@ -17,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -66,6 +70,7 @@
     "Application.AM_Protected (1).executor": "Run",
     "Application.AM_Protected (2).executor": "Run",
     "Application.AM_Protected.executor": "Run",
+    "Application.Abstraction_interface.executor": "Run",
     "Application.Age_Classification.executor": "Run",
     "Application.Arithmetic_Operations_Functions.executor": "Run",
     "Application.Arithmetic_Operators.executor": "Run",
@@ -132,6 +137,7 @@
     "Application.InputUsingScanner.executor": "Run",
     "Application.KW_super (1).executor": "Run",
     "Application.KW_super (2).executor": "Run",
+    "Application.KW_super (3).executor": "Run",
     "Application.KW_super.executor": "Run",
     "Application.KW_this (1).executor": "Debug",
     "Application.KW_this.executor": "Run",
@@ -220,7 +226,7 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.KW_super">
+  <component name="RunManager" selected="Application.Abstraction_interface">
     <configuration name="AM_Public_Main_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.AM_Public_Main_Class" />
       <module name="Java4SDET" />
@@ -266,6 +272,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ex_12_Access_Modifiers_And_Keywords.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Abstraction_interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_11_Abstraction.Abstraction_interface" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_11_Abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,33 +344,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KW_this (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.KW_this" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_12_Access_Modifiers_And_Keywords.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.Abstraction_interface" />
       <item itemvalue="Application.KW_super" />
       <item itemvalue="Application.KW_super (1)" />
       <item itemvalue="Application.KW_super (2)" />
       <item itemvalue="Application.KW_super (3)" />
-      <item itemvalue="Application.KW_this (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Abstraction_interface" />
         <item itemvalue="Application.KW_super" />
         <item itemvalue="Application.KW_super (3)" />
         <item itemvalue="Application.KW_super (2)" />
         <item itemvalue="Application.KW_super (1)" />
-        <item itemvalue="Application.KW_this (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -362,14 +368,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00028" summary="updating Control Flow Code">
-      <option name="closed" value="true" />
-      <created>1751652431157</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1751652431157</updated>
     </task>
     <task id="LOCAL-00029" summary="updating Control Flow Code">
       <option name="closed" value="true" />
@@ -755,7 +753,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753203693182</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Updating 'super' keyword Code">
+      <option name="closed" value="true" />
+      <created>1753207150887</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1753207150888</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -770,7 +776,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updating TypeCasting Code" />
     <MESSAGE value="updating Ternary Operator Code" />
     <MESSAGE value="updating InputUsingConsole Code" />
     <MESSAGE value="updating Control Flow Code" />
@@ -795,7 +800,8 @@
     <MESSAGE value="Updating Encapsulation Code" />
     <MESSAGE value="Updating Access Modifier Code" />
     <MESSAGE value="Updating 'this' keyword Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating 'this' keyword Code" />
+    <MESSAGE value="Updating 'super' keyword Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating 'super' keyword Code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
