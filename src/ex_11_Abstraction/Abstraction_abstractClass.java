@@ -9,14 +9,13 @@ public class Abstraction_abstractClass {
     }
 }
 abstract class Father{
-    abstract void loan50k();
-    void loan25k()
+    abstract void loan50k();    // Abstract Function
+    void loan25k()              // Normal Function
     {
         System.out.println("Paid 25K");
     }
 }
 class Child extends Father{
-
     @Override
     void loan50k() {
         System.out.println("Loan is 50K");
