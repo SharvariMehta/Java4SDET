@@ -2,10 +2,10 @@ package ex_12_Access_Modifiers_And_Keywords;
 
 public class KW_static_SIB {
     public static void main(String[] args) {
-        sib s = new sib();
+        eg_sib s = new eg_sib();
     }
 }
-class sib {
+class eg_sib {
     static {
         System.out.println("I am a Static Initialization Block : SIB");
     }

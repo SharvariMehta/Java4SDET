@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating IIB code">
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Access_Modifiers_And_Keywords/KW_static_SIB.java" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating SIB code">
+      <change beforePath="$PROJECT_DIR$/src/ex_12_Access_Modifiers_And_Keywords/KW_static.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +136,10 @@
     "Application.InputUsingScanner.executor": "Run",
     "Application.KW_nonstatic_IIB (1).executor": "Run",
     "Application.KW_nonstatic_IIB (2).executor": "Run",
+    "Application.KW_nonstatic_IIB (3).executor": "Run",
     "Application.KW_nonstatic_IIB.executor": "Run",
+    "Application.KW_static_SIB (1).executor": "Run",
+    "Application.KW_static_SIB.executor": "Run",
     "Application.KW_super (1).executor": "Run",
     "Application.KW_super (2).executor": "Run",
     "Application.KW_super (3).executor": "Run",
@@ -228,7 +231,7 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.KW_static_SIB (1)">
+  <component name="RunManager" selected="Application.KW_nonstatic_IIB (3)">
     <configuration name="AM_Public_Main_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.AM_Public_Main_Class" />
       <module name="Java4SDET" />
@@ -281,7 +284,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KW_nonstatic_IIB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="KW_nonstatic_IIB (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.KW_nonstatic_IIB" />
       <module name="Java4SDET" />
       <extension name="coverage">
@@ -323,17 +326,17 @@
     <list>
       <item itemvalue="Application.KW_nonstatic_IIB (1)" />
       <item itemvalue="Application.KW_nonstatic_IIB (2)" />
+      <item itemvalue="Application.KW_nonstatic_IIB (3)" />
       <item itemvalue="Application.KW_static_SIB" />
       <item itemvalue="Application.KW_static_SIB (1)" />
-      <item itemvalue="Application.KW_nonstatic_IIB" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KW_nonstatic_IIB (3)" />
         <item itemvalue="Application.KW_static_SIB (1)" />
         <item itemvalue="Application.KW_static_SIB" />
         <item itemvalue="Application.KW_nonstatic_IIB (2)" />
         <item itemvalue="Application.KW_nonstatic_IIB (1)" />
-        <item itemvalue="Application.KW_nonstatic_IIB" />
       </list>
     </recent_temporary>
   </component>
@@ -344,14 +347,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00033" summary="updating Control Flow Code">
-      <option name="closed" value="true" />
-      <created>1751948468635</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1751948468635</updated>
     </task>
     <task id="LOCAL-00034" summary="updating Control Flow Code">
       <option name="closed" value="true" />
@@ -737,7 +732,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753378714779</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Updating SIB code">
+      <option name="closed" value="true" />
+      <created>1753379355798</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1753379355798</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -752,7 +755,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updating Pattern Codes" />
     <MESSAGE value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;README.md" />
     <MESSAGE value="Updating Function Code" />
     <MESSAGE value="Updating main variation Code" />
@@ -777,7 +779,8 @@
     <MESSAGE value="Updating Abstraction using interface Code" />
     <MESSAGE value="Updating Abstraction code" />
     <MESSAGE value="Updating IIB code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating IIB code" />
+    <MESSAGE value="Updating SIB code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating SIB code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
