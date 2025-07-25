@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating 'enum' keyword code">
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Access_Modifiers_And_Keywords/KW_enum_QA_ex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_12_Access_Modifiers_And_Keywords/KW_enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_12_Access_Modifiers_And_Keywords/KW_enum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_12_Access_Modifiers_And_Keywords/KW_enum_QA_ex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_12_Access_Modifiers_And_Keywords/KW_enum_QA_ex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_12_Access_Modifiers_And_Keywords/urls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_12_Access_Modifiers_And_Keywords/urls.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +139,7 @@
     "Application.KW_enum (2).executor": "Run",
     "Application.KW_enum (3).executor": "Run",
     "Application.KW_enum.executor": "Run",
+    "Application.KW_enum_QA_ex.executor": "Run",
     "Application.KW_nonstatic_IIB (1).executor": "Run",
     "Application.KW_nonstatic_IIB (2).executor": "Run",
     "Application.KW_nonstatic_IIB (3).executor": "Run",
@@ -385,14 +385,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;README.md">
-      <option name="closed" value="true" />
-      <created>1752170639538</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1752170639538</updated>
     </task>
     <task id="LOCAL-00039" summary="Updating Function Code">
       <option name="closed" value="true" />
@@ -778,7 +770,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753466354844</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Updating 'enum' keyword code">
+      <option name="closed" value="true" />
+      <created>1753467625367</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1753467625367</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
