@@ -1,6 +1,6 @@
 package ex_12_Access_Modifiers_And_Keywords;
 
-public class KW_static {
+public class KW_static1 {
     public static void main(String[] args) {
         System.out.println("Scenario 1 :");
         eg_static_kw ref1 = new eg_static_kw(10);
@@ -8,6 +8,7 @@ public class KW_static {
         System.out.println("Scenario 2 :");
         eg_static_kw ref2 = new eg_static_kw(30);
         ref2.displayValue();
+        System.out.println("Static variable called without creating reference variable : "+eg_static_kw.b);
     }
 }
 class eg_static_kw {
