@@ -1,6 +1,6 @@
-package ex_02_Datatypes_Variables;
+package ex_12_Access_Modifiers_And_Keywords;
 
-public class Final_Keyword {
+public class KW_final {
     public static void main(String[] args) {
         final int max_users  = 1000;
         System.out.println(max_users);
