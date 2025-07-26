@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Wrapper Class code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex_15_Collections/wrapperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_15_Collections/wrapperClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -232,6 +233,8 @@
     "Application.While_Loop.executor": "Run",
     "Application.ifCondition.executor": "Run",
     "Application.secondMainFunction.executor": "Run",
+    "Application.wrapperClass (1).executor": "Run",
+    "Application.wrapperClass (2).executor": "Run",
     "Application.wrapperClass.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -243,7 +246,7 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.wrapperClass (2)">
+  <component name="RunManager" selected="Application.wrapperClass">
     <configuration name="AM_Public_Main_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.AM_Public_Main_Class" />
       <module name="Java4SDET" />
@@ -370,9 +373,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.wrapperClass" />
         <item itemvalue="Application.wrapperClass (2)" />
         <item itemvalue="Application.wrapperClass (1)" />
-        <item itemvalue="Application.wrapperClass" />
         <item itemvalue="Application.KW_enum_QA_ex" />
         <item itemvalue="Application.KW_enum (3)" />
       </list>
@@ -385,14 +388,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Updating Strings Code">
-      <option name="closed" value="true" />
-      <created>1752317517849</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1752317517850</updated>
     </task>
     <task id="LOCAL-00043" summary="Updating String immutability Code">
       <option name="closed" value="true" />
@@ -778,7 +773,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753552473848</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Updating Wrapper Class code">
+      <option name="closed" value="true" />
+      <created>1753552852750</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1753552852750</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
