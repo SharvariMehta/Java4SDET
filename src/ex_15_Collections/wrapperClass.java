@@ -12,7 +12,7 @@ public class wrapperClass {
 
         Integer i5 = 63;
         String s1 = i5.toString(); //Converting wrapper class 'Integer' to string
-        System.out.println("Converting wrapper class 'Integer' to string : "+s1);
+        System.out.println("Converting wrapper class 'Integer' to string using toString(int) : "+s1);
 
         String s2 = "282879";
         Integer i6 = Integer.parseInt(s2);  //Converting string to wrapper class 'Integer' using parseInt(stringName)
@@ -32,10 +32,9 @@ public class wrapperClass {
 OUTPUT:
 AutoBoxing (Converting int to Integer) : 10
 Unboxing (Converting Integer to int) : 23
-Converting wrapper class 'Integer' to string : 63
+Converting wrapper class 'Integer' to string using toString(int) : 63
 Converting string to wrapper class 'Integer' using parseint(stringName) : 282879
 Converting string to primitive data type int using Integer.parseInt(stringName) :282879
 Converting string to wrapper class 'Integer' using valueOf(stringName) : 282879
 Converting string to primitive data type int using valueOf.parseInt(stringName) :282879
-
  */
