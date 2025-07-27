@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Wrapper Class code">
+      <change afterPath="$PROJECT_DIR$/src/ex_13_Object_Class_Methods/toString_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Exception_Handling/checked_ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Exception_Handling/unchecked_ExceptionHandling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_15_Collections/wrapperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_15_Collections/wrapperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,6 +236,7 @@
     "Application.While_Loop.executor": "Run",
     "Application.ifCondition.executor": "Run",
     "Application.secondMainFunction.executor": "Run",
+    "Application.toString_Method.executor": "Run",
     "Application.wrapperClass (1).executor": "Run",
     "Application.wrapperClass (2).executor": "Run",
     "Application.wrapperClass.executor": "Run",
@@ -246,46 +250,7 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.wrapperClass">
-    <configuration name="AM_Public_Main_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.AM_Public_Main_Class" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_12_Access_Modifiers_And_Keywords.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KW_enum (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.KW_enum" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_12_Access_Modifiers_And_Keywords.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KW_enum_QA_ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.KW_enum_QA_ex" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_12_Access_Modifiers_And_Keywords.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.equals_Method">
     <configuration name="KW_enum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.KW_enum" />
       <module name="Java4SDET" />
@@ -299,12 +264,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KW_enum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.KW_enum" />
+    <configuration name="equals_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13_Object_Class_Methods.equals_Method" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_12_Access_Modifiers_And_Keywords.*" />
+          <option name="PATTERN" value="ex_13_Object_Class_Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,12 +277,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KW_static2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.KW_static2" />
+    <configuration name="toString_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13_Object_Class_Methods.toString_Method" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_12_Access_Modifiers_And_Keywords.*" />
+          <option name="PATTERN" value="ex_13_Object_Class_Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,19 +330,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.KW_enum (3)" />
-      <item itemvalue="Application.KW_enum_QA_ex" />
+      <item itemvalue="Application.equals_Method" />
+      <item itemvalue="Application.toString_Method" />
       <item itemvalue="Application.wrapperClass" />
       <item itemvalue="Application.wrapperClass (1)" />
       <item itemvalue="Application.wrapperClass (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.equals_Method" />
+        <item itemvalue="Application.toString_Method" />
         <item itemvalue="Application.wrapperClass" />
         <item itemvalue="Application.wrapperClass (2)" />
         <item itemvalue="Application.wrapperClass (1)" />
-        <item itemvalue="Application.KW_enum_QA_ex" />
-        <item itemvalue="Application.KW_enum (3)" />
       </list>
     </recent_temporary>
   </component>
