@@ -1,4 +1,4 @@
-package ex_12_Access_Modifiers_And_Keywords;
+package ex_12_Access_Modifiers;
 //Accessed in same class, another class and same package
 //NOT accessed in child class
 public class AM_Default {

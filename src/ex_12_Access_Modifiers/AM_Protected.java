@@ -1,4 +1,4 @@
-package ex_12_Access_Modifiers_And_Keywords;
+package ex_12_Access_Modifiers;
 
 //Protected variables are accessible in same class, subclasses and in same package
 // and NOT accessible in another class and another Package

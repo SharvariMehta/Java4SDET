@@ -1,6 +1,4 @@
-package ex_12_Access_Modifiers_And_Keywords;
-
-import jdk.dynalink.beans.StaticClass;
+package ex_14_Keywords;
 
 public class KW_static2 {
     public static void main(String[] args) {

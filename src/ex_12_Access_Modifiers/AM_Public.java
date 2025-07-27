@@ -1,4 +1,4 @@
-package ex_12_Access_Modifiers_And_Keywords;
+package ex_12_Access_Modifiers;
 
 import ex_01_Java_Basics.publicAccessModifierDemo;
 

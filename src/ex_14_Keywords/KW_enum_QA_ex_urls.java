@@ -1,4 +1,4 @@
-package ex_12_Access_Modifiers_And_Keywords;
+package ex_14_Keywords;
 
 public enum KW_enum_QA_ex_urls {
     vwo("www.vwo.com"),

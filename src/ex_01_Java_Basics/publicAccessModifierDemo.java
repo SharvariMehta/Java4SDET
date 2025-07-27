@@ -1,6 +1,6 @@
 package ex_01_Java_Basics;
 
-import ex_12_Access_Modifiers_And_Keywords.AM_Public;
+import ex_12_Access_Modifiers.AM_Public;
 
 public class publicAccessModifierDemo
 {
