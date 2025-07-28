@@ -1,6 +1,6 @@
 package ex_15_Collections;
 
-public class wrapperClass {
+public class WrapperClass {
     public static void main(String[] args) {
         int i1 = 10;
         Integer i2 = i1; //AutoBoxing : JVM will automatically update value from primitive to wrapper

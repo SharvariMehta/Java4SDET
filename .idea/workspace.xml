@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Generics class and method code">
-      <change afterPath="$PROJECT_DIR$/src/ex_18_Multithreading/Multithreading_Ex.java" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Multithreading basic Example code">
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/List_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/List_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/List_NestedArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/List_Vector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_15_Collections/wrapperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_15_Collections/WrapperClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,6 +171,11 @@
     "Application.KW_this.executor": "Run",
     "Application.Keyword_Identifier.executor": "Run",
     "Application.Leap_Year_Calculator.executor": "Run",
+    "Application.List.executor": "Run",
+    "Application.List_ArrayList.executor": "Run",
+    "Application.List_LinkedList.executor": "Run",
+    "Application.List_NestedArrayList.executor": "Run",
+    "Application.List_Vector.executor": "Run",
     "Application.Literals.executor": "Run",
     "Application.Logical_Operators.executor": "Run",
     "Application.MAXNumberViaConsole.executor": "Run",
@@ -243,6 +254,7 @@
     "Application.exception_Handling_2.executor": "Run",
     "Application.exception_Handling_3.executor": "Run",
     "Application.ifCondition.executor": "Run",
+    "Application.list_ex.executor": "Run",
     "Application.secondMainFunction.executor": "Run",
     "Application.throwsVSthrow_ex.executor": "Run",
     "Application.throws_ex.executor": "Run",
@@ -263,7 +275,7 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Multithreading_Ex">
+  <component name="RunManager" selected="Application.List_NestedArrayList">
     <configuration name="Generics_Class (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_17_Generics.Generics_Class" />
       <module name="Java4SDET" />
@@ -290,12 +302,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Generics_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_17_Generics.Generics_Class" />
+    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.List" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_17_Generics.*" />
+          <option name="PATTERN" value="ex_15_Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,12 +315,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Generics_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_17_Generics.Generics_Class" />
+    <configuration name="List_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.List_ArrayList" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_17_Generics.*" />
+          <option name="PATTERN" value="ex_15_Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,12 +328,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Generics_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_17_Generics.Generics_Class" />
+    <configuration name="List_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.List_LinkedList" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_17_Generics.*" />
+          <option name="PATTERN" value="ex_15_Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,12 +341,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Generics_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_17_Generics.Generics_Class" />
+    <configuration name="List_NestedArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.List_NestedArrayList" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_17_Generics.*" />
+          <option name="PATTERN" value="ex_15_Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -342,12 +354,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multithreading_Ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_18_Multithreading.Multithreading_Ex" />
+    <configuration name="List_Vector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.List_Vector" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_18_Multithreading.*" />
+          <option name="PATTERN" value="ex_15_Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -356,19 +368,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Generics_Class" />
-      <item itemvalue="Application.Generics_Class (1)" />
-      <item itemvalue="Application.Generics_Class (2)" />
-      <item itemvalue="Application.Generics_Class (3)" />
-      <item itemvalue="Application.Multithreading_Ex" />
+      <item itemvalue="Application.List" />
+      <item itemvalue="Application.List_ArrayList" />
+      <item itemvalue="Application.List_LinkedList" />
+      <item itemvalue="Application.List_NestedArrayList" />
+      <item itemvalue="Application.List_Vector" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Multithreading_Ex" />
-        <item itemvalue="Application.Generics_Class (3)" />
-        <item itemvalue="Application.Generics_Class (2)" />
-        <item itemvalue="Application.Generics_Class (1)" />
-        <item itemvalue="Application.Generics_Class" />
+        <item itemvalue="Application.List_NestedArrayList" />
+        <item itemvalue="Application.List_Vector" />
+        <item itemvalue="Application.List_LinkedList" />
+        <item itemvalue="Application.List_ArrayList" />
+        <item itemvalue="Application.List" />
       </list>
     </recent_temporary>
   </component>
@@ -379,14 +391,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Updating String Reverse Code">
-      <option name="closed" value="true" />
-      <created>1752435941478</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1752435941478</updated>
     </task>
     <task id="LOCAL-00049" summary="Updating String Reverse Code">
       <option name="closed" value="true" />
@@ -772,7 +776,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753685466871</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Updating Multithreading basic Example code">
+      <option name="closed" value="true" />
+      <created>1753686032727</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1753686032727</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -787,7 +799,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updating String Reverse Code" />
     <MESSAGE value="Updating vowel and consonants Code" />
     <MESSAGE value="Updating Arrays Code" />
     <MESSAGE value="Updating OOPs Code" />
@@ -812,7 +823,8 @@
     <MESSAGE value="Updating Keywords, Access Modifier and Exception Handling code" />
     <MESSAGE value="Updating Exception Handling code" />
     <MESSAGE value="Updating Generics class and method code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating Generics class and method code" />
+    <MESSAGE value="Updating Multithreading basic Example code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating Multithreading basic Example code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
