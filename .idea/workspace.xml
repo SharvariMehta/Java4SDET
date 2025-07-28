@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Keywords, Access Modifier and Exception Handling code">
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Exception_Handling/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Exception_Handling/custom_exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Exception_Handling/exception_Handling_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Exception_Handling/exception_Handling_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Exception_Handling/throwsVSthrow_ex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Exception_Handling/try_catch_finally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Exception_Handling/try_catch_finally_ex.java" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Exception Handling code">
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Generics/Generics_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Generics/Generics_Variables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_16_Exception_Handling/exception_Handling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_16_Exception_Handling/exception_Handling_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,6 +126,11 @@
     "Application.Four_Types_Of_Functions.executor": "Run",
     "Application.Function_With_Parameters.executor": "Run",
     "Application.Function_With_ReturnType.executor": "Run",
+    "Application.Generics_Class (1).executor": "Run",
+    "Application.Generics_Class (2).executor": "Run",
+    "Application.Generics_Class (3).executor": "Run",
+    "Application.Generics_Class.executor": "Run",
+    "Application.Generics_ex.executor": "Run",
     "Application.Grade_Calculator.executor": "Run",
     "Application.Guessing_Game.executor": "Run",
     "Application.HelloWorld.executor": "Run",
@@ -264,13 +263,13 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.custom_exception">
-    <configuration name="KW_enum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_12_Access_Modifiers_And_Keywords.KW_enum" />
+  <component name="RunManager" selected="Application.Generics_Class (3)">
+    <configuration name="Generics_Class (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_17_Generics.Generics_Class" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_12_Access_Modifiers_And_Keywords.*" />
+          <option name="PATTERN" value="ex_17_Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,12 +277,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="custom_exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_16_Exception_Handling.custom_exception" />
+    <configuration name="Generics_Class (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_17_Generics.Generics_Class" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_16_Exception_Handling.*" />
+          <option name="PATTERN" value="ex_17_Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,12 +290,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exception_Handling_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_16_Exception_Handling.exception_Handling_3" />
+    <configuration name="Generics_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_17_Generics.Generics_Class" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_16_Exception_Handling.*" />
+          <option name="PATTERN" value="ex_17_Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -304,12 +303,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="throwsVSthrow_ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_16_Exception_Handling.throwsVSthrow_ex" />
+    <configuration name="Generics_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_17_Generics.Generics_Class" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_16_Exception_Handling.*" />
+          <option name="PATTERN" value="ex_17_Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,12 +316,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="try_catch_finally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_16_Exception_Handling.try_catch_finally" />
+    <configuration name="Generics_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_17_Generics.Generics_Class" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_16_Exception_Handling.*" />
+          <option name="PATTERN" value="ex_17_Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,12 +329,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="try_catch_finally_ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_16_Exception_Handling.try_catch_finally_ex" />
+    <configuration name="Generics_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_17_Generics.Generics_Class" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_16_Exception_Handling.*" />
+          <option name="PATTERN" value="ex_17_Generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Generics_ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_17_Generics.Generics_ex" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_17_Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -344,19 +356,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.custom_exception" />
-      <item itemvalue="Application.throwsVSthrow_ex" />
-      <item itemvalue="Application.try_catch_finally" />
-      <item itemvalue="Application.try_catch_finally_ex" />
-      <item itemvalue="Application.exception_Handling_3" />
+      <item itemvalue="Application.Generics_Class" />
+      <item itemvalue="Application.Generics_Class (1)" />
+      <item itemvalue="Application.Generics_Class (2)" />
+      <item itemvalue="Application.Generics_Class (3)" />
+      <item itemvalue="Application.Generics_ex" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.custom_exception" />
-        <item itemvalue="Application.throwsVSthrow_ex" />
-        <item itemvalue="Application.try_catch_finally_ex" />
-        <item itemvalue="Application.try_catch_finally" />
-        <item itemvalue="Application.exception_Handling_3" />
+        <item itemvalue="Application.Generics_Class (3)" />
+        <item itemvalue="Application.Generics_Class (2)" />
+        <item itemvalue="Application.Generics_Class (1)" />
+        <item itemvalue="Application.Generics_Class" />
+        <item itemvalue="Application.Generics_ex" />
       </list>
     </recent_temporary>
   </component>
@@ -367,14 +379,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Updating String Buffer Code">
-      <option name="closed" value="true" />
-      <created>1752412297949</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1752412297949</updated>
     </task>
     <task id="LOCAL-00047" summary="Updating String Reverse Code">
       <option name="closed" value="true" />
@@ -760,7 +764,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753613107138</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Updating Exception Handling code">
+      <option name="closed" value="true" />
+      <created>1753636974689</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1753636974689</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -775,7 +787,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updating String Builder Code" />
     <MESSAGE value="Updating String Buffer Code" />
     <MESSAGE value="Updating String Reverse Code" />
     <MESSAGE value="Updating vowel and consonants Code" />
@@ -800,7 +811,8 @@
     <MESSAGE value="Updating Wrapper Class code" />
     <MESSAGE value="Updating Object classes toString() and equals() code" />
     <MESSAGE value="Updating Keywords, Access Modifier and Exception Handling code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating Keywords, Access Modifier and Exception Handling code" />
+    <MESSAGE value="Updating Exception Handling code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating Exception Handling code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
