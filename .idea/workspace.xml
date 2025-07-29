@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating List and ArrayList code">
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/List_Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/Set_HashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/Set_LinkedHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/Set_TreeSet.java" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating HashSet, LinkedHashSet and TreeSet code">
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/Interface_Comparable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,6 +140,12 @@
     "Application.InputUsingBufferReader.executor": "Run",
     "Application.InputUsingConsole.executor": "Run",
     "Application.InputUsingScanner.executor": "Run",
+    "Application.Interface_Comparable (1).executor": "Run",
+    "Application.Interface_Comparable (2).executor": "Run",
+    "Application.Interface_Comparable (3).executor": "Run",
+    "Application.Interface_Comparable (4).executor": "Run",
+    "Application.Interface_Comparable (5).executor": "Run",
+    "Application.Interface_Comparable.executor": "Run",
     "Application.KW_enum (1).executor": "Run",
     "Application.KW_enum (2).executor": "Run",
     "Application.KW_enum (3).executor": "Run",
@@ -276,35 +279,14 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Set_TreeSet">
-    <configuration name="Generics_Class (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_17_Generics.Generics_Class" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_17_Generics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Generics_Class (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_17_Generics.Generics_Class" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_17_Generics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="List_NestedArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.List_NestedArrayList" />
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="ex_15_Collections" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Interface_Comparable">
+    <configuration name="Interface_Comparable (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.Interface_Comparable" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -316,8 +298,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="List_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.List_Stack" />
+    <configuration name="Interface_Comparable (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.Interface_Comparable" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -329,8 +311,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Set_HashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.Set_HashSet" />
+    <configuration name="Interface_Comparable (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.Interface_Comparable" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -342,8 +324,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Set_LinkedHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.Set_LinkedHashSet" />
+    <configuration name="Interface_Comparable (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.Interface_Comparable" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -355,8 +337,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Set_TreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.Set_TreeSet" />
+    <configuration name="Interface_Comparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.Interface_Comparable" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -369,19 +351,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.List_NestedArrayList" />
-      <item itemvalue="Application.List_Stack" />
-      <item itemvalue="Application.Set_HashSet" />
-      <item itemvalue="Application.Set_LinkedHashSet" />
-      <item itemvalue="Application.Set_TreeSet" />
+      <item itemvalue="Application.Interface_Comparable (3)" />
+      <item itemvalue="Application.Interface_Comparable (4)" />
+      <item itemvalue="Application.Interface_Comparable (5)" />
+      <item itemvalue="Application.Interface_Comparable" />
+      <item itemvalue="Application.Interface_Comparable (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Set_TreeSet" />
-        <item itemvalue="Application.Set_LinkedHashSet" />
-        <item itemvalue="Application.Set_HashSet" />
-        <item itemvalue="Application.List_Stack" />
-        <item itemvalue="Application.List_NestedArrayList" />
+        <item itemvalue="Application.Interface_Comparable" />
+        <item itemvalue="Application.Interface_Comparable (1)" />
+        <item itemvalue="Application.Interface_Comparable (5)" />
+        <item itemvalue="Application.Interface_Comparable (4)" />
+        <item itemvalue="Application.Interface_Comparable (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -392,14 +374,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Updating vowel and consonants Code">
-      <option name="closed" value="true" />
-      <created>1752437653739</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1752437653740</updated>
     </task>
     <task id="LOCAL-00051" summary="Updating vowel and consonants Code">
       <option name="closed" value="true" />
@@ -785,7 +759,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753721823128</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="Updating HashSet, LinkedHashSet and TreeSet code">
+      <option name="closed" value="true" />
+      <created>1753805384607</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1753805384607</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -800,7 +782,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updating Arrays Code" />
     <MESSAGE value="Updating OOPs Code" />
     <MESSAGE value="Updating constructor Code" />
     <MESSAGE value="Updating constructor overloading Code" />
@@ -825,7 +806,8 @@
     <MESSAGE value="Updating Generics class and method code" />
     <MESSAGE value="Updating Multithreading basic Example code" />
     <MESSAGE value="Updating List and ArrayList code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating List and ArrayList code" />
+    <MESSAGE value="Updating HashSet, LinkedHashSet and TreeSet code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating HashSet, LinkedHashSet and TreeSet code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
