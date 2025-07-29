@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Multithreading basic Example code">
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/List_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/List_LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/List_NestedArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/List_Vector.java" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating List and ArrayList code">
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/List_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/Set_HashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/Set_LinkedHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/Set_TreeSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_15_Collections/wrapperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_15_Collections/WrapperClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,6 +172,7 @@
     "Application.List_ArrayList.executor": "Run",
     "Application.List_LinkedList.executor": "Run",
     "Application.List_NestedArrayList.executor": "Run",
+    "Application.List_Stack.executor": "Run",
     "Application.List_Vector.executor": "Run",
     "Application.Literals.executor": "Run",
     "Application.Logical_Operators.executor": "Run",
@@ -227,6 +225,9 @@
     "Application.PublicAM.executor": "Run",
     "Application.Relational_Operators.executor": "Run",
     "Application.Replacing_args_in_Main.executor": "Run",
+    "Application.Set_HashSet.executor": "Run",
+    "Application.Set_LinkedHashSet.executor": "Run",
+    "Application.Set_TreeSet.executor": "Run",
     "Application.Single_Inheritance.executor": "Run",
     "Application.Single_Inheritance_QA_Ex.executor": "Run",
     "Application.StringBuffer_Methods.executor": "Run",
@@ -275,7 +276,7 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.List_NestedArrayList">
+  <component name="RunManager" selected="Application.Set_TreeSet">
     <configuration name="Generics_Class (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_17_Generics.Generics_Class" />
       <module name="Java4SDET" />
@@ -302,45 +303,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.List" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_15_Collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="List_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.List_ArrayList" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_15_Collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="List_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.List_LinkedList" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_15_Collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="List_NestedArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_15_Collections.List_NestedArrayList" />
       <module name="Java4SDET" />
@@ -354,8 +316,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="List_Vector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.List_Vector" />
+    <configuration name="List_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.List_Stack" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_15_Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Set_HashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.Set_HashSet" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_15_Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Set_LinkedHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.Set_LinkedHashSet" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_15_Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Set_TreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.Set_TreeSet" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -368,19 +369,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.List" />
-      <item itemvalue="Application.List_ArrayList" />
-      <item itemvalue="Application.List_LinkedList" />
       <item itemvalue="Application.List_NestedArrayList" />
-      <item itemvalue="Application.List_Vector" />
+      <item itemvalue="Application.List_Stack" />
+      <item itemvalue="Application.Set_HashSet" />
+      <item itemvalue="Application.Set_LinkedHashSet" />
+      <item itemvalue="Application.Set_TreeSet" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Set_TreeSet" />
+        <item itemvalue="Application.Set_LinkedHashSet" />
+        <item itemvalue="Application.Set_HashSet" />
+        <item itemvalue="Application.List_Stack" />
         <item itemvalue="Application.List_NestedArrayList" />
-        <item itemvalue="Application.List_Vector" />
-        <item itemvalue="Application.List_LinkedList" />
-        <item itemvalue="Application.List_ArrayList" />
-        <item itemvalue="Application.List" />
       </list>
     </recent_temporary>
   </component>
@@ -391,14 +392,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Updating String Reverse Code">
-      <option name="closed" value="true" />
-      <created>1752436000850</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1752436000850</updated>
     </task>
     <task id="LOCAL-00050" summary="Updating vowel and consonants Code">
       <option name="closed" value="true" />
@@ -784,7 +777,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753686032727</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Updating List and ArrayList code">
+      <option name="closed" value="true" />
+      <created>1753721823128</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1753721823128</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -799,7 +800,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updating vowel and consonants Code" />
     <MESSAGE value="Updating Arrays Code" />
     <MESSAGE value="Updating OOPs Code" />
     <MESSAGE value="Updating constructor Code" />
@@ -824,7 +824,8 @@
     <MESSAGE value="Updating Exception Handling code" />
     <MESSAGE value="Updating Generics class and method code" />
     <MESSAGE value="Updating Multithreading basic Example code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating Multithreading basic Example code" />
+    <MESSAGE value="Updating List and ArrayList code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating List and ArrayList code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
