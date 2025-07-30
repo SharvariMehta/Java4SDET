@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Comparable Interface code">
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/Interface_Comparator.java" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Comparator Interface code">
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/Map_HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/Queue_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/Queue_PriorityQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,6 +149,7 @@
     "Application.Interface_Comparable (4).executor": "Run",
     "Application.Interface_Comparable (5).executor": "Run",
     "Application.Interface_Comparable.executor": "Run",
+    "Application.Interface_Comparator (1).executor": "Run",
     "Application.Interface_Comparator.executor": "Run",
     "Application.KW_enum (1).executor": "Run",
     "Application.KW_enum (2).executor": "Run",
@@ -227,6 +231,8 @@
     "Application.PublicAM (3).executor": "Run",
     "Application.PublicAM (4).executor": "Run",
     "Application.PublicAM.executor": "Run",
+    "Application.Queue_LinkedList.executor": "Run",
+    "Application.Queue_PriorityQueue.executor": "Run",
     "Application.Relational_Operators.executor": "Run",
     "Application.Replacing_args_in_Main.executor": "Run",
     "Application.Set_HashSet.executor": "Run",
@@ -285,33 +291,7 @@
       <recent name="ex_15_Collections" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Interface_Comparator">
-    <configuration name="Interface_Comparable (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.Interface_Comparable" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_15_Collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Interface_Comparable (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.Interface_Comparable" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_15_Collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Queue_LinkedList">
     <configuration name="Interface_Comparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_15_Collections.Interface_Comparable" />
       <module name="Java4SDET" />
@@ -351,20 +331,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Queue_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.Queue_LinkedList" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_15_Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Queue_PriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.Queue_PriorityQueue" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_15_Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Interface_Comparable (5)" />
+      <item itemvalue="Application.Queue_LinkedList" />
+      <item itemvalue="Application.Queue_PriorityQueue" />
       <item itemvalue="Application.Interface_Comparator" />
       <item itemvalue="Application.Interface_Comparator (1)" />
       <item itemvalue="Application.Interface_Comparable" />
-      <item itemvalue="Application.Interface_Comparable (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Queue_LinkedList" />
+        <item itemvalue="Application.Queue_PriorityQueue" />
         <item itemvalue="Application.Interface_Comparator" />
         <item itemvalue="Application.Interface_Comparator (1)" />
         <item itemvalue="Application.Interface_Comparable" />
-        <item itemvalue="Application.Interface_Comparable (1)" />
-        <item itemvalue="Application.Interface_Comparable (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -375,14 +381,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00052" summary="Updating vowel and consonants Code">
-      <option name="closed" value="true" />
-      <created>1752512861181</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1752512861182</updated>
     </task>
     <task id="LOCAL-00053" summary="Updating Arrays Code">
       <option name="closed" value="true" />
@@ -768,7 +766,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753810499899</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="Updating Comparator Interface code">
+      <option name="closed" value="true" />
+      <created>1753811475565</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1753811475565</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -783,7 +789,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updating constructor Code" />
     <MESSAGE value="Updating constructor overloading Code" />
     <MESSAGE value="Updating readme file Code" />
     <MESSAGE value="Updating Inheritance Code" />
@@ -808,7 +813,8 @@
     <MESSAGE value="Updating List and ArrayList code" />
     <MESSAGE value="Updating HashSet, LinkedHashSet and TreeSet code" />
     <MESSAGE value="Updating Comparable Interface code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating Comparable Interface code" />
+    <MESSAGE value="Updating Comparator Interface code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating Comparator Interface code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
