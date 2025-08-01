@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Map Interface code">
-      <change afterPath="$PROJECT_DIR$/src/ex_18_Multithreading/Multhreading_Basic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_18_Multithreading/Multithreading_Ex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_18_Multithreading/Multithreading_extends.java" afterDir="false" />
-    </list>
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating MultiThreading code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -384,14 +380,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00057" summary="Updating Arrays Code">
-      <option name="closed" value="true" />
-      <created>1752635874022</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1752635874022</updated>
     </task>
     <task id="LOCAL-00058" summary="Updating Arrays Code">
       <option name="closed" value="true" />
@@ -777,7 +765,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753981339842</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="Updating MultiThreading code">
+      <option name="closed" value="true" />
+      <created>1754055610971</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1754055610971</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -792,7 +788,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updating Inheritance Code" />
     <MESSAGE value="Updating Polymorphism Code" />
     <MESSAGE value="Updating Encapsulation Code" />
     <MESSAGE value="Updating Access Modifier Code" />
@@ -817,7 +812,8 @@
     <MESSAGE value="Updating Comparator Interface code" />
     <MESSAGE value="Updating Queue Interface code" />
     <MESSAGE value="Updating Map Interface code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating Map Interface code" />
+    <MESSAGE value="Updating MultiThreading code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating MultiThreading code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
