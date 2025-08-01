@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Map Interface code">
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/Map_HashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Collections/Map_TreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18_Multithreading/Multhreading_Basic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_18_Multithreading/Multithreading_Ex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_18_Multithreading/Multithreading_extends.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,6 +197,7 @@
     "Application.Method_OverRiding_QA_Ex (2).executor": "Run",
     "Application.Method_OverRiding_QA_Ex.executor": "Run",
     "Application.Method_Overriding.executor": "Run",
+    "Application.Multhreading_Basic.executor": "Run",
     "Application.MultiLevel_Inheritance.executor": "Run",
     "Application.Multiple_Inheritance.executor": "Run",
     "Application.MultipleinputViaConsole.executor": "Run",
@@ -293,7 +294,7 @@
       <recent name="ex_15_Collections" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Map_TreeMap">
+  <component name="RunManager" selected="Application.Multhreading_Basic">
     <configuration name="Map_HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_15_Collections.Map_HashMap" />
       <module name="Java4SDET" />
@@ -346,12 +347,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queue_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_Collections.Queue_LinkedList" />
+    <configuration name="Multhreading_Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_18_Multithreading.Multhreading_Basic" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_15_Collections.*" />
+          <option name="PATTERN" value="ex_18_Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -362,17 +363,17 @@
     <list>
       <item itemvalue="Application.Map_HashTable" />
       <item itemvalue="Application.Map_TreeMap" />
+      <item itemvalue="Application.Multhreading_Basic" />
       <item itemvalue="Application.Map_HashMap" />
       <item itemvalue="Application.Map_LinkedHashMap" />
-      <item itemvalue="Application.Queue_LinkedList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Multhreading_Basic" />
         <item itemvalue="Application.Map_TreeMap" />
         <item itemvalue="Application.Map_HashTable" />
         <item itemvalue="Application.Map_LinkedHashMap" />
         <item itemvalue="Application.Map_HashMap" />
-        <item itemvalue="Application.Queue_LinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -383,14 +384,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Updating Arrays Code">
-      <option name="closed" value="true" />
-      <created>1752634834761</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1752634834761</updated>
     </task>
     <task id="LOCAL-00057" summary="Updating Arrays Code">
       <option name="closed" value="true" />
@@ -776,7 +769,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753897911854</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="Updating Map Interface code">
+      <option name="closed" value="true" />
+      <created>1753981339840</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1753981339842</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
