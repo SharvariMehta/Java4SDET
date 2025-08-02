@@ -1,6 +1,6 @@
-package ex_18_Multithreading;
+package ex_18_MultiThreading;
 
-public class Multithreading_Basic {    // It demonstrates how two threads can run independently:
+public class MultiThreading_Basic {    // It demonstrates how two threads can run independently:
     public static void main(String[] args) {
         Thread t = new Thread();
         for(int i=0; i<5; i++)
