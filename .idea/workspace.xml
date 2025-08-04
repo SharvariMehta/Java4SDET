@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating MultiThreading code">
-      <change afterPath="$PROJECT_DIR$/src/ex_18_MultiThreading/MultiThreading_Finalize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_MultiThreading/MultiThreading_LocalThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_MultiThreading/MultiThreading_Wait_Notify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_MultiThreading/MultiThreading_extends.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_MultiThreading/MultiThreading_miliWaiting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_MultiThreading/MultiThreading_nanoWaiting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_MultiThreading/MultiThreading_runnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_18_MultiThreading/Thread_DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Array_Frequency_Checker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_18_Multithreading/Multithreading_Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_18_MultiThreading/MultiThreading_Basic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +78,7 @@
     "Application.Array_2nd_Highest.executor": "Run",
     "Application.Array_Declaration.executor": "Run",
     "Application.Array_ForEach_Loop.executor": "Run",
+    "Application.Array_Frequency_Checker.executor": "Run",
     "Application.Array_Input.executor": "Run",
     "Application.Array_Jagged.executor": "Run",
     "Application.Array_Max_Min.executor": "Run",
@@ -317,7 +309,20 @@
       <recent name="ex_15_Collections" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MultiThreading_LocalThread">
+  <component name="RunManager" selected="Application.Array_Frequency_Checker">
+    <configuration name="Array_Frequency_Checker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.Array_Frequency_Checker" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_20_Java_Codes_1_Normal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MultiThreading_LocalThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_18_MultiThreading.MultiThreading_LocalThread" />
       <module name="Java4SDET" />
@@ -333,19 +338,6 @@
     </configuration>
     <configuration name="MultiThreading_miliWaiting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_18_MultiThreading.MultiThreading_miliWaiting" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_18_MultiThreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultiThreading_nanoWaiting (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_18_MultiThreading.MultiThreading_nanoWaiting" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -384,19 +376,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Array_Frequency_Checker" />
       <item itemvalue="Application.MultiThreading_LocalThread" />
       <item itemvalue="Application.MultiThreading_miliWaiting" />
-      <item itemvalue="Application.MultiThreading_nanoWaiting (1)" />
       <item itemvalue="Application.MultiThreading_nanoWaiting (2)" />
       <item itemvalue="Application.MultiThreading_nanoWaiting (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array_Frequency_Checker" />
         <item itemvalue="Application.MultiThreading_LocalThread" />
         <item itemvalue="Application.MultiThreading_miliWaiting" />
         <item itemvalue="Application.MultiThreading_nanoWaiting (3)" />
         <item itemvalue="Application.MultiThreading_nanoWaiting (2)" />
-        <item itemvalue="Application.MultiThreading_nanoWaiting (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -407,14 +399,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00060" summary="Updating Arrays Code">
-      <option name="closed" value="true" />
-      <created>1752752452088</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1752752452089</updated>
     </task>
     <task id="LOCAL-00061" summary="Updating Arrays Code">
       <option name="closed" value="true" />
@@ -800,7 +784,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754072461157</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="Updating MultiThreading code">
+      <option name="closed" value="true" />
+      <created>1754134496447</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1754134496448</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
