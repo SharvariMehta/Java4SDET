@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating MultiThreading code">
-      <change afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Array_Frequency_Checker.java" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Array_Remove_Duplicates code">
+      <change afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Array_Remove_Duplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,261 +57,288 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AM_Default.executor": "Run",
-    "Application.AM_Private (1).executor": "Run",
-    "Application.AM_Private (2).executor": "Run",
-    "Application.AM_Private.executor": "Run",
-    "Application.AM_Protected (1).executor": "Run",
-    "Application.AM_Protected (2).executor": "Run",
-    "Application.AM_Protected.executor": "Run",
-    "Application.Abstraction_abstractClass (1).executor": "Run",
-    "Application.Abstraction_abstractClass.executor": "Run",
-    "Application.Abstraction_interface (1).executor": "Run",
-    "Application.Abstraction_interface (2).executor": "Run",
-    "Application.Abstraction_interface.executor": "Run",
-    "Application.Age_Classification.executor": "Run",
-    "Application.Arithmetic_Operations_Functions.executor": "Run",
-    "Application.Arithmetic_Operators.executor": "Run",
-    "Application.Array_2D.executor": "Run",
-    "Application.Array_2nd_Highest.executor": "Run",
-    "Application.Array_Declaration.executor": "Run",
-    "Application.Array_ForEach_Loop.executor": "Run",
-    "Application.Array_Frequency_Checker.executor": "Run",
-    "Application.Array_Input.executor": "Run",
-    "Application.Array_Jagged.executor": "Run",
-    "Application.Array_Max_Min.executor": "Run",
-    "Application.Array_Odd_Even.executor": "Run",
-    "Application.Array_Reverse.executor": "Run",
-    "Application.Array_Sum.executor": "Run",
-    "Application.Array_Using_CLI.executor": "Run",
-    "Application.Assignment_Operators.executor": "Run",
-    "Application.Bitwise_Operators.executor": "Run",
-    "Application.Break_Keyword.executor": "Run",
-    "Application.Changing_Square_Brackets.executor": "Run",
-    "Application.Classes_And_Objects.executor": "Run",
-    "Application.Classes_And_Objects_1.executor": "Run",
-    "Application.Classes_And_Objects_2 (1).executor": "Run",
-    "Application.Classes_And_Objects_2 (2).executor": "Run",
-    "Application.Classes_And_Objects_2.executor": "Run",
-    "Application.Constructor_Overloading (1).executor": "Run",
-    "Application.Constructor_Overloading.executor": "Run",
-    "Application.Continue_Keyword.executor": "Run",
-    "Application.Count_Vowels.executor": "Run",
-    "Application.Count_Vowels_Consonants.executor": "Run",
-    "Application.DecrementOperator.executor": "Run",
-    "Application.Default_Constructor.executor": "Run",
-    "Application.Default_Constructor_Object.executor": "Run",
-    "Application.Do_While_Loop.executor": "Run",
-    "Application.Encapsulation_Demo (1).executor": "Run",
-    "Application.Encapsulation_Demo (2).executor": "Run",
-    "Application.Encapsulation_Demo (3).executor": "Run",
-    "Application.Encapsulation_Demo (4).executor": "Run",
-    "Application.Encapsulation_Demo (5).executor": "Run",
-    "Application.Encapsulation_Demo.executor": "Run",
-    "Application.Even_For_Loop.executor": "Run",
-    "Application.Even_Odd.executor": "Run",
-    "Application.Even_Odd_Continue.executor": "Run",
-    "Application.Even_Odd_Using_For_Loop.executor": "Run",
-    "Application.Explicit_TypeCasting.executor": "Run",
-    "Application.Expression_MathFunction.executor": "Run",
-    "Application.Factorial_Calculator.executor": "Run",
-    "Application.Fibonacci_Calculator.executor": "Run",
-    "Application.Final_Keyword (1).executor": "Run",
-    "Application.Final_Keyword (2).executor": "Run",
-    "Application.Final_Keyword.executor": "Run",
-    "Application.FizzBuzz_Test.executor": "Run",
-    "Application.For_Loop.executor": "Run",
-    "Application.Four_Types_Of_Functions.executor": "Run",
-    "Application.Function_With_Parameters.executor": "Run",
-    "Application.Function_With_ReturnType.executor": "Run",
-    "Application.Generics_Class (1).executor": "Run",
-    "Application.Generics_Class (2).executor": "Run",
-    "Application.Generics_Class (3).executor": "Run",
-    "Application.Generics_Class.executor": "Run",
-    "Application.Generics_ex.executor": "Run",
-    "Application.Grade_Calculator.executor": "Run",
-    "Application.Guessing_Game.executor": "Run",
-    "Application.HelloWorld.executor": "Run",
-    "Application.Hierarchial_Inheritance.executor": "Run",
-    "Application.IfElseCondition.executor": "Debug",
-    "Application.Implicit_TypeCasting.executor": "Run",
-    "Application.IncrementOperators.executor": "Run",
-    "Application.InputUsingBufferReader.executor": "Run",
-    "Application.InputUsingConsole.executor": "Run",
-    "Application.InputUsingScanner.executor": "Run",
-    "Application.Interface_Comparable (1).executor": "Run",
-    "Application.Interface_Comparable (2).executor": "Run",
-    "Application.Interface_Comparable (3).executor": "Run",
-    "Application.Interface_Comparable (4).executor": "Run",
-    "Application.Interface_Comparable (5).executor": "Run",
-    "Application.Interface_Comparable.executor": "Run",
-    "Application.Interface_Comparator (1).executor": "Run",
-    "Application.Interface_Comparator.executor": "Run",
-    "Application.KW_enum (1).executor": "Run",
-    "Application.KW_enum (2).executor": "Run",
-    "Application.KW_enum (3).executor": "Run",
-    "Application.KW_enum.executor": "Run",
-    "Application.KW_enum_QA_ex.executor": "Run",
-    "Application.KW_nonstatic_IIB (1).executor": "Run",
-    "Application.KW_nonstatic_IIB (2).executor": "Run",
-    "Application.KW_nonstatic_IIB (3).executor": "Run",
-    "Application.KW_nonstatic_IIB.executor": "Run",
-    "Application.KW_static (1).executor": "Run",
-    "Application.KW_static (2).executor": "Run",
-    "Application.KW_static.executor": "Run",
-    "Application.KW_static2 (1).executor": "Run",
-    "Application.KW_static2 (2).executor": "Run",
-    "Application.KW_static2.executor": "Run",
-    "Application.KW_static_SIB (1).executor": "Run",
-    "Application.KW_static_SIB.executor": "Run",
-    "Application.KW_super (1).executor": "Run",
-    "Application.KW_super (2).executor": "Run",
-    "Application.KW_super (3).executor": "Run",
-    "Application.KW_super.executor": "Run",
-    "Application.KW_this (1).executor": "Debug",
-    "Application.KW_this.executor": "Run",
-    "Application.Keyword_Identifier.executor": "Run",
-    "Application.Leap_Year_Calculator.executor": "Run",
-    "Application.List.executor": "Run",
-    "Application.List_ArrayList.executor": "Run",
-    "Application.List_LinkedList.executor": "Run",
-    "Application.List_NestedArrayList.executor": "Run",
-    "Application.List_Stack.executor": "Run",
-    "Application.List_Vector.executor": "Run",
-    "Application.Literals.executor": "Run",
-    "Application.Logical_Operators.executor": "Run",
-    "Application.MAXNumberViaConsole.executor": "Run",
-    "Application.Main_Varargs.executor": "Run",
-    "Application.Main_Without_Space.executor": "Run",
-    "Application.Map_HashMap.executor": "Run",
-    "Application.Map_HashTable.executor": "Run",
-    "Application.Map_LinkedHashMap.executor": "Run",
-    "Application.Map_TreeMap.executor": "Run",
-    "Application.Math.executor": "Run",
-    "Application.Math_Class.executor": "Run",
-    "Application.Max_ThreeNumbers.executor": "Run",
-    "Application.Method_OverRiding.executor": "Run",
-    "Application.Method_OverRiding_QA_Ex (1).executor": "Run",
-    "Application.Method_OverRiding_QA_Ex (2).executor": "Run",
-    "Application.Method_OverRiding_QA_Ex.executor": "Run",
-    "Application.Method_Overriding.executor": "Run",
-    "Application.Multhreading_Basic.executor": "Run",
-    "Application.MultiLevel_Inheritance.executor": "Run",
-    "Application.MultiThreading_LocalThread.executor": "Run",
-    "Application.MultiThreading_Wait_Notify (1).executor": "Run",
-    "Application.MultiThreading_Wait_Notify.executor": "Run",
-    "Application.MultiThreading_extends (1).executor": "Run",
-    "Application.MultiThreading_extends (2).executor": "Run",
-    "Application.MultiThreading_extends.executor": "Run",
-    "Application.MultiThreading_miliWaiting.executor": "Run",
-    "Application.MultiThreading_nanoWaiting (1).executor": "Run",
-    "Application.MultiThreading_nanoWaiting (2).executor": "Run",
-    "Application.MultiThreading_nanoWaiting (3).executor": "Run",
-    "Application.MultiThreading_nanoWaiting.executor": "Run",
-    "Application.MultiThreading_runnable.executor": "Run",
-    "Application.Multiple_Inheritance.executor": "Run",
-    "Application.MultipleinputViaConsole.executor": "Run",
-    "Application.Multiplication_Table.executor": "Run",
-    "Application.Multithreading_Ex.executor": "Run",
-    "Application.Multithreading_extends.executor": "Run",
-    "Application.Non_Primitive_Datatypes.executor": "Run",
-    "Application.Operators_Concatenation.executor": "Run",
-    "Application.OutputUsingPrintTypes.executor": "Run",
-    "Application.Palindrome_Check.executor": "Run",
-    "Application.Parameterized_Constructor (1).executor": "Run",
-    "Application.Parameterized_Constructor (2).executor": "Run",
-    "Application.Parameterized_Constructor (3).executor": "Run",
-    "Application.Parameterized_Constructor (4).executor": "Run",
-    "Application.Parameterized_Constructor (5).executor": "Run",
-    "Application.Parameterized_Constructor.executor": "Run",
-    "Application.Pattern_1.executor": "Run",
-    "Application.Pattern_10.executor": "Run",
-    "Application.Pattern_11.executor": "Run",
-    "Application.Pattern_12.executor": "Run",
-    "Application.Pattern_13.executor": "Run",
-    "Application.Pattern_14.executor": "Run",
-    "Application.Pattern_2.executor": "Run",
-    "Application.Pattern_3.executor": "Run",
-    "Application.Pattern_4.executor": "Run",
-    "Application.Pattern_5.executor": "Run",
-    "Application.Pattern_6.executor": "Run",
-    "Application.Pattern_7.executor": "Run",
-    "Application.Pattern_8.executor": "Run",
-    "Application.Pattern_9.executor": "Run",
-    "Application.Primitive_data_types.executor": "Run",
-    "Application.PrintTableof9Using_Printf.executor": "Run",
-    "Application.PublicAM (1).executor": "Run",
-    "Application.PublicAM (2).executor": "Run",
-    "Application.PublicAM (3).executor": "Run",
-    "Application.PublicAM (4).executor": "Run",
-    "Application.PublicAM.executor": "Run",
-    "Application.Queue_LinkedList.executor": "Run",
-    "Application.Queue_PriorityQueue.executor": "Run",
-    "Application.Relational_Operators.executor": "Run",
-    "Application.Replacing_args_in_Main.executor": "Run",
-    "Application.Set_HashSet.executor": "Run",
-    "Application.Set_LinkedHashSet.executor": "Run",
-    "Application.Set_TreeSet.executor": "Run",
-    "Application.Single_Inheritance.executor": "Run",
-    "Application.Single_Inheritance_QA_Ex.executor": "Run",
-    "Application.StringBuffer_Methods.executor": "Run",
-    "Application.StringBuilder_Methods.executor": "Run",
-    "Application.StringReverse_WoFunction.executor": "Run",
-    "Application.String_Concatenation.executor": "Run",
-    "Application.String_Conversion.executor": "Run",
-    "Application.String_Declaration.executor": "Run",
-    "Application.String_Immutability.executor": "Run",
-    "Application.String_Initialization.executor": "Run",
-    "Application.String_Operations.executor": "Run",
-    "Application.String_Reverse.executor": "Run",
-    "Application.String_Reverse_Using_SB.executor": "Run",
-    "Application.Switch_Case.executor": "Run",
-    "Application.Switch_Case_Arrows.executor": "Run",
-    "Application.Ternary_Operator.executor": "Run",
-    "Application.Thread_DeadLock (1).executor": "Run",
-    "Application.Thread_DeadLock.executor": "Run",
-    "Application.Triangle_Classifier.executor": "Run",
-    "Application.Two_Main_Functions.executor": "Run",
-    "Application.Unary_Operators.executor": "Run",
-    "Application.Variables.executor": "Run",
-    "Application.While_Loop.executor": "Run",
-    "Application.custom_exception.executor": "Run",
-    "Application.equals_Method.executor": "Run",
-    "Application.exception_Handling.executor": "Run",
-    "Application.exception_Handling_2.executor": "Run",
-    "Application.exception_Handling_3.executor": "Run",
-    "Application.ifCondition.executor": "Run",
-    "Application.list_ex.executor": "Run",
-    "Application.secondMainFunction.executor": "Run",
-    "Application.throwsVSthrow_ex.executor": "Run",
-    "Application.throws_ex.executor": "Run",
-    "Application.toString_Method.executor": "Run",
-    "Application.try_catch_finally.executor": "Run",
-    "Application.try_catch_finally_ex.executor": "Run",
-    "Application.unchecked_ExceptionHandling.executor": "Run",
-    "Application.wrapperClass (1).executor": "Run",
-    "Application.wrapperClass (2).executor": "Run",
-    "Application.wrapperClass.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "ToolWindow.Run.ShowToolbar": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Sharvari Mehta/IdeaProjects/Java4SDET",
-    "onboarding.tips.debug.path": "C:/Users/Sharvari Mehta/IdeaProjects/Java4SDET/src/Main.java",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AM_Default.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AM_Private (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.AM_Private (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.AM_Private.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AM_Protected (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.AM_Protected (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.AM_Protected.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Abstraction_abstractClass (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Abstraction_abstractClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Abstraction_interface (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Abstraction_interface (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Abstraction_interface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Age_Classification.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arithmetic_Operations_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arithmetic_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_2D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_2nd_Highest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_Declaration.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_ForEach_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_Frequency_Checker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_Input.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_Jagged.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_Max_Min.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_Odd_Even.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_Remove_Duplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_Using_CLI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assignment_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bitwise_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Break_Keyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Changing_Square_Brackets.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Classes_And_Objects.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Classes_And_Objects_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Classes_And_Objects_2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Classes_And_Objects_2 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Classes_And_Objects_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor_Overloading (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor_Overloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Continue_Keyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_Vowels.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_Vowels_Consonants.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DecrementOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Default_Constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Default_Constructor_Object.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Do_While_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encapsulation_Demo (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encapsulation_Demo (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encapsulation_Demo (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encapsulation_Demo (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encapsulation_Demo (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encapsulation_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Even_For_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Even_Odd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Even_Odd_Continue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Even_Odd_Using_For_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Explicit_TypeCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Expression_MathFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial_Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci_Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Final_Keyword (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Final_Keyword (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Final_Keyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FizzBuzz_Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.For_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Four_Types_Of_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Function_With_Parameters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Function_With_ReturnType.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generics_Class (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generics_Class (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generics_Class (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generics_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generics_ex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Grade_Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Guessing_Game.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hierarchial_Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfElseCondition.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Implicit_TypeCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IncrementOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InputUsingBufferReader.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InputUsingConsole.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InputUsingScanner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface_Comparable (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface_Comparable (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface_Comparable (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface_Comparable (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface_Comparable (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface_Comparable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface_Comparator (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface_Comparator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_enum (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_enum (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_enum (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_enum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_enum_QA_ex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_nonstatic_IIB (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_nonstatic_IIB (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_nonstatic_IIB (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_nonstatic_IIB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_static (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_static (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_static.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_static2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_static2 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_static2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_static_SIB (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_static_SIB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_super (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_super (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_super (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_super.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KW_this (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.KW_this.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Keyword_Identifier.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Leap_Year_Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.List.executor&quot;: &quot;Run&quot;,
+    &quot;Application.List_ArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.List_LinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.List_NestedArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.List_Stack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.List_Vector.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Logical_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MAXNumberViaConsole.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_Varargs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_Without_Space.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Map_HashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Map_HashTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Map_LinkedHashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Map_TreeMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Math.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Math_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Max_ThreeNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method_OverRiding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method_OverRiding_QA_Ex (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method_OverRiding_QA_Ex (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method_OverRiding_QA_Ex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method_Overriding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multhreading_Basic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiLevel_Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThreading_LocalThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThreading_Wait_Notify (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThreading_Wait_Notify.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThreading_extends (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThreading_extends (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThreading_extends.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThreading_miliWaiting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThreading_nanoWaiting (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThreading_nanoWaiting (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThreading_nanoWaiting (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThreading_nanoWaiting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThreading_runnable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multiple_Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultipleinputViaConsole.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multiplication_Table.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multithreading_Ex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multithreading_extends.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Non_Primitive_Datatypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operators_Concatenation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OutputUsingPrintTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome_Check.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Parameterized_Constructor (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Parameterized_Constructor (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Parameterized_Constructor (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Parameterized_Constructor (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Parameterized_Constructor (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Parameterized_Constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Primitive_data_types.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintTableof9Using_Printf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PublicAM (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.PublicAM (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.PublicAM (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.PublicAM (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.PublicAM.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Queue_LinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Queue_PriorityQueue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Relational_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Replacing_args_in_Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Set_HashSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Set_LinkedHashSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Set_TreeSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Single_Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Single_Inheritance_QA_Ex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBuffer_Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBuilder_Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringReverse_WoFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_Concatenation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_Conversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_Declaration.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_Immutability.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_Initialization.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_Operations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_Reverse_Using_SB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch_Case.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch_Case_Arrows.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ternary_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Thread_DeadLock (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Thread_DeadLock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Triangle_Classifier.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Two_Main_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unary_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.custom_exception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.equals_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exception_Handling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exception_Handling_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exception_Handling_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ifCondition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.list_ex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.secondMainFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.throwsVSthrow_ex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.throws_ex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.toString_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.try_catch_finally.executor&quot;: &quot;Run&quot;,
+    &quot;Application.try_catch_finally_ex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.unchecked_ExceptionHandling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.wrapperClass (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.wrapperClass (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.wrapperClass.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;ToolWindow.Run.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sharvari Mehta/IdeaProjects/Java4SDET&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Sharvari Mehta/IdeaProjects/Java4SDET/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="ex_15_Collections" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Array_Frequency_Checker">
+  <component name="RunManager" selected="Application.Array_SumAll">
     <configuration name="Array_Frequency_Checker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.Array_Frequency_Checker" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_20_Java_Codes_1_Normal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array_Remove_Duplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.Array_Remove_Duplicates" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_20_Java_Codes_1_Normal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array_SumAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.Array_SumAll" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
@@ -349,46 +376,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiThreading_nanoWaiting (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_18_MultiThreading.MultiThreading_nanoWaiting" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_18_MultiThreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultiThreading_nanoWaiting (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_18_MultiThreading.MultiThreading_nanoWaiting" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_18_MultiThreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.Array_SumAll" />
       <item itemvalue="Application.Array_Frequency_Checker" />
+      <item itemvalue="Application.Array_Remove_Duplicates" />
       <item itemvalue="Application.MultiThreading_LocalThread" />
       <item itemvalue="Application.MultiThreading_miliWaiting" />
-      <item itemvalue="Application.MultiThreading_nanoWaiting (2)" />
-      <item itemvalue="Application.MultiThreading_nanoWaiting (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array_SumAll" />
+        <item itemvalue="Application.Array_Remove_Duplicates" />
         <item itemvalue="Application.Array_Frequency_Checker" />
         <item itemvalue="Application.MultiThreading_LocalThread" />
         <item itemvalue="Application.MultiThreading_miliWaiting" />
-        <item itemvalue="Application.MultiThreading_nanoWaiting (3)" />
-        <item itemvalue="Application.MultiThreading_nanoWaiting (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -399,14 +400,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Updating Arrays Code">
-      <option name="closed" value="true" />
-      <created>1752773562779</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1752773562779</updated>
     </task>
     <task id="LOCAL-00062" summary="Updating Arrays Code">
       <option name="closed" value="true" />
@@ -792,7 +785,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754134496448</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="Updating Array_Frequency_Checker code">
+      <option name="closed" value="true" />
+      <created>1754328973737</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1754328973737</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -807,7 +808,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updating Polymorphism Code" />
     <MESSAGE value="Updating Encapsulation Code" />
     <MESSAGE value="Updating Access Modifier Code" />
     <MESSAGE value="Updating 'this' keyword Code" />
@@ -832,7 +832,8 @@
     <MESSAGE value="Updating Queue Interface code" />
     <MESSAGE value="Updating Map Interface code" />
     <MESSAGE value="Updating MultiThreading code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating MultiThreading code" />
+    <MESSAGE value="Updating Array_Frequency_Checker code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating Array_Frequency_Checker code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
