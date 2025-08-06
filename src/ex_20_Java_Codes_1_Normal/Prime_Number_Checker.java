@@ -21,7 +21,6 @@ public class Prime_Number_Checker {
         else
             System.out.println(n + " is not a prime number.");
     }
-
 }
 /*
 OUTPUT 1:

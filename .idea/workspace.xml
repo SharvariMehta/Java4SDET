@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating code to calculate sum of all elements in array">
-      <change afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Array_SmallestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/Prime_Number_Checker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating Prime number Code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -314,20 +310,7 @@
       <recent name="ex_15_Collections" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Prime_Number_Checker">
-    <configuration name="Array_Frequency_Checker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.Array_Frequency_Checker" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_20_Java_Codes_1_Normal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Fibonacci_Series">
     <configuration name="Array_Remove_Duplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.Array_Remove_Duplicates" />
       <module name="Java4SDET" />
@@ -367,6 +350,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Fibonacci_Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.Fibonacci_Series" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_20_Java_Codes_1_Normal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Prime_Number_Checker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.Prime_Number_Checker" />
       <module name="Java4SDET" />
@@ -383,17 +379,17 @@
     <list>
       <item itemvalue="Application.Array_SmallestNumber" />
       <item itemvalue="Application.Array_SumAll" />
+      <item itemvalue="Application.Fibonacci_Series" />
       <item itemvalue="Application.Prime_Number_Checker" />
-      <item itemvalue="Application.Array_Frequency_Checker" />
       <item itemvalue="Application.Array_Remove_Duplicates" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fibonacci_Series" />
         <item itemvalue="Application.Prime_Number_Checker" />
         <item itemvalue="Application.Array_SmallestNumber" />
         <item itemvalue="Application.Array_SumAll" />
         <item itemvalue="Application.Array_Remove_Duplicates" />
-        <item itemvalue="Application.Array_Frequency_Checker" />
       </list>
     </recent_temporary>
   </component>
@@ -404,14 +400,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00063" summary="Updating Arrays Code">
-      <option name="closed" value="true" />
-      <created>1752863242070</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1752863242070</updated>
     </task>
     <task id="LOCAL-00064" summary="Updating Arrays Code">
       <option name="closed" value="true" />
@@ -797,7 +785,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754501428135</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="Updating Prime number Code">
+      <option name="closed" value="true" />
+      <created>1754503526440</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1754503526440</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -812,7 +808,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updating Access Modifier Code" />
     <MESSAGE value="Updating 'this' keyword Code" />
     <MESSAGE value="Updating 'super' keyword Code" />
     <MESSAGE value="Updating Abstraction using interface Code" />
@@ -837,7 +832,8 @@
     <MESSAGE value="Updating MultiThreading code" />
     <MESSAGE value="Updating Array_Frequency_Checker code" />
     <MESSAGE value="Updating code to calculate sum of all elements in array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating code to calculate sum of all elements in array" />
+    <MESSAGE value="Updating Prime number Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating Prime number Code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
