@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating String Anagrams Code">
-      <change afterPath="$PROJECT_DIR$/src/ex_20_Java_Codes_1_Normal/String_CharCount.java" afterDir="false" />
+    <list default="true" id="4bfcb90d-bd8e-4ae1-a854-ab8da9b4b8c5" name="Changes" comment="Updating String CHAR Code">
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SDETQA/Reverse_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SDETQA/Reverse_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SDETQA/Swap_Numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -256,6 +260,8 @@
     "Application.Queue_PriorityQueue.executor": "Run",
     "Application.Relational_Operators.executor": "Run",
     "Application.Replacing_args_in_Main.executor": "Run",
+    "Application.Reverse_Integer.executor": "Run",
+    "Application.Reverse_String.executor": "Run",
     "Application.Set_HashSet.executor": "Run",
     "Application.Set_LinkedHashSet.executor": "Run",
     "Application.Set_TreeSet.executor": "Run",
@@ -274,6 +280,7 @@
     "Application.String_Operations.executor": "Run",
     "Application.String_Reverse.executor": "Run",
     "Application.String_Reverse_Using_SB.executor": "Run",
+    "Application.Swap_Numbers.executor": "Run",
     "Application.Switch_Case.executor": "Run",
     "Application.Switch_Case_Arrows.executor": "Run",
     "Application.Ternary_Operator.executor": "Run",
@@ -304,11 +311,13 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ToolWindow.Run.ShowToolbar": "false",
     "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Sharvari Mehta/IdeaProjects/Java4SDET",
     "onboarding.tips.debug.path": "C:/Users/Sharvari Mehta/IdeaProjects/Java4SDET/src/Main.java",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -316,13 +325,13 @@
       <recent name="ex_15_Collections" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.String_CharCount">
-    <configuration name="Array_SmallestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.Array_SmallestNumber" />
+  <component name="RunManager" selected="Application.Reverse_String">
+    <configuration name="Reverse_Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SDETQA.Reverse_Integer" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_20_Java_Codes_1_Normal.*" />
+          <option name="PATTERN" value="SDETQA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,25 +339,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci_Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.Fibonacci_Series" />
+    <configuration name="Reverse_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SDETQA.Reverse_String" />
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_20_Java_Codes_1_Normal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Prime_Number_Checker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20_Java_Codes_1_Normal.Prime_Number_Checker" />
-      <module name="Java4SDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_20_Java_Codes_1_Normal.*" />
+          <option name="PATTERN" value="SDETQA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -361,7 +357,7 @@
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_20_Java_Codes_1_Normal.*" />
+          <option name="PATTERN" value="SDETQA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,7 +370,20 @@
       <module name="Java4SDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_20_Java_Codes_1_Normal.*" />
+          <option name="PATTERN" value="SDETQA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Swap_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SDETQA.Swap_Numbers" />
+      <module name="Java4SDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SDETQA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -383,19 +392,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Reverse_Integer" />
+      <item itemvalue="Application.Reverse_String" />
+      <item itemvalue="Application.Swap_Numbers" />
       <item itemvalue="Application.String_CharCount" />
-      <item itemvalue="Application.Array_SmallestNumber" />
-      <item itemvalue="Application.Fibonacci_Series" />
-      <item itemvalue="Application.Prime_Number_Checker" />
       <item itemvalue="Application.String_Anagrams" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reverse_String" />
+        <item itemvalue="Application.Reverse_Integer" />
+        <item itemvalue="Application.Swap_Numbers" />
         <item itemvalue="Application.String_CharCount" />
         <item itemvalue="Application.String_Anagrams" />
-        <item itemvalue="Application.Fibonacci_Series" />
-        <item itemvalue="Application.Prime_Number_Checker" />
-        <item itemvalue="Application.Array_SmallestNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -406,14 +415,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747859409641</updated>
-    </task>
-    <task id="LOCAL-00066" summary="Updating constructor Code">
-      <option name="closed" value="true" />
-      <created>1752931661145</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1752931661145</updated>
     </task>
     <task id="LOCAL-00067" summary="Updating constructor Code">
       <option name="closed" value="true" />
@@ -799,7 +800,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754588075968</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="Updating String CHAR Code">
+      <option name="closed" value="true" />
+      <created>1754672276592</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1754672276594</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -814,7 +823,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updating Abstraction using interface Code" />
     <MESSAGE value="Updating Abstraction code" />
     <MESSAGE value="Updating IIB code" />
     <MESSAGE value="Updating SIB code" />
@@ -839,7 +847,8 @@
     <MESSAGE value="Updating Prime number Code" />
     <MESSAGE value="Updating Fibonacci Series Code" />
     <MESSAGE value="Updating String Anagrams Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating String Anagrams Code" />
+    <MESSAGE value="Updating String CHAR Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating String CHAR Code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
